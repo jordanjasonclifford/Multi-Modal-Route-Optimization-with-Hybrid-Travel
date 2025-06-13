@@ -41,14 +41,30 @@ def getDistance(A, B, m):
 paradise_coords = (36.0968, -115.1703)
 freemont_street_coords = (36.1699, -115.1398)
 
+museum_of_flight = (47.5185223071121, -122.296854586384)
+bellevue_square = (47.6157165377573, -122.203733607983)
+
 
 driving_distance = getDistance(paradise_coords, freemont_street_coords, "driving")
 walking_distance = getDistance(paradise_coords, freemont_street_coords, "walking")
 bicycling_distance = getDistance(paradise_coords, freemont_street_coords, "bicycling")
 transit_distance = getDistance(paradise_coords, freemont_street_coords, "transit")
 
+driving_distance2 = getDistance(museum_of_flight, bellevue_square, "driving")
+walking_distance2 = getDistance(museum_of_flight, bellevue_square, "walking")
+bicycling_distance2 = getDistance(museum_of_flight, bellevue_square, "bicycling")
+transit_distance2 = getDistance(museum_of_flight, bellevue_square, "transit")
 
+
+print("FROM PARADISE TO FREEMONT")
 print("Driving distance:", driving_distance, "meters")
 print("Walking distance:", walking_distance, "meters")
 print("Bicycling distance:", bicycling_distance, "meters")
 print("Transit distance:", transit_distance, "meters")
+
+
+print("Seattle case:")
+print("Driving distance:", driving_distance2, "meters")
+print("Walking distance:", walking_distance2, "meters")
+print("Bicycling distance:", bicycling_distance2, "meters")
+print("Transit distance:", transit_distance2, "meters")

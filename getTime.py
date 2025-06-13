@@ -38,10 +38,25 @@ def getTime(A, B, m):
 paradise_coords = (36.0968, -115.1703)
 freemont_street_coords = (36.1699, -115.1398)
 
+museum_of_flight = (47.5185223071121, -122.296854586384)
+bellevue_square = (47.6157165377573, -122.203733607983)
+
+
+
 
 driving_time = getTime(paradise_coords, freemont_street_coords, "driving")
 walking_time = getTime(paradise_coords, freemont_street_coords, "walking")
 
+driving_distance2 = getTime(museum_of_flight, bellevue_square, "driving")
+walking_distance2 = getTime(museum_of_flight, bellevue_square, "walking")
+bicycling_distance2 = getTime(museum_of_flight, bellevue_square, "bicycling")
+transit_distance2 = getTime(museum_of_flight, bellevue_square, "transit")
 
-print("Driving time:", driving_time, "seconds")
-print("Walking time:", walking_time, "seconds")
+print("Paradise to Freemont Driving time:", driving_time, "seconds")
+print("Paradise to Freemont Walking time:", walking_time, "seconds")
+
+print("Seattle case:")
+print("Driving distance:", driving_distance2, "meters")
+print("Walking distance:", walking_distance2, "meters")
+print("Bicycling distance:", bicycling_distance2, "meters")
+print("Transit distance:", transit_distance2, "meters")

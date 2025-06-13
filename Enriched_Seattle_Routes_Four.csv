@@ -1,0 +1,201 @@
+origin_place,origin_lat,origin_lng,destination_place,destination_lat,destination_lng,mode,duration_sec,distance_m
+Space Needle,47.62047587,-122.3492266,Fremont Troll,47.65105594,-122.3475007,driving,476,4413
+Space Needle,47.62047587,-122.3492266,Fremont Troll,47.65105594,-122.3475007,bicycling,1064,4514
+Space Needle,47.62047587,-122.3492266,Fremont Troll,47.65105594,-122.3475007,transit,1004,4339
+Space Needle,47.62047587,-122.3492266,Fremont Troll,47.65105594,-122.3475007,walking,3306,3909
+Space Needle,47.62047587,-122.3492266,Smith Tower,47.6018488,-122.3318543,driving,606,2737
+Space Needle,47.62047587,-122.3492266,Smith Tower,47.6018488,-122.3318543,bicycling,838,2775
+Space Needle,47.62047587,-122.3492266,Smith Tower,47.6018488,-122.3318543,transit,1157,2878
+Space Needle,47.62047587,-122.3492266,Smith Tower,47.6018488,-122.3318543,walking,2281,2745
+Space Needle,47.62047587,-122.3492266,Volunteer Park,47.63103247,-122.3163297,driving,973,4420
+Space Needle,47.62047587,-122.3492266,Volunteer Park,47.63103247,-122.3163297,bicycling,1734,5372
+Space Needle,47.62047587,-122.3492266,Volunteer Park,47.63103247,-122.3163297,transit,2249,5773
+Space Needle,47.62047587,-122.3492266,Volunteer Park,47.63103247,-122.3163297,walking,3555,3818
+Space Needle,47.62047587,-122.3492266,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,driving,646,2792
+Space Needle,47.62047587,-122.3492266,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,bicycling,814,2751
+Space Needle,47.62047587,-122.3492266,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,transit,1205,2846
+Space Needle,47.62047587,-122.3492266,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,walking,2039,2365
+Space Needle,47.62047587,-122.3492266,Wing Luke Museum,47.59821381,-122.322921,driving,818,3652
+Space Needle,47.62047587,-122.3492266,Wing Luke Museum,47.59821381,-122.322921,bicycling,1143,3691
+Space Needle,47.62047587,-122.3492266,Wing Luke Museum,47.59821381,-122.322921,transit,1714,4056
+Space Needle,47.62047587,-122.3492266,Wing Luke Museum,47.59821381,-122.322921,walking,3018,3522
+Space Needle,47.62047587,-122.3492266,Waterfall Garden,47.60022526,-122.3320583,driving,664,2954
+Space Needle,47.62047587,-122.3492266,Waterfall Garden,47.60022526,-122.3320583,bicycling,851,2992
+Space Needle,47.62047587,-122.3492266,Waterfall Garden,47.60022526,-122.3320583,transit,1320,3068
+Space Needle,47.62047587,-122.3492266,Waterfall Garden,47.60022526,-122.3320583,walking,2430,2935
+Space Needle,47.62047587,-122.3492266,Volunteer Park Conservatory,47.63210768,-122.3157461,driving,996,5411
+Space Needle,47.62047587,-122.3492266,Volunteer Park Conservatory,47.63210768,-122.3157461,bicycling,1750,5481
+Space Needle,47.62047587,-122.3492266,Volunteer Park Conservatory,47.63210768,-122.3157461,transit,2192,5706
+Space Needle,47.62047587,-122.3492266,Volunteer Park Conservatory,47.63210768,-122.3157461,walking,3574,3840
+Space Needle,47.62047587,-122.3492266,Historic Chinatown Gate,47.59843717,-122.3273775,driving,742,3314
+Space Needle,47.62047587,-122.3492266,Historic Chinatown Gate,47.59843717,-122.3273775,bicycling,1027,3352
+Space Needle,47.62047587,-122.3492266,Historic Chinatown Gate,47.59843717,-122.3273775,transit,1153,3682
+Space Needle,47.62047587,-122.3492266,Historic Chinatown Gate,47.59843717,-122.3273775,walking,2696,3188
+Space Needle,47.62047587,-122.3492266,Seattle Public Library - Central Library,47.60665261,-122.3321832,driving,559,2088
+Space Needle,47.62047587,-122.3492266,Seattle Public Library - Central Library,47.60665261,-122.3321832,bicycling,793,2586
+Space Needle,47.62047587,-122.3492266,Seattle Public Library - Central Library,47.60665261,-122.3321832,transit,1162,2536
+Space Needle,47.62047587,-122.3492266,Seattle Public Library - Central Library,47.60665261,-122.3321832,walking,1883,2110
+Space Needle,47.62047587,-122.3492266,Frye Art Museum,47.60719048,-122.3241545,driving,757,2792
+Space Needle,47.62047587,-122.3492266,Frye Art Museum,47.60719048,-122.3241545,bicycling,1138,3380
+Space Needle,47.62047587,-122.3492266,Frye Art Museum,47.60719048,-122.3241545,transit,1698,3769
+Space Needle,47.62047587,-122.3492266,Frye Art Museum,47.60719048,-122.3241545,walking,2592,2742
+Space Needle,47.62047587,-122.3492266,Occidental Square,47.60049434,-122.3332285,driving,671,2955
+Space Needle,47.62047587,-122.3492266,Occidental Square,47.60049434,-122.3332285,bicycling,864,3060
+Space Needle,47.62047587,-122.3492266,Occidental Square,47.60049434,-122.3332285,transit,1322,3068
+Space Needle,47.62047587,-122.3492266,Occidental Square,47.60049434,-122.3332285,walking,2440,2929
+Space Needle,47.62047587,-122.3492266,Coast Guard Museum Northwest,47.59064186,-122.3379202,driving,736,5936
+Space Needle,47.62047587,-122.3492266,Coast Guard Museum Northwest,47.59064186,-122.3379202,bicycling,1164,4938
+Space Needle,47.62047587,-122.3492266,Coast Guard Museum Northwest,47.59064186,-122.3379202,transit,2760,6449
+Space Needle,47.62047587,-122.3492266,Coast Guard Museum Northwest,47.59064186,-122.3379202,walking,3898,4712
+Space Needle,47.62047587,-122.3492266,Jimi Hendrix Statue,47.61550301,-122.3207151,driving,763,2672
+Space Needle,47.62047587,-122.3492266,Jimi Hendrix Statue,47.61550301,-122.3207151,bicycling,1127,3136
+Space Needle,47.62047587,-122.3492266,Jimi Hendrix Statue,47.61550301,-122.3207151,transit,1337,3400
+Space Needle,47.62047587,-122.3492266,Jimi Hendrix Statue,47.61550301,-122.3207151,walking,2386,2513
+Space Needle,47.62047587,-122.3492266,Seattle Pinball Museum,47.59806291,-122.3247878,driving,789,3524
+Space Needle,47.62047587,-122.3492266,Seattle Pinball Museum,47.59806291,-122.3247878,bicycling,1086,3562
+Space Needle,47.62047587,-122.3492266,Seattle Pinball Museum,47.59806291,-122.3247878,transit,1337,3888
+Space Needle,47.62047587,-122.3492266,Seattle Pinball Museum,47.59806291,-122.3247878,walking,2889,3394
+Space Needle,47.62047587,-122.3492266,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,driving,923,4277
+Space Needle,47.62047587,-122.3492266,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,bicycling,1707,5202
+Space Needle,47.62047587,-122.3492266,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,transit,2213,5440
+Space Needle,47.62047587,-122.3492266,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,walking,3471,3707
+Space Needle,47.62047587,-122.3492266,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,driving,687,3032
+Space Needle,47.62047587,-122.3492266,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,bicycling,906,3191
+Space Needle,47.62047587,-122.3492266,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,transit,1403,3169
+Space Needle,47.62047587,-122.3492266,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,walking,2513,3036
+Space Needle,47.62047587,-122.3492266,Beneath the Streets,47.60284107,-122.3340982,driving,621,2681
+Space Needle,47.62047587,-122.3492266,Beneath the Streets,47.60284107,-122.3340982,bicycling,733,2621
+Space Needle,47.62047587,-122.3492266,Beneath the Streets,47.60284107,-122.3340982,transit,1193,2686
+Space Needle,47.62047587,-122.3492266,Beneath the Streets,47.60284107,-122.3340982,walking,2179,2650
+Space Needle,47.62047587,-122.3492266,Magnolia Park,47.63449348,-122.3980615,driving,614,5240
+Space Needle,47.62047587,-122.3492266,Magnolia Park,47.63449348,-122.3980615,bicycling,1073,4801
+Space Needle,47.62047587,-122.3492266,Magnolia Park,47.63449348,-122.3980615,transit,1451,5287
+Space Needle,47.62047587,-122.3492266,Magnolia Park,47.63449348,-122.3980615,walking,3872,4581
+Space Needle,47.62047587,-122.3492266,Gas Works Park,47.64562277,-122.334361,driving,670,5638
+Space Needle,47.62047587,-122.3492266,Gas Works Park,47.64562277,-122.334361,bicycling,1132,5445
+Space Needle,47.62047587,-122.3492266,Gas Works Park,47.64562277,-122.334361,transit,1949,5563
+Space Needle,47.62047587,-122.3492266,Gas Works Park,47.64562277,-122.334361,walking,4238,5129
+Space Needle,47.62047587,-122.3492266,Lumen Field,47.59505088,-122.3316719,driving,539,4887
+Space Needle,47.62047587,-122.3492266,Lumen Field,47.59505088,-122.3316719,bicycling,992,3720
+Space Needle,47.62047587,-122.3492266,Lumen Field,47.59505088,-122.3316719,transit,1698,4376
+Space Needle,47.62047587,-122.3492266,Lumen Field,47.59505088,-122.3316719,walking,2977,3592
+Space Needle,47.62047587,-122.3492266,T-Mobile Park,47.59146257,-122.3326463,driving,508,4547
+Space Needle,47.62047587,-122.3492266,T-Mobile Park,47.59146257,-122.3326463,bicycling,1069,3983
+Space Needle,47.62047587,-122.3492266,T-Mobile Park,47.59146257,-122.3326463,transit,1821,5307
+Space Needle,47.62047587,-122.3492266,T-Mobile Park,47.59146257,-122.3326463,walking,3202,3856
+Space Needle,47.62047587,-122.3492266,Spooked In Seattle Ghost Tours,47.60154513,-122.333443,driving,650,2791
+Space Needle,47.62047587,-122.3492266,Spooked In Seattle Ghost Tours,47.60154513,-122.333443,bicycling,852,3004
+Space Needle,47.62047587,-122.3492266,Spooked In Seattle Ghost Tours,47.60154513,-122.333443,transit,1227,2951
+Space Needle,47.62047587,-122.3492266,Spooked In Seattle Ghost Tours,47.60154513,-122.333443,walking,2332,2818
+Space Needle,47.62047587,-122.3492266,Embassy Suites by Hilton Seattle Downtown Pioneer Square,47.59807732,-122.3309348,driving,650,5327
+Space Needle,47.62047587,-122.3492266,Embassy Suites by Hilton Seattle Downtown Pioneer Square,47.59807732,-122.3309348,bicycling,946,3326
+Space Needle,47.62047587,-122.3492266,Embassy Suites by Hilton Seattle Downtown Pioneer Square,47.59807732,-122.3309348,transit,1440,3645
+Space Needle,47.62047587,-122.3492266,Embassy Suites by Hilton Seattle Downtown Pioneer Square,47.59807732,-122.3309348,walking,2647,3195
+Space Needle,47.62047587,-122.3492266,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,driving,665,2879
+Space Needle,47.62047587,-122.3492266,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,bicycling,843,3009
+Space Needle,47.62047587,-122.3492266,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,transit,1330,3040
+Space Needle,47.62047587,-122.3492266,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,walking,2323,2818
+Space Needle,47.62047587,-122.3492266,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,driving,604,5169
+Space Needle,47.62047587,-122.3492266,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,bicycling,936,3340
+Space Needle,47.62047587,-122.3492266,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,transit,1575,3343
+Space Needle,47.62047587,-122.3492266,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,walking,2618,3144
+Space Needle,47.62047587,-122.3492266,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,driving,488,4466
+Space Needle,47.62047587,-122.3492266,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,bicycling,1059,3967
+Space Needle,47.62047587,-122.3492266,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,transit,1765,5225
+Space Needle,47.62047587,-122.3492266,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,walking,3181,3845
+Space Needle,47.62047587,-122.3492266,Roanoke Park,47.64355885,-122.3202791,driving,854,4485
+Space Needle,47.62047587,-122.3492266,Roanoke Park,47.64355885,-122.3202791,bicycling,1377,5803
+Space Needle,47.62047587,-122.3492266,Roanoke Park,47.64355885,-122.3202791,transit,1992,6616
+Space Needle,47.62047587,-122.3492266,Roanoke Park,47.64355885,-122.3202791,walking,3759,4384
+Space Needle,47.62047587,-122.3492266,Capitol Hill Station - light rail station,47.61975598,-122.3206104,driving,692,2387
+Space Needle,47.62047587,-122.3492266,Capitol Hill Station - light rail station,47.61975598,-122.3206104,bicycling,1253,3653
+Space Needle,47.62047587,-122.3492266,Capitol Hill Station - light rail station,47.61975598,-122.3206104,transit,933,2481
+Space Needle,47.62047587,-122.3492266,Capitol Hill Station - light rail station,47.61975598,-122.3206104,walking,2282,2337
+Space Needle,47.62047587,-122.3492266,Pioneer Square Station - light rail station,47.60193328,-122.3309958,driving,628,2801
+Space Needle,47.62047587,-122.3492266,Pioneer Square Station - light rail station,47.60193328,-122.3309958,bicycling,855,2908
+Space Needle,47.62047587,-122.3492266,Pioneer Square Station - light rail station,47.60193328,-122.3309958,transit,1121,2833
+Space Needle,47.62047587,-122.3492266,Pioneer Square Station - light rail station,47.60193328,-122.3309958,walking,2299,2733
+Space Needle,47.62047587,-122.3492266,International District/Chinatown Station - light rail station,47.59835834,-122.3280238,driving,735,3296
+Space Needle,47.62047587,-122.3492266,International District/Chinatown Station - light rail station,47.59835834,-122.3280238,bicycling,1007,3361
+Space Needle,47.62047587,-122.3492266,International District/Chinatown Station - light rail station,47.59835834,-122.3280238,transit,1342,3670
+Space Needle,47.62047587,-122.3492266,International District/Chinatown Station - light rail station,47.59835834,-122.3280238,walking,2687,3192
+Space Needle,47.62047587,-122.3492266,Stadium Station - light rail station,47.59109831,-122.32717,driving,690,5462
+Space Needle,47.62047587,-122.3492266,Stadium Station - light rail station,47.59109831,-122.32717,bicycling,1160,4160
+Space Needle,47.62047587,-122.3492266,Stadium Station - light rail station,47.59109831,-122.32717,transit,1508,4336
+Space Needle,47.62047587,-122.3492266,Stadium Station - light rail station,47.59109831,-122.32717,walking,3371,4031
+Space Needle,47.62047587,-122.3492266,King Street Station - train station,47.59768657,-122.329482,driving,696,3237
+Space Needle,47.62047587,-122.3492266,King Street Station - train station,47.59768657,-122.329482,bicycling,956,3316
+Space Needle,47.62047587,-122.3492266,King Street Station - train station,47.59768657,-122.329482,transit,1389,3781
+Space Needle,47.62047587,-122.3492266,King Street Station - train station,47.59768657,-122.329482,walking,2687,3186
+Chihuly Garden and Glass,47.62054706,-122.3504608,Fremont Troll,47.65105594,-122.3475007,driving,467,4398
+Chihuly Garden and Glass,47.62054706,-122.3504608,Fremont Troll,47.65105594,-122.3475007,bicycling,1070,4564
+Chihuly Garden and Glass,47.62054706,-122.3504608,Fremont Troll,47.65105594,-122.3475007,transit,1051,4434
+Chihuly Garden and Glass,47.62054706,-122.3504608,Fremont Troll,47.65105594,-122.3475007,walking,3378,4004
+Chihuly Garden and Glass,47.62054706,-122.3504608,Smith Tower,47.6018488,-122.3318543,driving,597,2722
+Chihuly Garden and Glass,47.62054706,-122.3504608,Smith Tower,47.6018488,-122.3318543,bicycling,823,2701
+Chihuly Garden and Glass,47.62054706,-122.3504608,Smith Tower,47.6018488,-122.3318543,transit,1191,2938
+Chihuly Garden and Glass,47.62054706,-122.3504608,Smith Tower,47.6018488,-122.3318543,walking,2227,2682
+Chihuly Garden and Glass,47.62054706,-122.3504608,Volunteer Park,47.63103247,-122.3163297,driving,964,4405
+Chihuly Garden and Glass,47.62054706,-122.3504608,Volunteer Park,47.63103247,-122.3163297,bicycling,1740,5420
+Chihuly Garden and Glass,47.62054706,-122.3504608,Volunteer Park,47.63103247,-122.3163297,transit,2277,5812
+Chihuly Garden and Glass,47.62054706,-122.3504608,Volunteer Park,47.63103247,-122.3163297,walking,3628,3913
+Chihuly Garden and Glass,47.62054706,-122.3504608,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,driving,637,2777
+Chihuly Garden and Glass,47.62054706,-122.3504608,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,bicycling,798,2677
+Chihuly Garden and Glass,47.62054706,-122.3504608,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,transit,1237,2906
+Chihuly Garden and Glass,47.62054706,-122.3504608,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,walking,2052,2387
+Chihuly Garden and Glass,47.62054706,-122.3504608,Wing Luke Museum,47.59821381,-122.322921,driving,809,3638
+Chihuly Garden and Glass,47.62054706,-122.3504608,Wing Luke Museum,47.59821381,-122.322921,bicycling,1127,3617
+Chihuly Garden and Glass,47.62054706,-122.3504608,Wing Luke Museum,47.59821381,-122.322921,transit,1669,3993
+Chihuly Garden and Glass,47.62054706,-122.3504608,Wing Luke Museum,47.59821381,-122.322921,walking,3031,3544
+Chihuly Garden and Glass,47.62054706,-122.3504608,Waterfall Garden,47.60022526,-122.3320583,driving,655,2939
+Chihuly Garden and Glass,47.62054706,-122.3504608,Waterfall Garden,47.60022526,-122.3320583,bicycling,836,2918
+Chihuly Garden and Glass,47.62054706,-122.3504608,Waterfall Garden,47.60022526,-122.3320583,transit,1352,3128
+Chihuly Garden and Glass,47.62054706,-122.3504608,Waterfall Garden,47.60022526,-122.3320583,walking,2376,2872
+Chihuly Garden and Glass,47.62054706,-122.3504608,Volunteer Park Conservatory,47.63210768,-122.3157461,driving,987,5396
+Chihuly Garden and Glass,47.62054706,-122.3504608,Volunteer Park Conservatory,47.63210768,-122.3157461,bicycling,1756,5530
+Chihuly Garden and Glass,47.62054706,-122.3504608,Volunteer Park Conservatory,47.63210768,-122.3157461,transit,2220,5745
+Chihuly Garden and Glass,47.62054706,-122.3504608,Volunteer Park Conservatory,47.63210768,-122.3157461,walking,3646,3935
+Chihuly Garden and Glass,47.62054706,-122.3504608,Historic Chinatown Gate,47.59843717,-122.3273775,driving,733,3299
+Chihuly Garden and Glass,47.62054706,-122.3504608,Historic Chinatown Gate,47.59843717,-122.3273775,bicycling,1011,3279
+Chihuly Garden and Glass,47.62054706,-122.3504608,Historic Chinatown Gate,47.59843717,-122.3273775,transit,1340,3721
+Chihuly Garden and Glass,47.62054706,-122.3504608,Historic Chinatown Gate,47.59843717,-122.3273775,walking,2708,3209
+Chihuly Garden and Glass,47.62054706,-122.3504608,Seattle Public Library - Central Library,47.60665261,-122.3321832,driving,550,2073
+Chihuly Garden and Glass,47.62054706,-122.3504608,Seattle Public Library - Central Library,47.60665261,-122.3321832,bicycling,778,2512
+Chihuly Garden and Glass,47.62054706,-122.3504608,Seattle Public Library - Central Library,47.60665261,-122.3321832,transit,1206,2616
+Chihuly Garden and Glass,47.62054706,-122.3504608,Seattle Public Library - Central Library,47.60665261,-122.3321832,walking,1917,2174
+Chihuly Garden and Glass,47.62054706,-122.3504608,Frye Art Museum,47.60719048,-122.3241545,driving,748,2777
+Chihuly Garden and Glass,47.62054706,-122.3504608,Frye Art Museum,47.60719048,-122.3241545,bicycling,1122,3306
+Chihuly Garden and Glass,47.62054706,-122.3504608,Frye Art Museum,47.60719048,-122.3241545,transit,1730,3829
+Chihuly Garden and Glass,47.62054706,-122.3504608,Frye Art Museum,47.60719048,-122.3241545,walking,2625,2802
+Chihuly Garden and Glass,47.62054706,-122.3504608,Occidental Square,47.60049434,-122.3332285,driving,662,2940
+Chihuly Garden and Glass,47.62054706,-122.3504608,Occidental Square,47.60049434,-122.3332285,bicycling,848,2986
+Chihuly Garden and Glass,47.62054706,-122.3504608,Occidental Square,47.60049434,-122.3332285,transit,1353,3128
+Chihuly Garden and Glass,47.62054706,-122.3504608,Occidental Square,47.60049434,-122.3332285,walking,2385,2866
+Chihuly Garden and Glass,47.62054706,-122.3504608,Coast Guard Museum Northwest,47.59064186,-122.3379202,driving,727,5921
+Chihuly Garden and Glass,47.62054706,-122.3504608,Coast Guard Museum Northwest,47.59064186,-122.3379202,bicycling,1148,4865
+Chihuly Garden and Glass,47.62054706,-122.3504608,Coast Guard Museum Northwest,47.59064186,-122.3379202,transit,2832,6544
+Chihuly Garden and Glass,47.62054706,-122.3504608,Coast Guard Museum Northwest,47.59064186,-122.3379202,walking,3843,4649
+Chihuly Garden and Glass,47.62054706,-122.3504608,Jimi Hendrix Statue,47.61550301,-122.3207151,driving,754,2657
+Chihuly Garden and Glass,47.62054706,-122.3504608,Jimi Hendrix Statue,47.61550301,-122.3207151,bicycling,1133,3184
+Chihuly Garden and Glass,47.62054706,-122.3504608,Jimi Hendrix Statue,47.61550301,-122.3207151,transit,1365,3439
+Chihuly Garden and Glass,47.62054706,-122.3504608,Jimi Hendrix Statue,47.61550301,-122.3207151,walking,2419,2573
+Chihuly Garden and Glass,47.62054706,-122.3504608,Seattle Pinball Museum,47.59806291,-122.3247878,driving,780,3510
+Chihuly Garden and Glass,47.62054706,-122.3504608,Seattle Pinball Museum,47.59806291,-122.3247878,bicycling,1070,3489
+Chihuly Garden and Glass,47.62054706,-122.3504608,Seattle Pinball Museum,47.59806291,-122.3247878,transit,1597,3800
+Chihuly Garden and Glass,47.62054706,-122.3504608,Seattle Pinball Museum,47.59806291,-122.3247878,walking,2901,3415
+Chihuly Garden and Glass,47.62054706,-122.3504608,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,driving,914,4263
+Chihuly Garden and Glass,47.62054706,-122.3504608,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,bicycling,1713,5250
+Chihuly Garden and Glass,47.62054706,-122.3504608,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,transit,2241,5479
+Chihuly Garden and Glass,47.62054706,-122.3504608,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,walking,3544,3802
+Chihuly Garden and Glass,47.62054706,-122.3504608,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,driving,678,3017
+Chihuly Garden and Glass,47.62054706,-122.3504608,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,bicycling,890,3117
+Chihuly Garden and Glass,47.62054706,-122.3504608,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,transit,1434,3229
+Chihuly Garden and Glass,47.62054706,-122.3504608,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,walking,2459,2973
+Chihuly Garden and Glass,47.62054706,-122.3504608,Beneath the Streets,47.60284107,-122.3340982,driving,612,2667
+Chihuly Garden and Glass,47.62054706,-122.3504608,Beneath the Streets,47.60284107,-122.3340982,bicycling,718,2547
+Chihuly Garden and Glass,47.62054706,-122.3504608,Beneath the Streets,47.60284107,-122.3340982,transit,1171,2656
+Chihuly Garden and Glass,47.62054706,-122.3504608,Beneath the Streets,47.60284107,-122.3340982,walking,2125,2587
+Chihuly Garden and Glass,47.62054706,-122.3504608,Magnolia Park,47.63449348,-122.3980615,driving,605,5225
+Chihuly Garden and Glass,47.62054706,-122.3504608,Magnolia Park,47.63449348,-122.3980615,bicycling,1068,4768
+Chihuly Garden and Glass,47.62054706,-122.3504608,Magnolia Park,47.63449348,-122.3980615,transit,1397,5224
+Chihuly Garden and Glass,47.62054706,-122.3504608,Magnolia Park,47.63449348,-122.3980615,walking,3845,4548

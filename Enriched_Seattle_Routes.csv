@@ -1,0 +1,329 @@
+dataset,origin_place,origin_lat,origin_lng,destination_place,destination_lat,destination_lng,mode,departure_time,duration_sec,distance_m
+train,Historic Chinatown Gate,47.59843717,-122.3273775,Pike Place Market,47.60939849,-122.3418399,driving,1749580510,554,2261
+train,Historic Chinatown Gate,47.59843717,-122.3273775,Pike Place Market,47.60939849,-122.3418399,bicycling,1749580510,707,2159
+train,Historic Chinatown Gate,47.59843717,-122.3273775,Pike Place Market,47.60939849,-122.3418399,transit,1749580510,835,2479
+train,Historic Chinatown Gate,47.59843717,-122.3273775,Pike Place Market,47.60939849,-122.3418399,walking,1749580510,1678,1877
+train,International Fountain,47.62250232,-122.3520859,KidsQuest Children's Museum,47.62082747,-122.1959473,driving,1749580510,1115,16219
+train,International Fountain,47.62250232,-122.3520859,KidsQuest Children's Museum,47.62082747,-122.1959473,bicycling,1749580510,4439,20286
+train,International Fountain,47.62250232,-122.3520859,KidsQuest Children's Museum,47.62082747,-122.1959473,transit,1749580510,4005,18678
+train,International Fountain,47.62250232,-122.3520859,KidsQuest Children's Museum,47.62082747,-122.1959473,walking,1749580510,13759,16293
+train,Jimi Hendrix Statue,47.61550301,-122.3207151,Wilburton Station - light rail station,47.61794064,-122.1837801,driving,1749580510,1118,17763
+train,Jimi Hendrix Statue,47.61550301,-122.3207151,Wilburton Station - light rail station,47.61794064,-122.1837801,bicycling,1749580510,3774,18293
+train,Jimi Hendrix Statue,47.61550301,-122.3207151,Wilburton Station - light rail station,47.61794064,-122.1837801,transit,1749580510,3311,20875
+train,Jimi Hendrix Statue,47.61550301,-122.3207151,Wilburton Station - light rail station,47.61794064,-122.1837801,walking,1749580510,13095,15622
+train,Seattle Chinese Garden,47.5517664,-122.352496,Symphony Station - light rail station,47.60779626,-122.3360496,driving,1749580510,1044,9550
+train,Seattle Chinese Garden,47.5517664,-122.352496,Symphony Station - light rail station,47.60779626,-122.3360496,bicycling,1749580510,2129,8556
+train,Seattle Chinese Garden,47.5517664,-122.352496,Symphony Station - light rail station,47.60779626,-122.3360496,transit,1749580510,1524,9542
+train,Seattle Chinese Garden,47.5517664,-122.352496,Symphony Station - light rail station,47.60779626,-122.3360496,walking,1749580510,7248,8711
+train,Mercerdale Park,47.58102303,-122.2349369,International Fountain,47.62250232,-122.3520859,driving,1749580510,1063,13377
+train,Mercerdale Park,47.58102303,-122.2349369,International Fountain,47.62250232,-122.3520859,bicycling,1749580510,3274,12547
+train,Mercerdale Park,47.58102303,-122.2349369,International Fountain,47.62250232,-122.3520859,transit,1749580510,3233,12946
+train,Mercerdale Park,47.58102303,-122.2349369,International Fountain,47.62250232,-122.3520859,walking,1749580510,10267,12203
+train,Waterfall Garden,47.60022526,-122.3320583,Symphony Station - light rail station,47.60779626,-122.3360496,driving,1749580510,336,1161
+train,Waterfall Garden,47.60022526,-122.3320583,Symphony Station - light rail station,47.60779626,-122.3360496,bicycling,1749580510,502,1088
+train,Waterfall Garden,47.60022526,-122.3320583,Symphony Station - light rail station,47.60779626,-122.3360496,transit,1749580510,603,1232
+train,Waterfall Garden,47.60022526,-122.3320583,Symphony Station - light rail station,47.60779626,-122.3360496,walking,1749580510,977,1010
+train,Hamilton Viewpoint Park,47.59327621,-122.3860307,Lumen Field,47.59505088,-122.3316719,driving,1749580510,755,9442
+train,Hamilton Viewpoint Park,47.59327621,-122.3860307,Lumen Field,47.59505088,-122.3316719,bicycling,1749580510,1977,8721
+train,Hamilton Viewpoint Park,47.59327621,-122.3860307,Lumen Field,47.59505088,-122.3316719,transit,1749580510,3383,12696
+train,Hamilton Viewpoint Park,47.59327621,-122.3860307,Lumen Field,47.59505088,-122.3316719,walking,1749580510,2761,6024
+train,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,driving,1749580510,1040,22449
+train,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,bicycling,1749580510,4798,23718
+train,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,transit,1749580510,2338,23470
+train,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,walking,1749580510,17086,20527
+train,Historic Chinatown Gate,47.59843717,-122.3273775,Roosevelt Station - light rail station,47.67608555,-122.3160051,driving,1749580510,820,9873
+train,Historic Chinatown Gate,47.59843717,-122.3273775,Roosevelt Station - light rail station,47.67608555,-122.3160051,bicycling,1749580510,2574,9744
+train,Historic Chinatown Gate,47.59843717,-122.3273775,Roosevelt Station - light rail station,47.67608555,-122.3160051,transit,1749580510,1208,10955
+train,Historic Chinatown Gate,47.59843717,-122.3273775,Roosevelt Station - light rail station,47.67608555,-122.3160051,walking,1749580510,8223,9497
+train,Tacoma General Station - light rail station,47.26006747,-122.4535547,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,driving,1749580510,2475,56304
+train,Tacoma General Station - light rail station,47.26006747,-122.4535547,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,bicycling,1749580510,13846,68957
+train,Tacoma General Station - light rail station,47.26006747,-122.4535547,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,transit,1749580510,4796,55425
+train,Tacoma General Station - light rail station,47.26006747,-122.4535547,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,walking,1749580510,36898,50252
+train,"University of Washington Station
+- light rail station",47.65027972,-122.3037441,Shoreline South/148th Station - Light rail station,47.73609124,-122.3252436,driving,1749580510,757,13096
+train,"University of Washington Station
+- light rail station",47.65027972,-122.3037441,Shoreline South/148th Station - Light rail station,47.73609124,-122.3252436,bicycling,1749580510,3097,11423
+train,"University of Washington Station
+- light rail station",47.65027972,-122.3037441,Shoreline South/148th Station - Light rail station,47.73609124,-122.3252436,transit,1749580510,911,10501
+train,"University of Washington Station
+- light rail station",47.65027972,-122.3037441,Shoreline South/148th Station - Light rail station,47.73609124,-122.3252436,walking,1749580510,9402,10738
+train,Kent Station  - train station,47.38456169,-122.232946,Lumen Field,47.59505088,-122.3316719,driving,1749580510,1573,31410
+train,Kent Station  - train station,47.38456169,-122.232946,Lumen Field,47.59505088,-122.3316719,bicycling,1749580510,6463,34020
+train,Kent Station  - train station,47.38456169,-122.232946,Lumen Field,47.59505088,-122.3316719,transit,1749580510,4063,31613
+train,Kent Station  - train station,47.38456169,-122.232946,Lumen Field,47.59505088,-122.3316719,walking,1749580510,22828,27842
+train,Alki Beach Park,47.58018302,-122.4084949,T-Mobile Park,47.59146257,-122.3326463,driving,1749580510,888,10520
+train,Alki Beach Park,47.58018302,-122.4084949,T-Mobile Park,47.59146257,-122.3326463,bicycling,1749580510,2445,10774
+train,Alki Beach Park,47.58018302,-122.4084949,T-Mobile Park,47.59146257,-122.3326463,transit,1749580510,3107,12676
+train,Alki Beach Park,47.58018302,-122.4084949,T-Mobile Park,47.59146257,-122.3326463,walking,1749580510,4417,8077
+train,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,driving,1749580510,2295,54705
+train,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,bicycling,1749580510,13463,66765
+train,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,transit,1749580510,5109,55924
+train,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,walking,1749580510,43780,51963
+train,Hyatt Regency Lake Washington at Seattle's Southport,47.50275177,-122.20493,Seattle Japanese Garden,47.62898814,-122.2962975,driving,1749580510,1497,28206
+train,Hyatt Regency Lake Washington at Seattle's Southport,47.50275177,-122.20493,Seattle Japanese Garden,47.62898814,-122.2962975,bicycling,1749580510,5783,27853
+train,Hyatt Regency Lake Washington at Seattle's Southport,47.50275177,-122.20493,Seattle Japanese Garden,47.62898814,-122.2962975,transit,1749580510,4894,29333
+train,Hyatt Regency Lake Washington at Seattle's Southport,47.50275177,-122.20493,Seattle Japanese Garden,47.62898814,-122.2962975,walking,1749580510,18616,22446
+train,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,Wilburton Station - light rail station,47.61794064,-122.1837801,driving,1749580510,1121,17197
+train,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,Wilburton Station - light rail station,47.61794064,-122.1837801,bicycling,1749580510,2930,13960
+train,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,Wilburton Station - light rail station,47.61794064,-122.1837801,transit,1749580510,2450,13487
+train,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,Wilburton Station - light rail station,47.61794064,-122.1837801,walking,1749580510,10999,13226
+train,The Museum of Flight,47.51852231,-122.2968546,Bellevue Square,47.61571654,-122.2037336,driving,1749580510,1610,26522
+train,The Museum of Flight,47.51852231,-122.2968546,Bellevue Square,47.61571654,-122.2037336,bicycling,1749580510,5971,26024
+train,The Museum of Flight,47.51852231,-122.2968546,Bellevue Square,47.61571654,-122.2037336,transit,1749580510,6037,45605
+train,The Museum of Flight,47.51852231,-122.2968546,Bellevue Square,47.61571654,-122.2037336,walking,1749580510,19367,22976
+train,Seward Park,47.54960139,-122.2573653,Kerry Park,47.62947041,-122.3599343,driving,1749580510,1635,17024
+train,Seward Park,47.54960139,-122.2573653,Kerry Park,47.62947041,-122.3599343,bicycling,1749580510,4154,15727
+train,Seward Park,47.54960139,-122.2573653,Kerry Park,47.62947041,-122.3599343,transit,1749580510,4386,16749
+train,Seward Park,47.54960139,-122.2573653,Kerry Park,47.62947041,-122.3599343,walking,1749580510,11894,13672
+train,Tukwila Station - train station,47.46063892,-122.2405656,Bellevue Square,47.61571654,-122.2037336,driving,1749580510,1382,23192
+train,Tukwila Station - train station,47.46063892,-122.2405656,Bellevue Square,47.61571654,-122.2037336,bicycling,1749580510,5015,24107
+train,Tukwila Station - train station,47.46063892,-122.2405656,Bellevue Square,47.61571654,-122.2037336,transit,1749580510,3609,24182
+train,Tukwila Station - train station,47.46063892,-122.2405656,Bellevue Square,47.61571654,-122.2037336,walking,1749580510,19688,23483
+train,Old City Hall Station - light rail station,47.25773867,-122.4404208,Museum of Pop Culture,47.62147013,-122.3481283,driving,1749580510,2466,58082
+train,Old City Hall Station - light rail station,47.25773867,-122.4404208,Museum of Pop Culture,47.62147013,-122.3481283,bicycling,1749580510,14365,70485
+train,Old City Hall Station - light rail station,47.25773867,-122.4404208,Museum of Pop Culture,47.62147013,-122.3481283,transit,1749580510,5439,56509
+train,Old City Hall Station - light rail station,47.25773867,-122.4404208,Museum of Pop Culture,47.62147013,-122.3481283,walking,1749580510,45844,54733
+train,Space Needle,47.62047587,-122.3492266,Arena Sports Redmond,47.68376904,-122.1425235,driving,1749580510,1600,25339
+train,Space Needle,47.62047587,-122.3492266,Arena Sports Redmond,47.68376904,-122.1425235,bicycling,1749580510,6241,29269
+train,Space Needle,47.62047587,-122.3492266,Arena Sports Redmond,47.68376904,-122.1425235,transit,1749580510,3991,29663
+train,Space Needle,47.62047587,-122.3492266,Arena Sports Redmond,47.68376904,-122.1425235,walking,1749580510,19347,23257
+train,Aubrey Davis Park,47.59202799,-122.2445184,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,driving,1749580510,665,9736
+train,Aubrey Davis Park,47.59202799,-122.2445184,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,bicycling,1749580510,1900,8307
+train,Aubrey Davis Park,47.59202799,-122.2445184,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,transit,1749580510,2163,10442
+train,Aubrey Davis Park,47.59202799,-122.2445184,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,walking,1749580510,6416,7807
+train,South Bellevue Station - light rail station,47.58658212,-122.1905223,King Street Station - train station,47.59768657,-122.329482,driving,1749580510,645,12828
+train,South Bellevue Station - light rail station,47.58658212,-122.1905223,King Street Station - train station,47.59768657,-122.329482,bicycling,1749580510,3295,12934
+train,South Bellevue Station - light rail station,47.58658212,-122.1905223,King Street Station - train station,47.59768657,-122.329482,transit,1749580510,1142,13285
+train,South Bellevue Station - light rail station,47.58658212,-122.1905223,King Street Station - train station,47.59768657,-122.329482,walking,1749580510,10454,12488
+train,Pier 55,47.60473849,-122.3397158,Kubota Garden,47.5134561,-122.2658735,driving,1749580510,1012,15397
+train,Pier 55,47.60473849,-122.3397158,Kubota Garden,47.5134561,-122.2658735,bicycling,1749580510,3255,14576
+train,Pier 55,47.60473849,-122.3397158,Kubota Garden,47.5134561,-122.2658735,transit,1749580510,3198,14836
+train,Pier 55,47.60473849,-122.3397158,Kubota Garden,47.5134561,-122.2658735,walking,1749580510,11047,12941
+train,Juanita Beach Park,47.70461277,-122.2148103,Beacon Hill Station - light rail station,47.57926799,-122.3117274,driving,1749580510,1548,29214
+train,Juanita Beach Park,47.70461277,-122.2148103,Beacon Hill Station - light rail station,47.57926799,-122.3117274,bicycling,1749580510,5948,26065
+train,Juanita Beach Park,47.70461277,-122.2148103,Beacon Hill Station - light rail station,47.57926799,-122.3117274,transit,1749580510,4408,29434
+train,Juanita Beach Park,47.70461277,-122.2148103,Beacon Hill Station - light rail station,47.57926799,-122.3117274,walking,1749580510,19852,23672
+train,Jimi Hendrix Statue,47.61550301,-122.3207151,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,driving,1749580510,1367,24676
+train,Jimi Hendrix Statue,47.61550301,-122.3207151,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,bicycling,1749580510,4937,21869
+train,Jimi Hendrix Statue,47.61550301,-122.3207151,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,transit,1749580510,2877,26696
+train,Jimi Hendrix Statue,47.61550301,-122.3207151,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,walking,1749580510,18528,21903
+train,International Fountain,47.62250232,-122.3520859,"Hilltop District Station - light rail station
+",47.25176376,-122.4516971,driving,1749580510,2676,60512
+train,International Fountain,47.62250232,-122.3520859,"Hilltop District Station - light rail station
+",47.25176376,-122.4516971,bicycling,1749580510,14326,70277
+train,International Fountain,47.62250232,-122.3520859,"Hilltop District Station - light rail station
+",47.25176376,-122.4516971,transit,1749580510,5974,57939
+train,International Fountain,47.62250232,-122.3520859,"Hilltop District Station - light rail station
+",47.25176376,-122.4516971,walking,1749580510,46664,55524
+train,Original Selfie Museum | Seattle,47.60778847,-122.339793,Museum of Illusions - Seattle,47.60962649,-122.3344392,driving,1749580510,404,1469
+train,Original Selfie Museum | Seattle,47.60778847,-122.339793,Museum of Illusions - Seattle,47.60962649,-122.3344392,bicycling,1749580510,549,1494
+train,Original Selfie Museum | Seattle,47.60778847,-122.339793,Museum of Illusions - Seattle,47.60962649,-122.3344392,transit,1749580510,592,604
+train,Original Selfie Museum | Seattle,47.60778847,-122.339793,Museum of Illusions - Seattle,47.60962649,-122.3344392,walking,1749580510,592,604
+train,Luther Burbank Park,47.5911729,-122.2256759,BelRed Station - light rail station,47.62441944,-122.1656506,driving,1749580510,885,13580
+train,Luther Burbank Park,47.5911729,-122.2256759,BelRed Station - light rail station,47.62441944,-122.1656506,bicycling,1749580510,3248,13514
+train,Luther Burbank Park,47.5911729,-122.2256759,BelRed Station - light rail station,47.62441944,-122.1656506,transit,1749580510,2563,11898
+train,Luther Burbank Park,47.5911729,-122.2256759,BelRed Station - light rail station,47.62441944,-122.1656506,walking,1749580510,8673,10216
+train,Kerry Park,47.62947041,-122.3599343,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,driving,1749580510,1273,18182
+train,Kerry Park,47.62947041,-122.3599343,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,bicycling,1749580510,4357,19713
+train,Kerry Park,47.62947041,-122.3599343,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,transit,1749580510,3926,22622
+train,Kerry Park,47.62947041,-122.3599343,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,walking,1749580510,14767,17666
+train,Roosevelt Station - light rail station,47.67608555,-122.3160051,Luther Burbank Park,47.5911729,-122.2256759,driving,1749580510,1197,19832
+train,Roosevelt Station - light rail station,47.67608555,-122.3160051,Luther Burbank Park,47.5911729,-122.2256759,bicycling,1749580510,3941,17539
+train,Roosevelt Station - light rail station,47.67608555,-122.3160051,Luther Burbank Park,47.5911729,-122.2256759,transit,1749580510,2698,19831
+train,Roosevelt Station - light rail station,47.67608555,-122.3160051,Luther Burbank Park,47.5911729,-122.2256759,walking,1749580510,13738,16418
+train,Museum of Illusions - Seattle,47.60962649,-122.3344392,Jimi Hendrix Statue,47.61550301,-122.3207151,driving,1749580510,463,1696
+train,Museum of Illusions - Seattle,47.60962649,-122.3344392,Jimi Hendrix Statue,47.61550301,-122.3207151,bicycling,1749580510,673,1602
+train,Museum of Illusions - Seattle,47.60962649,-122.3344392,Jimi Hendrix Statue,47.61550301,-122.3207151,transit,1749580510,646,1520
+train,Museum of Illusions - Seattle,47.60962649,-122.3344392,Jimi Hendrix Statue,47.61550301,-122.3207151,walking,1749580510,1450,1487
+train,Lake Union Park,47.6270909,-122.337132,Woodland Park Rose Garden,47.66576036,-122.3493411,driving,1749580510,622,5582
+train,Lake Union Park,47.6270909,-122.337132,Woodland Park Rose Garden,47.66576036,-122.3493411,bicycling,1749580510,1482,4911
+train,Lake Union Park,47.6270909,-122.337132,Woodland Park Rose Garden,47.66576036,-122.3493411,transit,1749580510,1715,5761
+train,Lake Union Park,47.6270909,-122.337132,Woodland Park Rose Garden,47.66576036,-122.3493411,walking,1749580510,4329,4887
+train,Henry Art Gallery,47.65627049,-122.3117229,Northgate Station - light rail station,47.70300516,-122.3283303,driving,1749580510,577,6936
+train,Henry Art Gallery,47.65627049,-122.3117229,Northgate Station - light rail station,47.70300516,-122.3283303,bicycling,1749580510,1938,6644
+train,Henry Art Gallery,47.65627049,-122.3117229,Northgate Station - light rail station,47.70300516,-122.3283303,transit,1749580510,1083,5811
+train,Henry Art Gallery,47.65627049,-122.3117229,Northgate Station - light rail station,47.70300516,-122.3283303,walking,1749580510,5321,6111
+train,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,Historic Chinatown Gate,47.59843717,-122.3273775,driving,1749580510,1268,26329
+train,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,Historic Chinatown Gate,47.59843717,-122.3273775,bicycling,1749580510,6637,28982
+train,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,Historic Chinatown Gate,47.59843717,-122.3273775,transit,1749580510,2410,27861
+train,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,Historic Chinatown Gate,47.59843717,-122.3273775,walking,1749580510,22259,26658
+train,T-Mobile Park,47.59146257,-122.3326463,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,driving,1749580510,469,1881
+train,T-Mobile Park,47.59146257,-122.3326463,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,bicycling,1749580510,601,2034
+train,T-Mobile Park,47.59146257,-122.3326463,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,transit,1749580510,1077,1710
+train,T-Mobile Park,47.59146257,-122.3326463,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,walking,1749580510,1409,1531
+train,Symphony Station - light rail station,47.60779626,-122.3360496,Seattle–Tacoma International Airport,47.44830289,-122.3086334,driving,1749580510,1095,22213
+train,Symphony Station - light rail station,47.60779626,-122.3360496,Seattle–Tacoma International Airport,47.44830289,-122.3086334,bicycling,1749580510,5047,22948
+train,Symphony Station - light rail station,47.60779626,-122.3360496,Seattle–Tacoma International Airport,47.44830289,-122.3086334,transit,1749580510,3093,25761
+train,Symphony Station - light rail station,47.60779626,-122.3360496,Seattle–Tacoma International Airport,47.44830289,-122.3086334,walking,1749580510,17213,20401
+train,Auburn Station  - train station,47.30652363,-122.2321379,King Street Station - train station,47.59768657,-122.329482,driving,1749580510,1941,43923
+train,Auburn Station  - train station,47.30652363,-122.2321379,King Street Station - train station,47.59768657,-122.329482,bicycling,1749580510,7898,40379
+train,Auburn Station  - train station,47.30652363,-122.2321379,King Street Station - train station,47.59768657,-122.329482,transit,1749580510,3457,48914
+train,Auburn Station  - train station,47.30652363,-122.2321379,King Street Station - train station,47.59768657,-122.329482,walking,1749580510,29840,36593
+train,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,driving,1749580510,2566,58900
+train,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,bicycling,1749580510,14267,72369
+train,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,transit,1749580510,6541,72258
+train,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,walking,1749580510,47418,56867
+train,Capitol Hill Station - light rail station,47.61975598,-122.3206104,Seattle Pinball Museum,47.59806291,-122.3247878,driving,1749580510,545,4160
+train,Capitol Hill Station - light rail station,47.61975598,-122.3206104,Seattle Pinball Museum,47.59806291,-122.3247878,bicycling,1749580510,647,3298
+train,Capitol Hill Station - light rail station,47.61975598,-122.3206104,Seattle Pinball Museum,47.59806291,-122.3247878,transit,1749580510,795,4019
+train,Capitol Hill Station - light rail station,47.61975598,-122.3206104,Seattle Pinball Museum,47.59806291,-122.3247878,walking,1749580510,2413,2925
+train,Sumner Station  - train station,47.2016326,-122.2445797,Tukwila Int'l Blvd Station - light rail station,47.46407137,-122.2882565,driving,1749580510,1665,38046
+train,Sumner Station  - train station,47.2016326,-122.2445797,Tukwila Int'l Blvd Station - light rail station,47.46407137,-122.2882565,bicycling,1749580510,7453,37364
+train,Sumner Station  - train station,47.2016326,-122.2445797,Tukwila Int'l Blvd Station - light rail station,47.46407137,-122.2882565,transit,1749580510,5423,44165
+train,Sumner Station  - train station,47.2016326,-122.2445797,Tukwila Int'l Blvd Station - light rail station,47.46407137,-122.2882565,walking,1749580510,27832,33298
+train,Gas Works Park,47.64562277,-122.334361,Stadium District station - light rail station,47.26384537,-122.4489781,driving,1749580510,2733,63516
+train,Gas Works Park,47.64562277,-122.334361,Stadium District station - light rail station,47.26384537,-122.4489781,bicycling,1749580510,15605,75864
+train,Gas Works Park,47.64562277,-122.334361,Stadium District station - light rail station,47.26384537,-122.4489781,transit,1749580510,8172,62824
+train,Gas Works Park,47.64562277,-122.334361,Stadium District station - light rail station,47.26384537,-122.4489781,walking,1749580510,42765,57137
+train,S 4th Station - light rail station,47.26130354,-122.4427379,Seattle Chinese Garden,47.5517664,-122.352496,driving,1749580510,2315,52001
+train,S 4th Station - light rail station,47.26130354,-122.4427379,Seattle Chinese Garden,47.5517664,-122.352496,bicycling,1749580510,12779,62555
+train,S 4th Station - light rail station,47.26130354,-122.4427379,Seattle Chinese Garden,47.5517664,-122.352496,transit,1749580510,6938,62750
+train,S 4th Station - light rail station,47.26130354,-122.4427379,Seattle Chinese Garden,47.5517664,-122.352496,walking,1749580510,39566,47407
+train,Roosevelt Station - light rail station,47.67608555,-122.3160051,National Nordic Museum,47.66841217,-122.3925201,driving,1749580510,1203,7810
+train,Roosevelt Station - light rail station,47.67608555,-122.3160051,National Nordic Museum,47.66841217,-122.3925201,bicycling,1749580510,1992,9780
+train,Roosevelt Station - light rail station,47.67608555,-122.3160051,National Nordic Museum,47.66841217,-122.3925201,transit,1749580510,1891,8375
+train,Roosevelt Station - light rail station,47.67608555,-122.3160051,National Nordic Museum,47.66841217,-122.3925201,walking,1749580510,5692,6648
+train,Museum of Illusions - Seattle,47.60962649,-122.3344392,Broadmoor Golf Club,47.6403132,-122.2915176,driving,1749580510,583,6830
+train,Museum of Illusions - Seattle,47.60962649,-122.3344392,Broadmoor Golf Club,47.6403132,-122.2915176,bicycling,1749580510,2019,8109
+train,Museum of Illusions - Seattle,47.60962649,-122.3344392,Broadmoor Golf Club,47.6403132,-122.2915176,transit,1749580510,2552,6381
+train,Museum of Illusions - Seattle,47.60962649,-122.3344392,Broadmoor Golf Club,47.6403132,-122.2915176,walking,1749580510,5233,6004
+train,Pioneer Square Station - light rail station,47.60193328,-122.3309958,Symphony Station - light rail station,47.60779626,-122.3360496,driving,1749580510,311,1087
+train,Pioneer Square Station - light rail station,47.60193328,-122.3309958,Symphony Station - light rail station,47.60779626,-122.3360496,bicycling,1749580510,445,1005
+train,Pioneer Square Station - light rail station,47.60193328,-122.3309958,Symphony Station - light rail station,47.60779626,-122.3360496,transit,1749580510,344,972
+train,Pioneer Square Station - light rail station,47.60193328,-122.3309958,Symphony Station - light rail station,47.60779626,-122.3360496,walking,1749580510,744,779
+train,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,Tilikum Place,47.61833492,-122.3474771,driving,1749580510,2658,57311
+train,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,Tilikum Place,47.61833492,-122.3474771,bicycling,1749580510,14474,71119
+train,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,Tilikum Place,47.61833492,-122.3474771,transit,1749580510,5879,58441
+train,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,Tilikum Place,47.61833492,-122.3474771,walking,1749580510,46345,55363
+train,Pike Place Market,47.60939849,-122.3418399,Original Selfie Museum | Seattle,47.60778847,-122.339793,driving,1749580510,157,374
+train,Pike Place Market,47.60939849,-122.3418399,Original Selfie Museum | Seattle,47.60778847,-122.339793,bicycling,1749580510,119,361
+train,Pike Place Market,47.60939849,-122.3418399,Original Selfie Museum | Seattle,47.60778847,-122.339793,transit,1749580510,308,337
+train,Pike Place Market,47.60939849,-122.3418399,Original Selfie Museum | Seattle,47.60778847,-122.339793,walking,1749580510,308,337
+train,Seattle Chinese Garden,47.5517664,-122.352496,Broadmoor Golf Club,47.6403132,-122.2915176,driving,1749580510,1291,17184
+train,Seattle Chinese Garden,47.5517664,-122.352496,Broadmoor Golf Club,47.6403132,-122.2915176,bicycling,1749580510,4171,16882
+train,Seattle Chinese Garden,47.5517664,-122.352496,Broadmoor Golf Club,47.6403132,-122.2915176,transit,1749580510,4471,18007
+train,Seattle Chinese Garden,47.5517664,-122.352496,Broadmoor Golf Club,47.6403132,-122.2915176,walking,1749580510,12207,14332
+train,Aubrey Davis Park,47.59202799,-122.2445184,Fremont Troll,47.65105594,-122.3475007,driving,1749580510,948,16664
+train,Aubrey Davis Park,47.59202799,-122.2445184,Fremont Troll,47.65105594,-122.3475007,bicycling,1749580510,3522,14183
+train,Aubrey Davis Park,47.59202799,-122.2445184,Fremont Troll,47.65105594,-122.3475007,transit,1749580510,3421,16486
+train,Aubrey Davis Park,47.59202799,-122.2445184,Fremont Troll,47.65105594,-122.3475007,walking,1749580510,10989,12997
+test,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,Marymoor Village Station - suburban train line ,47.66723127,-122.1099099,driving,1749580510,1278,25567
+test,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,Marymoor Village Station - suburban train line ,47.66723127,-122.1099099,bicycling,1749580510,6989,30339
+test,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,Marymoor Village Station - suburban train line ,47.66723127,-122.1099099,transit,1749580510,3071,26402
+test,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,Marymoor Village Station - suburban train line ,47.66723127,-122.1099099,walking,1749580510,20767,24398
+test,Volunteer Park Conservatory,47.63210768,-122.3157461,Sumner Station  - train station,47.2016326,-122.2445797,driving,1749580510,2843,58757
+test,Volunteer Park Conservatory,47.63210768,-122.3157461,Sumner Station  - train station,47.2016326,-122.2445797,bicycling,1749580510,10975,57903
+test,Volunteer Park Conservatory,47.63210768,-122.3157461,Sumner Station  - train station,47.2016326,-122.2445797,transit,1749580510,6746,71302
+test,Volunteer Park Conservatory,47.63210768,-122.3157461,Sumner Station  - train station,47.2016326,-122.2445797,walking,1749580510,42818,52304
+test,SODO Station - light rail station,47.58116519,-122.3273624,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,driving,1749580510,991,18248
+test,SODO Station - light rail station,47.58116519,-122.3273624,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,bicycling,1749580510,4283,18572
+test,SODO Station - light rail station,47.58116519,-122.3273624,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,transit,1749580510,2954,21126
+test,SODO Station - light rail station,47.58116519,-122.3273624,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,walking,1749580510,14337,17094
+test,Fremont Troll,47.65105594,-122.3475007,The Seattle Great Wheel,47.60612088,-122.3425217,driving,1749580510,687,5464
+test,Fremont Troll,47.65105594,-122.3475007,The Seattle Great Wheel,47.60612088,-122.3425217,bicycling,1749580510,1826,7195
+test,Fremont Troll,47.65105594,-122.3475007,The Seattle Great Wheel,47.60612088,-122.3425217,transit,1749580510,1882,6634
+test,Fremont Troll,47.65105594,-122.3475007,The Seattle Great Wheel,47.60612088,-122.3425217,walking,1749580510,4929,5902
+test,Roanoke Park,47.64355885,-122.3202791,Chism Beach Park,47.59991929,-122.2107849,driving,1749580510,1136,20120
+test,Roanoke Park,47.64355885,-122.3202791,Chism Beach Park,47.59991929,-122.2107849,bicycling,1749580510,3434,15681
+test,Roanoke Park,47.64355885,-122.3202791,Chism Beach Park,47.59991929,-122.2107849,transit,1749580510,4701,22487
+test,Roanoke Park,47.64355885,-122.3202791,Chism Beach Park,47.59991929,-122.2107849,walking,1749580510,11389,13601
+test,Mountlake Terrace Station - Light rail station,47.78504618,-122.3147893,Lumen Field,47.59505088,-122.3316719,driving,1749580510,1101,24199
+test,Mountlake Terrace Station - Light rail station,47.78504618,-122.3147893,Lumen Field,47.59505088,-122.3316719,bicycling,1749580510,5629,23287
+test,Mountlake Terrace Station - Light rail station,47.78504618,-122.3147893,Lumen Field,47.59505088,-122.3316719,transit,1749580510,2608,24305
+test,Mountlake Terrace Station - Light rail station,47.78504618,-122.3147893,Lumen Field,47.59505088,-122.3316719,walking,1749580510,18803,22548
+test,Newcastle Beach Park,47.56581085,-122.1901073,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,driving,1749580510,2461,56725
+test,Newcastle Beach Park,47.56581085,-122.1901073,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,bicycling,1749580510,12604,61848
+test,Newcastle Beach Park,47.56581085,-122.1901073,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,transit,1749580510,9857,73776
+test,Newcastle Beach Park,47.56581085,-122.1901073,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,walking,1749580510,48301,57657
+test,Starfire Sports,47.47001944,-122.249411,Volunteer Park Conservatory,47.63210768,-122.3157461,driving,1749580510,1384,23763
+test,Starfire Sports,47.47001944,-122.249411,Volunteer Park Conservatory,47.63210768,-122.3157461,bicycling,1749580510,5171,23190
+test,Starfire Sports,47.47001944,-122.249411,Volunteer Park Conservatory,47.63210768,-122.3157461,transit,1749580510,4503,23488
+test,Starfire Sports,47.47001944,-122.249411,Volunteer Park Conservatory,47.63210768,-122.3157461,walking,1749580510,17956,20853
+test,Space Needle,47.62047587,-122.3492266,Lumen Field,47.59505088,-122.3316719,driving,1749580510,539,4887
+test,Space Needle,47.62047587,-122.3492266,Lumen Field,47.59505088,-122.3316719,bicycling,1749580510,992,3720
+test,Space Needle,47.62047587,-122.3492266,Lumen Field,47.59505088,-122.3316719,transit,1749580510,1815,4035
+test,Space Needle,47.62047587,-122.3492266,Lumen Field,47.59505088,-122.3316719,walking,1749580510,2977,3592
+test,Kent Station  - train station,47.38456169,-122.232946,Westlake Park,47.61094901,-122.3370206,driving,1749580510,1662,32294
+test,Kent Station  - train station,47.38456169,-122.232946,Westlake Park,47.61094901,-122.3370206,bicycling,1749580510,7120,35690
+test,Kent Station  - train station,47.38456169,-122.232946,Westlake Park,47.61094901,-122.3370206,transit,1749580510,3895,32403
+test,Kent Station  - train station,47.38456169,-122.232946,Westlake Park,47.61094901,-122.3370206,walking,1749580510,24512,29764
+test,Westlake Station - light rail station,47.61175694,-122.3365386,Pier 55,47.60473849,-122.3397158,driving,1749580510,397,1385
+test,Westlake Station - light rail station,47.61175694,-122.3365386,Pier 55,47.60473849,-122.3397158,bicycling,1749580510,421,1399
+test,Westlake Station - light rail station,47.61175694,-122.3365386,Pier 55,47.60473849,-122.3397158,transit,1749580510,610,1226
+test,Westlake Station - light rail station,47.61175694,-122.3365386,Pier 55,47.60473849,-122.3397158,walking,1749580510,929,1101
+test,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,driving,1749580510,1094,19956
+test,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,bicycling,1749580510,5229,23226
+test,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,transit,1749580510,1623,19124
+test,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,walking,1749580510,15825,19059
+test,U District Station - light rail station,47.65997355,-122.314078,Seattle Pinball Museum,47.59806291,-122.3247878,driving,1749580510,713,8968
+test,U District Station - light rail station,47.65997355,-122.314078,Seattle Pinball Museum,47.59806291,-122.3247878,bicycling,1749580510,2083,8480
+test,U District Station - light rail station,47.65997355,-122.314078,Seattle Pinball Museum,47.59806291,-122.3247878,transit,1749580510,1168,9175
+test,U District Station - light rail station,47.65997355,-122.314078,Seattle Pinball Museum,47.59806291,-122.3247878,walking,1749580510,6768,8060
+test,The Gum Wall at Unexpected Productions Improv,47.60835761,-122.3403387,Historic Chinatown Gate,47.59843717,-122.3273775,driving,1749580510,432,1793
+test,The Gum Wall at Unexpected Productions Improv,47.60835761,-122.3403387,Historic Chinatown Gate,47.59843717,-122.3273775,bicycling,1749580510,582,1726
+test,The Gum Wall at Unexpected Productions Improv,47.60835761,-122.3403387,Historic Chinatown Gate,47.59843717,-122.3273775,transit,1749580510,868,1767
+test,The Gum Wall at Unexpected Productions Improv,47.60835761,-122.3403387,Historic Chinatown Gate,47.59843717,-122.3273775,walking,1749580510,1478,1731
+test,Pier 55,47.60473849,-122.3397158,Island Crest Park,47.55038816,-122.2236283,driving,1749580510,967,14063
+test,Pier 55,47.60473849,-122.3397158,Island Crest Park,47.55038816,-122.2236283,bicycling,1749580510,3842,14836
+test,Pier 55,47.60473849,-122.3397158,Island Crest Park,47.55038816,-122.2236283,transit,1749580510,2640,15368
+test,Pier 55,47.60473849,-122.3397158,Island Crest Park,47.55038816,-122.2236283,walking,1749580510,11521,13470
+test,Gas Works Park,47.64562277,-122.334361,Juanita Beach Park,47.70461277,-122.2148103,driving,1749580510,1665,26725
+test,Gas Works Park,47.64562277,-122.334361,Juanita Beach Park,47.70461277,-122.2148103,bicycling,1749580510,4126,19465
+test,Gas Works Park,47.64562277,-122.334361,Juanita Beach Park,47.70461277,-122.2148103,transit,1749580510,4528,21732
+test,Gas Works Park,47.64562277,-122.334361,Juanita Beach Park,47.70461277,-122.2148103,walking,1749580510,15790,19275
+test,Seattle Aquarium,47.60738161,-122.3429637,Seattle Public Library - Central Library,47.60665261,-122.3321832,driving,1749580510,330,1083
+test,Seattle Aquarium,47.60738161,-122.3429637,Seattle Public Library - Central Library,47.60665261,-122.3321832,bicycling,1749580510,586,1146
+test,Seattle Aquarium,47.60738161,-122.3429637,Seattle Public Library - Central Library,47.60665261,-122.3321832,transit,1749580510,944,1214
+test,Seattle Aquarium,47.60738161,-122.3429637,Seattle Public Library - Central Library,47.60665261,-122.3321832,walking,1749580510,1115,1119
+test,Angle Lake Station - light rail station,47.42298824,-122.2978796,Beacon Hill Station - light rail station,47.57926799,-122.3117274,driving,1749580510,1160,22276
+test,Angle Lake Station - light rail station,47.42298824,-122.2978796,Beacon Hill Station - light rail station,47.57926799,-122.3117274,bicycling,1749580510,4418,21079
+test,Angle Lake Station - light rail station,47.42298824,-122.2978796,Beacon Hill Station - light rail station,47.57926799,-122.3117274,transit,1749580510,2763,22078
+test,Angle Lake Station - light rail station,47.42298824,-122.2978796,Beacon Hill Station - light rail station,47.57926799,-122.3117274,walking,1749580510,17000,20241
+test,Seattle Japanese Garden,47.62898814,-122.2962975,Chism Beach Park,47.59991929,-122.2107849,driving,1749580510,1172,14330
+test,Seattle Japanese Garden,47.62898814,-122.2962975,Chism Beach Park,47.59991929,-122.2107849,bicycling,1749580510,3064,14131
+test,Seattle Japanese Garden,47.62898814,-122.2962975,Chism Beach Park,47.59991929,-122.2107849,transit,1749580510,4675,21782
+test,Seattle Japanese Garden,47.62898814,-122.2962975,Chism Beach Park,47.59991929,-122.2107849,walking,1749580510,11363,13578
+test,Kent Station  - train station,47.38456169,-122.232946,T-Mobile Park,47.59146257,-122.3326463,driving,1749580510,1547,31071
+test,Kent Station  - train station,47.38456169,-122.232946,T-Mobile Park,47.59146257,-122.3326463,bicycling,1749580510,6378,33546
+test,Kent Station  - train station,47.38456169,-122.232946,T-Mobile Park,47.59146257,-122.3326463,transit,1749580510,4199,31093
+test,Kent Station  - train station,47.38456169,-122.232946,T-Mobile Park,47.59146257,-122.3326463,walking,1749580510,22639,27623
+test,Green Lake Park,47.68018985,-122.3284285,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,driving,1749580510,1554,31069
+test,Green Lake Park,47.68018985,-122.3284285,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,bicycling,1749580510,6953,29879
+test,Green Lake Park,47.68018985,-122.3284285,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,transit,1749580510,4054,34443
+test,Green Lake Park,47.68018985,-122.3284285,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,walking,1749580510,25420,29975
+test,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,Chihuly Garden and Glass,47.62054706,-122.3504608,driving,1749580510,905,6996
+test,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,Chihuly Garden and Glass,47.62054706,-122.3504608,bicycling,1749580510,1767,8073
+test,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,Chihuly Garden and Glass,47.62054706,-122.3504608,transit,1749580510,1559,9055
+test,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,Chihuly Garden and Glass,47.62054706,-122.3504608,walking,1749580510,5451,6529
+test,Seattle Pinball Museum,47.59806291,-122.3247878,East Main Station - light rail station,47.60817687,-122.1911446,driving,1749580510,921,15132
+test,Seattle Pinball Museum,47.59806291,-122.3247878,East Main Station - light rail station,47.60817687,-122.1911446,bicycling,1749580510,3842,16667
+test,Seattle Pinball Museum,47.59806291,-122.3247878,East Main Station - light rail station,47.60817687,-122.1911446,transit,1749580510,2298,17476
+test,Seattle Pinball Museum,47.59806291,-122.3247878,East Main Station - light rail station,47.60817687,-122.1911446,walking,1749580510,12168,14573
+test,Lakewood Station - train station,47.15296989,-122.4993851,Luther Burbank Park,47.5911729,-122.2256759,driving,1749580510,2920,69965
+test,Lakewood Station - train station,47.15296989,-122.4993851,Luther Burbank Park,47.5911729,-122.2256759,bicycling,1749580510,15577,79074
+test,Lakewood Station - train station,47.15296989,-122.4993851,Luther Burbank Park,47.5911729,-122.2256759,transit,1749580510,7218,78686
+test,Lakewood Station - train station,47.15296989,-122.4993851,Luther Burbank Park,47.5911729,-122.2256759,walking,1749580510,57763,69129
+test,Island Crest Park,47.55038816,-122.2236283,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,driving,1749580510,2843,64389
+test,Island Crest Park,47.55038816,-122.2236283,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,bicycling,1749580510,13747,67239
+test,Island Crest Park,47.55038816,-122.2236283,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,transit,1749580510,8987,70150
+test,Island Crest Park,47.55038816,-122.2236283,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,walking,1749580510,51985,62070
