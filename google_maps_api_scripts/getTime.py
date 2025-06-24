@@ -33,30 +33,106 @@ def getTime(A, B, m):
     # Return None if API call failed or data was invalid
     return None
 
-
 # Example Usage:
-paradise_coords = (36.0968, -115.1703)
-freemont_street_coords = (36.1699, -115.1398)
+benaroya_hall = (47.60814199288301, -122.3368087995574)
+museum_pop_culture = (47.621470125609314, -122.3481282699205)
+spaceneedle = (47.620475865973454, -122.34922662355609)
+seattle_aquarium = (47.607381610552146, -122.34296367108706)
+sculpture_park = (47.616598558883176, -122.35531073027671)
+pike_place = (47.60939849082073, -122.3418399195103)
+art_museum = (47.60751482550527, -122.33796002616279)
+westlake_center = (47.61204391377087, -122.33748668957276)
+uwub_station = (47.65027972126398, -122.30374414254722)
+westlake_station = (47.61175694210985, -122.3365386185384)
 
-museum_of_flight = (47.5185223071121, -122.296854586384)
-bellevue_square = (47.6157165377573, -122.203733607983)
+
+fourDestinations = [
+    ("Benaroya Hall", (47.60814199288301, -122.3368087995574)),
+    ("Pike Place Market", (47.60939849082073, -122.3418399195103)),
+    ("Westlake Center", (47.61204391377087, -122.33748668957276)),
+    ("UW Station", (47.65027972126398, -122.30374414254722))
+]
+
+# Unpack them for manual use
+nameA, A = fourDestinations[0]
+nameB, B = fourDestinations[1]
+nameC, C = fourDestinations[2]
+nameD, D = fourDestinations[3]
+
+# AB
+print(f"AB - {nameA} → {nameB}")
+print("  Driving distance:", getTime(A, B, "driving"), "seconds")
+print("  Walking distance:", getTime(A, B, "walking"), "seconds")
+print("  Bicycling distance:", getTime(A, B, "bicycling"), "seconds")
+print("  Transit distance:", getTime(A, B, "transit"), "seconds")
+print()
+
+# BC
+print(f"BC - {nameB} → {nameC}")
+print("  Driving distance:", getTime(B, C, "driving"), "seconds")
+print("  Walking distance:", getTime(B, C, "walking"), "seconds")
+print("  Bicycling distance:", getTime(B, C, "bicycling"), "seconds")
+print("  Transit distance:", getTime(B, C, "transit"), "seconds")
+print()
+
+# CD
+print(f"CD - {nameC} → {nameD}")
+print("  Driving distance:", getTime(C, D, "driving"), "seconds")
+print("  Walking distance:", getTime(C, D, "walking"), "seconds")
+print("  Bicycling distance:", getTime(C, D, "bicycling"), "seconds")
+print("  Transit distance:", getTime(C, D, "transit"), "seconds")
+print()
 
 
+'''
+driving_distance = getTime(sculpture_park, spaceneedle, "driving")
+walking_distance = getTime(sculpture_park, spaceneedle, "walking")
+bicycling_distance = getTime(sculpture_park, spaceneedle, "bicycling")
+transit_distance = getTime(sculpture_park, spaceneedle, "transit")
+
+driving_distance2 = getTime(spaceneedle, pike_place, "driving")
+walking_distance2 = getTime(spaceneedle, pike_place, "walking")
+bicycling_distance2 = getTime(spaceneedle, pike_place, "bicycling")
+transit_distance2 = getTime(spaceneedle, pike_place, "transit")
+
+driving_distance3 = getTime(pike_place, uwub_station, "driving")
+walking_distance3 = getTime(pike_place, uwub_station, "walking")
+bicycling_distance3 = getTime(pike_place, uwub_station, "bicycling")
+transit_distance3 = getTime(pike_place, uwub_station, "transit")
 
 
-driving_time = getTime(paradise_coords, freemont_street_coords, "driving")
-walking_time = getTime(paradise_coords, freemont_street_coords, "walking")
+print("AB - Sculpture Park to Space Needle ")
+print("Driving time:", driving_distance, "seconds")
+print("Walking time:", walking_distance, "seconds")
+print("Bicycling time:", bicycling_distance, "seconds")
+print("Transit time:", transit_distance, "seconds")
 
-driving_distance2 = getTime(museum_of_flight, bellevue_square, "driving")
-walking_distance2 = getTime(museum_of_flight, bellevue_square, "walking")
-bicycling_distance2 = getTime(museum_of_flight, bellevue_square, "bicycling")
-transit_distance2 = getTime(museum_of_flight, bellevue_square, "transit")
 
-print("Paradise to Freemont Driving time:", driving_time, "seconds")
-print("Paradise to Freemont Walking time:", walking_time, "seconds")
+print("BC - Space Needle to Pike Place")
+print("Driving time:", driving_distance2, "seconds")
+print("Walking time:", walking_distance2, "seconds")
+print("Bicycling time:", bicycling_distance2, "seconds")
+print("Transit time:", transit_distance2, "seconds")
 
-print("Seattle case:")
-print("Driving distance:", driving_distance2, "seconds")
-print("Walking distance:", walking_distance2, "seconds")
-print("Bicycling distance:", bicycling_distance2, "seconds")
-print("Transit distance:", transit_distance2, "seconds")
+print("CD - Pike Place to UW Station")
+print("Driving time:", driving_distance3, "seconds")
+print("Walking time:", walking_distance3, "seconds")
+print("Bicycling time:", bicycling_distance3, "seconds")
+print("Transit time:", transit_distance3, "seconds")
+
+# 1 A- D
+# AB - Pop Cult to Space Needle 
+# BC - Space Needle to seattle aquarium
+# CD - Seattle aquarium to sculp park
+
+# 2 A - D 
+# AB - Benaroya hall to art museum 
+# BC - art museum to pike place
+# CD - pike place to aquarium
+
+
+# museum_pop_culture = (47.621470125609314, -122.3481282699205)
+# spaceneedle = (47.620475865973454, -122.34922662355609)
+# seattle_aquarium = (47.607381610552146, -122.34296367108706)
+# sculpture_park = (47.616598558883176, -122.35531073027671)
+'''
