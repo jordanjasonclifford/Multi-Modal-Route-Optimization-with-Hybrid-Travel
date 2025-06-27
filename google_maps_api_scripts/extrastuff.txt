@@ -1,0 +1,102 @@
+
+'''
+driving_distance = getTime(sculpture_park, spaceneedle, "driving")
+walking_distance = getTime(sculpture_park, spaceneedle, "walking")
+bicycling_distance = getTime(sculpture_park, spaceneedle, "bicycling")
+transit_distance = getTime(sculpture_park, spaceneedle, "transit")
+
+driving_distance2 = getTime(spaceneedle, pike_place, "driving")
+walking_distance2 = getTime(spaceneedle, pike_place, "walking")
+bicycling_distance2 = getTime(spaceneedle, pike_place, "bicycling")
+transit_distance2 = getTime(spaceneedle, pike_place, "transit")
+
+driving_distance3 = getTime(pike_place, uwub_station, "driving")
+walking_distance3 = getTime(pike_place, uwub_station, "walking")
+bicycling_distance3 = getTime(pike_place, uwub_station, "bicycling")
+transit_distance3 = getTime(pike_place, uwub_station, "transit")
+
+
+print("AB - Sculpture Park to Space Needle ")
+print("Driving time:", driving_distance, "seconds")
+print("Walking time:", walking_distance, "seconds")
+print("Bicycling time:", bicycling_distance, "seconds")
+print("Transit time:", transit_distance, "seconds")
+
+
+print("BC - Space Needle to Pike Place")
+print("Driving time:", driving_distance2, "seconds")
+print("Walking time:", walking_distance2, "seconds")
+print("Bicycling time:", bicycling_distance2, "seconds")
+print("Transit time:", transit_distance2, "seconds")
+
+print("CD - Pike Place to UW Station")
+print("Driving time:", driving_distance3, "seconds")
+print("Walking time:", walking_distance3, "seconds")
+print("Bicycling time:", bicycling_distance3, "seconds")
+print("Transit time:", transit_distance3, "seconds")
+
+# 1 A- D
+# AB - Pop Cult to Space Needle 
+# BC - Space Needle to seattle aquarium
+# CD - Seattle aquarium to sculp park
+
+# 2 A - D 
+# AB - Benaroya hall to art museum 
+# BC - art museum to pike place
+# CD - pike place to aquarium
+
+
+# museum_pop_culture = (47.621470125609314, -122.3481282699205)
+# spaceneedle = (47.620475865973454, -122.34922662355609)
+# seattle_aquarium = (47.607381610552146, -122.34296367108706)
+# sculpture_park = (47.616598558883176, -122.35531073027671)
+''' 
+
+
+'''
+driving_distance = getDistance(sculpture_park, spaceneedle, "driving")
+walking_distance = getDistance(sculpture_park, spaceneedle, "walking")
+bicycling_distance = getDistance(sculpture_park, spaceneedle, "bicycling")
+transit_distance = getDistance(sculpture_park, spaceneedle, "transit")
+
+driving_distance2 = getDistance(spaceneedle, pike_place, "driving")
+walking_distance2 = getDistance(spaceneedle, pike_place, "walking")
+bicycling_distance2 = getDistance(spaceneedle, pike_place, "bicycling")
+transit_distance2 = getDistance(spaceneedle, pike_place, "transit")
+
+driving_distance3 = getDistance(pike_place, uwub_station, "driving")
+walking_distance3 = getDistance(pike_place, uwub_station, "walking")
+bicycling_distance3 = getDistance(pike_place, uwub_station, "bicycling")
+transit_distance3 = getDistance(pike_place, uwub_station, "transit")
+
+
+print("AB - Sculpture Park to Space Needle ")
+print("Driving distance:", driving_distance, "meters")
+print("Walking distance:", walking_distance, "meters")
+print("Bicycling distance:", bicycling_distance, "meters")
+print("Transit distance:", transit_distance, "meters")
+
+
+print("BC - Space Needle to Pike Place")
+print("Driving distance:", driving_distance2, "meters")
+print("Walking distance:", walking_distance2, "meters")
+print("Bicycling distance:", bicycling_distance2, "meters")
+print("Transit distance:", transit_distance2, "meters")
+
+print("CD - Pike Place to UW Station")
+print("Driving distance:", driving_distance3, "meters")
+print("Walking distance:", walking_distance3, "meters")
+print("Bicycling distance:", bicycling_distance3, "meters")
+print("Transit distance:", transit_distance3, "meters")
+
+# 1 A- D
+# AB - Pop Cult to Space Needle 
+# BC - Space Needle to seattle aquarium
+# CD - Seattle aquarium to sculp park
+
+
+# museum_pop_culture = (47.621470125609314, -122.3481282699205)
+# spaceneedle = (47.620475865973454, -122.34922662355609)
+# seattle_aquarium = (47.607381610552146, -122.34296367108706)
+# sculpture_park = (47.616598558883176, -122.35531073027671)
+'''

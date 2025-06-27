@@ -44,13 +44,20 @@ art_museum = (47.60751482550527, -122.33796002616279)
 westlake_center = (47.61204391377087, -122.33748668957276)
 uwub_station = (47.65027972126398, -122.30374414254722)
 westlake_station = (47.61175694210985, -122.3365386185384)
+u_district_station = (47.6599735494618, -122.31407798225337)
+henry_art_gallery = (47.656270488379, -122.31172287699964)
+fremont_troll = (47.65105594466806, -122.34750074191479)
+sodo_station = (47.581165192600594, -122.32736238031688)
+international_fountain = (47.62250232314546, -122.35208589820942)
+chinatown_gate = (47.59835834310235, -122.328023768465)
+seattle_great_wheel = (47.606120881176786, -122.34252171878009)
 
 
 fourDestinations = [
-    ("Benaroya Hall", (47.60814199288301, -122.3368087995574)),
-    ("Pike Place Market", (47.60939849082073, -122.3418399195103)),
-    ("Westlake Center", (47.61204391377087, -122.33748668957276)),
-    ("UW Station", (47.65027972126398, -122.30374414254722))
+    ("The Seattle Great Wheel", (47.606120881176786, -122.34252171878009)),       # A
+    ("SODO Station", (47.581165192600594, -122.32736238031688)),                  # B
+    ("International Fountain", (47.62250232314546, -122.35208589820942)),         # C
+    ("Historic Chinatown Gate", (47.59835834310235, -122.328023768465))         # D
 ]
 
 # Unpack them for manual use
@@ -64,75 +71,19 @@ print(f"AB - {nameA} → {nameB}")
 print("  Driving distance:", getTime(A, B, "driving"), "seconds")
 print("  Walking distance:", getTime(A, B, "walking"), "seconds")
 print("  Bicycling distance:", getTime(A, B, "bicycling"), "seconds")
-print("  Transit distance:", getTime(A, B, "transit"), "seconds")
-print()
+print("  Transit distance:", getTime(A, B, "transit"), "seconds\n")
 
 # BC
 print(f"BC - {nameB} → {nameC}")
 print("  Driving distance:", getTime(B, C, "driving"), "seconds")
 print("  Walking distance:", getTime(B, C, "walking"), "seconds")
 print("  Bicycling distance:", getTime(B, C, "bicycling"), "seconds")
-print("  Transit distance:", getTime(B, C, "transit"), "seconds")
-print()
+print("  Transit distance:", getTime(B, C, "transit"), "seconds\n")
 
 # CD
 print(f"CD - {nameC} → {nameD}")
 print("  Driving distance:", getTime(C, D, "driving"), "seconds")
 print("  Walking distance:", getTime(C, D, "walking"), "seconds")
 print("  Bicycling distance:", getTime(C, D, "bicycling"), "seconds")
-print("  Transit distance:", getTime(C, D, "transit"), "seconds")
-print()
+print("  Transit distance:", getTime(C, D, "transit"), "seconds\n")
 
-
-'''
-driving_distance = getTime(sculpture_park, spaceneedle, "driving")
-walking_distance = getTime(sculpture_park, spaceneedle, "walking")
-bicycling_distance = getTime(sculpture_park, spaceneedle, "bicycling")
-transit_distance = getTime(sculpture_park, spaceneedle, "transit")
-
-driving_distance2 = getTime(spaceneedle, pike_place, "driving")
-walking_distance2 = getTime(spaceneedle, pike_place, "walking")
-bicycling_distance2 = getTime(spaceneedle, pike_place, "bicycling")
-transit_distance2 = getTime(spaceneedle, pike_place, "transit")
-
-driving_distance3 = getTime(pike_place, uwub_station, "driving")
-walking_distance3 = getTime(pike_place, uwub_station, "walking")
-bicycling_distance3 = getTime(pike_place, uwub_station, "bicycling")
-transit_distance3 = getTime(pike_place, uwub_station, "transit")
-
-
-print("AB - Sculpture Park to Space Needle ")
-print("Driving time:", driving_distance, "seconds")
-print("Walking time:", walking_distance, "seconds")
-print("Bicycling time:", bicycling_distance, "seconds")
-print("Transit time:", transit_distance, "seconds")
-
-
-print("BC - Space Needle to Pike Place")
-print("Driving time:", driving_distance2, "seconds")
-print("Walking time:", walking_distance2, "seconds")
-print("Bicycling time:", bicycling_distance2, "seconds")
-print("Transit time:", transit_distance2, "seconds")
-
-print("CD - Pike Place to UW Station")
-print("Driving time:", driving_distance3, "seconds")
-print("Walking time:", walking_distance3, "seconds")
-print("Bicycling time:", bicycling_distance3, "seconds")
-print("Transit time:", transit_distance3, "seconds")
-
-# 1 A- D
-# AB - Pop Cult to Space Needle 
-# BC - Space Needle to seattle aquarium
-# CD - Seattle aquarium to sculp park
-
-# 2 A - D 
-# AB - Benaroya hall to art museum 
-# BC - art museum to pike place
-# CD - pike place to aquarium
-
-
-# museum_pop_culture = (47.621470125609314, -122.3481282699205)
-# spaceneedle = (47.620475865973454, -122.34922662355609)
-# seattle_aquarium = (47.607381610552146, -122.34296367108706)
-# sculpture_park = (47.616598558883176, -122.35531073027671)
-'''
