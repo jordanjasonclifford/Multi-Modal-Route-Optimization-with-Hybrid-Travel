@@ -1,0 +1,5 @@
+﻿origin_place,origin_lat,origin_lng,destination_place,destination_lat,destination_lng,mode
+Space Needle,47.62047587,-122.3492266,Benaroya Hall,47.60814199,-122.3368088,driving
+Space Needle,47.62047587,-122.3492266,Benaroya Hall,47.60814199,-122.3368088,walking
+Space Needle,47.62047587,-122.3492266,Benaroya Hall,47.60814199,-122.3368088,bicycling
+Space Needle,47.62047587,-122.3492266,Benaroya Hall,47.60814199,-122.3368088,transit
