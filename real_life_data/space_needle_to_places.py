@@ -9,10 +9,10 @@ df['lat'] = df['lat'].astype(float)
 df['lng'] = df['lng'].astype(float)
 
 # Define origin
-origin = df[df['Place'] == 'Space Needle'].iloc[0]
+origin = df[df['Place'] == 'Westlake Park'].iloc[0]
 
 # Destination: All except origin
-destinations = df[df['Place'] != 'Space Needle']
+destinations = df[df['Place'] != 'Westlake Park']
 
 # Modes
 modes = ['driving', 'walking', 'bicycling', 'transit']

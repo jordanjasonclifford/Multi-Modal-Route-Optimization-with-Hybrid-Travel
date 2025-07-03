@@ -1,0 +1,609 @@
+origin_place,origin_lat,origin_lng,destination_place,destination_lat,destination_lng,mode,duration_sec,distance_m
+Westlake Park,47.61094901,-122.3370206,Space Needle,47.62047587,-122.3492266,driving,444,1850
+Westlake Park,47.61094901,-122.3370206,Space Needle,47.62047587,-122.3492266,walking,1301,1505
+Westlake Park,47.61094901,-122.3370206,Space Needle,47.62047587,-122.3492266,bicycling,439,1528
+Westlake Park,47.61094901,-122.3370206,Space Needle,47.62047587,-122.3492266,transit,461,1807
+Westlake Park,47.61094901,-122.3370206,Chihuly Garden and Glass,47.62054706,-122.3504608,driving,458,1862
+Westlake Park,47.61094901,-122.3370206,Chihuly Garden and Glass,47.62054706,-122.3504608,walking,1320,1527
+Westlake Park,47.61094901,-122.3370206,Chihuly Garden and Glass,47.62054706,-122.3504608,bicycling,437,1512
+Westlake Park,47.61094901,-122.3370206,Chihuly Garden and Glass,47.62054706,-122.3504608,transit,494,1846
+Westlake Park,47.61094901,-122.3370206,Seattle Aquarium,47.60738161,-122.3429637,driving,473,2131
+Westlake Park,47.61094901,-122.3370206,Seattle Aquarium,47.60738161,-122.3429637,walking,610,648
+Westlake Park,47.61094901,-122.3370206,Seattle Aquarium,47.60738161,-122.3429637,bicycling,420,1680
+Westlake Park,47.61094901,-122.3370206,Seattle Aquarium,47.60738161,-122.3429637,transit,610,648
+Westlake Park,47.61094901,-122.3370206,Olympic Sculpture Park,47.61659856,-122.3553107,driving,408,1937
+Westlake Park,47.61094901,-122.3370206,Olympic Sculpture Park,47.61659856,-122.3553107,walking,1462,1753
+Westlake Park,47.61094901,-122.3370206,Olympic Sculpture Park,47.61659856,-122.3553107,bicycling,638,1900
+Westlake Park,47.61094901,-122.3370206,Olympic Sculpture Park,47.61659856,-122.3553107,transit,1096,2191
+Westlake Park,47.61094901,-122.3370206,Museum of Pop Culture,47.62147013,-122.3481283,driving,432,1856
+Westlake Park,47.61094901,-122.3370206,Museum of Pop Culture,47.62147013,-122.3481283,walking,1321,1543
+Westlake Park,47.61094901,-122.3370206,Museum of Pop Culture,47.62147013,-122.3481283,bicycling,462,1684
+Westlake Park,47.61094901,-122.3370206,Museum of Pop Culture,47.62147013,-122.3481283,transit,527,1915
+Westlake Park,47.61094901,-122.3370206,Discovery Park,47.66122637,-122.4172053,driving,1263,10310
+Westlake Park,47.61094901,-122.3370206,Discovery Park,47.66122637,-122.4172053,walking,8419,9848
+Westlake Park,47.61094901,-122.3370206,Discovery Park,47.66122637,-122.4172053,bicycling,2464,10527
+Westlake Park,47.61094901,-122.3370206,Discovery Park,47.66122637,-122.4172053,transit,2975,12438
+Westlake Park,47.61094901,-122.3370206,Pike Place Market,47.60939849,-122.3418399,driving,207,634
+Westlake Park,47.61094901,-122.3370206,Pike Place Market,47.60939849,-122.3418399,walking,381,421
+Westlake Park,47.61094901,-122.3370206,Pike Place Market,47.60939849,-122.3418399,bicycling,228,637
+Westlake Park,47.61094901,-122.3370206,Pike Place Market,47.60939849,-122.3418399,transit,381,421
+Westlake Park,47.61094901,-122.3370206,The Seattle Great Wheel,47.60612088,-122.3425217,driving,425,1710
+Westlake Park,47.61094901,-122.3370206,The Seattle Great Wheel,47.60612088,-122.3425217,walking,955,1161
+Westlake Park,47.61094901,-122.3370206,The Seattle Great Wheel,47.60612088,-122.3425217,bicycling,520,1506
+Westlake Park,47.61094901,-122.3370206,The Seattle Great Wheel,47.60612088,-122.3425217,transit,762,1327
+Westlake Park,47.61094901,-122.3370206,Fremont Troll,47.65105594,-122.3475007,driving,610,5300
+Westlake Park,47.61094901,-122.3370206,Fremont Troll,47.65105594,-122.3475007,walking,4162,4857
+Westlake Park,47.61094901,-122.3370206,Fremont Troll,47.65105594,-122.3475007,bicycling,1287,5217
+Westlake Park,47.61094901,-122.3370206,Fremont Troll,47.65105594,-122.3475007,transit,1189,5462
+Westlake Park,47.61094901,-122.3370206,Seattle Art Museum,47.60751483,-122.33796,driving,203,822
+Westlake Park,47.61094901,-122.3370206,Seattle Art Museum,47.60751483,-122.33796,walking,400,485
+Westlake Park,47.61094901,-122.3370206,Seattle Art Museum,47.60751483,-122.33796,bicycling,144,531
+Westlake Park,47.61094901,-122.3370206,Seattle Art Museum,47.60751483,-122.33796,transit,400,485
+Westlake Park,47.61094901,-122.3370206,Waterfront Park,47.60703331,-122.3418279,driving,438,1771
+Westlake Park,47.61094901,-122.3370206,Waterfront Park,47.60703331,-122.3418279,walking,632,730
+Westlake Park,47.61094901,-122.3370206,Waterfront Park,47.60703331,-122.3418279,bicycling,400,1551
+Westlake Park,47.61094901,-122.3370206,Waterfront Park,47.60703331,-122.3418279,transit,632,730
+Westlake Park,47.61094901,-122.3370206,Kerry Park,47.62947041,-122.3599343,driving,706,3458
+Westlake Park,47.61094901,-122.3370206,Kerry Park,47.62947041,-122.3599343,walking,2939,3241
+Westlake Park,47.61094901,-122.3370206,Kerry Park,47.62947041,-122.3599343,bicycling,1215,3717
+Westlake Park,47.61094901,-122.3370206,Kerry Park,47.62947041,-122.3599343,transit,1415,3585
+Westlake Park,47.61094901,-122.3370206,The Gum Wall at Unexpected Productions Improv,47.60835761,-122.3403387,driving,220,718
+Westlake Park,47.61094901,-122.3370206,The Gum Wall at Unexpected Productions Improv,47.60835761,-122.3403387,walking,389,453
+Westlake Park,47.61094901,-122.3370206,The Gum Wall at Unexpected Productions Improv,47.60835761,-122.3403387,bicycling,238,764
+Westlake Park,47.61094901,-122.3370206,The Gum Wall at Unexpected Productions Improv,47.60835761,-122.3403387,transit,389,453
+Westlake Park,47.61094901,-122.3370206,Smith Tower,47.6018488,-122.3318543,driving,364,1617
+Westlake Park,47.61094901,-122.3370206,Smith Tower,47.6018488,-122.3318543,walking,1042,1261
+Westlake Park,47.61094901,-122.3370206,Smith Tower,47.6018488,-122.3318543,bicycling,422,1350
+Westlake Park,47.61094901,-122.3370206,Smith Tower,47.6018488,-122.3318543,transit,284,1400
+Westlake Park,47.61094901,-122.3370206,Seattle Japanese Garden,47.62898814,-122.2962975,driving,724,7595
+Westlake Park,47.61094901,-122.3370206,Seattle Japanese Garden,47.62898814,-122.2962975,walking,3966,4496
+Westlake Park,47.61094901,-122.3370206,Seattle Japanese Garden,47.62898814,-122.2962975,bicycling,1613,7137
+Westlake Park,47.61094901,-122.3370206,Seattle Japanese Garden,47.62898814,-122.2962975,transit,1798,5000
+Westlake Park,47.61094901,-122.3370206,Volunteer Park,47.63103247,-122.3163297,driving,704,5300
+Westlake Park,47.61094901,-122.3370206,Volunteer Park,47.63103247,-122.3163297,walking,3170,3398
+Westlake Park,47.61094901,-122.3370206,Volunteer Park,47.63103247,-122.3163297,bicycling,1263,3782
+Westlake Park,47.61094901,-122.3370206,Volunteer Park,47.63103247,-122.3163297,transit,1563,4191
+Westlake Park,47.61094901,-122.3370206,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,driving,392,1672
+Westlake Park,47.61094901,-122.3370206,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,walking,752,860
+Westlake Park,47.61094901,-122.3370206,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,bicycling,296,860
+Westlake Park,47.61094901,-122.3370206,Sky View Observatory - Columbia Center,47.60436106,-122.3310108,transit,542,1625
+Westlake Park,47.61094901,-122.3370206,Seward Park,47.54960139,-122.2573653,driving,1288,11868
+Westlake Park,47.61094901,-122.3370206,Seward Park,47.54960139,-122.2573653,walking,8968,10682
+Westlake Park,47.61094901,-122.3370206,Seward Park,47.54960139,-122.2573653,bicycling,2685,11900
+Westlake Park,47.61094901,-122.3370206,Seward Park,47.54960139,-122.2573653,transit,2358,13219
+Westlake Park,47.61094901,-122.3370206,Lake Union Park,47.6270909,-122.337132,driving,570,2252
+Westlake Park,47.61094901,-122.3370206,Lake Union Park,47.6270909,-122.337132,walking,1617,1957
+Westlake Park,47.61094901,-122.3370206,Lake Union Park,47.6270909,-122.337132,bicycling,593,2307
+Westlake Park,47.61094901,-122.3370206,Lake Union Park,47.6270909,-122.337132,transit,948,2362
+Westlake Park,47.61094901,-122.3370206,Wing Luke Museum,47.59821381,-122.322921,driving,539,3161
+Westlake Park,47.61094901,-122.3370206,Wing Luke Museum,47.59821381,-122.322921,walking,1730,2017
+Westlake Park,47.61094901,-122.3370206,Wing Luke Museum,47.59821381,-122.322921,bicycling,690,2072
+Westlake Park,47.61094901,-122.3370206,Wing Luke Museum,47.59821381,-122.322921,transit,767,2350
+Westlake Park,47.61094901,-122.3370206,Pier 55,47.60473849,-122.3397158,driving,407,1567
+Westlake Park,47.61094901,-122.3370206,Pier 55,47.60473849,-122.3397158,walking,790,950
+Westlake Park,47.61094901,-122.3370206,Pier 55,47.60473849,-122.3397158,bicycling,345,1245
+Westlake Park,47.61094901,-122.3370206,Pier 55,47.60473849,-122.3397158,transit,593,1132
+Westlake Park,47.61094901,-122.3370206,Kubota Garden,47.5134561,-122.2658735,driving,1061,15760
+Westlake Park,47.61094901,-122.3370206,Kubota Garden,47.5134561,-122.2658735,walking,11234,13274
+Westlake Park,47.61094901,-122.3370206,Kubota Garden,47.5134561,-122.2658735,bicycling,3218,13696
+Westlake Park,47.61094901,-122.3370206,Kubota Garden,47.5134561,-122.2658735,transit,2770,14919
+Westlake Park,47.61094901,-122.3370206,Green Lake Park,47.68018985,-122.3284285,driving,842,8783
+Westlake Park,47.61094901,-122.3370206,Green Lake Park,47.68018985,-122.3284285,walking,7394,8688
+Westlake Park,47.61094901,-122.3370206,Green Lake Park,47.68018985,-122.3284285,bicycling,2207,9288
+Westlake Park,47.61094901,-122.3370206,Green Lake Park,47.68018985,-122.3284285,transit,1864,10280
+Westlake Park,47.61094901,-122.3370206,Seattle Chinese Garden,47.5517664,-122.352496,driving,1110,11767
+Westlake Park,47.61094901,-122.3370206,Seattle Chinese Garden,47.5517664,-122.352496,walking,7697,9079
+Westlake Park,47.61094901,-122.3370206,Seattle Chinese Garden,47.5517664,-122.352496,bicycling,2437,9309
+Westlake Park,47.61094901,-122.3370206,Seattle Chinese Garden,47.5517664,-122.352496,transit,1948,9237
+Westlake Park,47.61094901,-122.3370206,Henry Art Gallery,47.65627049,-122.3117229,driving,814,7406
+Westlake Park,47.61094901,-122.3370206,Henry Art Gallery,47.65627049,-122.3117229,walking,5228,6177
+Westlake Park,47.61094901,-122.3370206,Henry Art Gallery,47.65627049,-122.3117229,bicycling,1558,6476
+Westlake Park,47.61094901,-122.3370206,Henry Art Gallery,47.65627049,-122.3117229,transit,1317,7941
+Westlake Park,47.61094901,-122.3370206,Waterfall Garden,47.60022526,-122.3320583,driving,422,1834
+Westlake Park,47.61094901,-122.3370206,Waterfall Garden,47.60022526,-122.3320583,walking,1201,1450
+Westlake Park,47.61094901,-122.3370206,Waterfall Garden,47.60022526,-122.3320583,bicycling,472,1592
+Westlake Park,47.61094901,-122.3370206,Waterfall Garden,47.60022526,-122.3320583,transit,453,1595
+Westlake Park,47.61094901,-122.3370206,Volunteer Park Conservatory,47.63210768,-122.3157461,driving,667,5241
+Westlake Park,47.61094901,-122.3370206,Volunteer Park Conservatory,47.63210768,-122.3157461,walking,3157,3384
+Westlake Park,47.61094901,-122.3370206,Volunteer Park Conservatory,47.63210768,-122.3157461,bicycling,1279,3891
+Westlake Park,47.61094901,-122.3370206,Volunteer Park Conservatory,47.63210768,-122.3157461,transit,1606,3900
+Westlake Park,47.61094901,-122.3370206,Tilikum Place,47.61833492,-122.3474771,driving,379,1582
+Westlake Park,47.61094901,-122.3370206,Tilikum Place,47.61833492,-122.3474771,walking,1022,1194
+Westlake Park,47.61094901,-122.3370206,Tilikum Place,47.61833492,-122.3474771,bicycling,287,1194
+Westlake Park,47.61094901,-122.3370206,Tilikum Place,47.61833492,-122.3474771,transit,725,1583
+Westlake Park,47.61094901,-122.3370206,Historic Chinatown Gate,47.59843717,-122.3273775,driving,493,2091
+Westlake Park,47.61094901,-122.3370206,Historic Chinatown Gate,47.59843717,-122.3273775,walking,1407,1682
+Westlake Park,47.61094901,-122.3370206,Historic Chinatown Gate,47.59843717,-122.3273775,bicycling,574,1733
+Westlake Park,47.61094901,-122.3370206,Historic Chinatown Gate,47.59843717,-122.3273775,transit,443,2015
+Westlake Park,47.61094901,-122.3370206,Seattle Public Library - Central Library,47.60665261,-122.3321832,driving,285,1050
+Westlake Park,47.61094901,-122.3370206,Seattle Public Library - Central Library,47.60665261,-122.3321832,walking,642,691
+Westlake Park,47.61094901,-122.3370206,Seattle Public Library - Central Library,47.60665261,-122.3321832,bicycling,276,695
+Westlake Park,47.61094901,-122.3370206,Seattle Public Library - Central Library,47.60665261,-122.3321832,transit,642,691
+Westlake Park,47.61094901,-122.3370206,Frye Art Museum,47.60719048,-122.3241545,driving,472,1946
+Westlake Park,47.61094901,-122.3370206,Frye Art Museum,47.60719048,-122.3241545,walking,1457,1490
+Westlake Park,47.61094901,-122.3370206,Frye Art Museum,47.60719048,-122.3241545,bicycling,619,1489
+Westlake Park,47.61094901,-122.3370206,Frye Art Museum,47.60719048,-122.3241545,transit,945,1560
+Westlake Park,47.61094901,-122.3370206,Freeway Park,47.60930102,-122.3309046,driving,323,1457
+Westlake Park,47.61094901,-122.3370206,Freeway Park,47.60930102,-122.3309046,walking,725,709
+Westlake Park,47.61094901,-122.3370206,Freeway Park,47.60930102,-122.3309046,bicycling,315,837
+Westlake Park,47.61094901,-122.3370206,Freeway Park,47.60930102,-122.3309046,transit,725,709
+Westlake Park,47.61094901,-122.3370206,Occidental Square,47.60049434,-122.3332285,driving,429,1835
+Westlake Park,47.61094901,-122.3370206,Occidental Square,47.60049434,-122.3332285,walking,1198,1451
+Westlake Park,47.61094901,-122.3370206,Occidental Square,47.60049434,-122.3332285,bicycling,509,1721
+Westlake Park,47.61094901,-122.3370206,Occidental Square,47.60049434,-122.3332285,transit,508,1663
+Westlake Park,47.61094901,-122.3370206,Myrtle Edwards Park,47.61942317,-122.3618116,driving,527,2682
+Westlake Park,47.61094901,-122.3370206,Myrtle Edwards Park,47.61942317,-122.3618116,walking,1966,2420
+Westlake Park,47.61094901,-122.3370206,Myrtle Edwards Park,47.61942317,-122.3618116,bicycling,765,2651
+Westlake Park,47.61094901,-122.3370206,Myrtle Edwards Park,47.61942317,-122.3618116,transit,1228,2710
+Westlake Park,47.61094901,-122.3370206,International Fountain,47.62250232,-122.3520859,driving,514,2509
+Westlake Park,47.61094901,-122.3370206,International Fountain,47.62250232,-122.3520859,walking,1616,1907
+Westlake Park,47.61094901,-122.3370206,International Fountain,47.62250232,-122.3520859,bicycling,538,1936
+Westlake Park,47.61094901,-122.3370206,International Fountain,47.62250232,-122.3520859,transit,569,1945
+Westlake Park,47.61094901,-122.3370206,Hamilton Viewpoint Park,47.59327621,-122.3860307,driving,997,12281
+Westlake Park,47.61094901,-122.3370206,Hamilton Viewpoint Park,47.59327621,-122.3860307,walking,3350,6501
+Westlake Park,47.61094901,-122.3370206,Hamilton Viewpoint Park,47.59327621,-122.3860307,bicycling,2584,10579
+Westlake Park,47.61094901,-122.3370206,Hamilton Viewpoint Park,47.59327621,-122.3860307,transit,2501,10615
+Westlake Park,47.61094901,-122.3370206,World Famous Giant Shoe Museum,47.60862522,-122.3407418,driving,321,1255
+Westlake Park,47.61094901,-122.3370206,World Famous Giant Shoe Museum,47.60862522,-122.3407418,walking,395,446
+Westlake Park,47.61094901,-122.3370206,World Famous Giant Shoe Museum,47.60862522,-122.3407418,bicycling,295,758
+Westlake Park,47.61094901,-122.3370206,World Famous Giant Shoe Museum,47.60862522,-122.3407418,transit,395,446
+Westlake Park,47.61094901,-122.3370206,Coast Guard Museum Northwest,47.59064186,-122.3379202,driving,815,3756
+Westlake Park,47.61094901,-122.3370206,Coast Guard Museum Northwest,47.59064186,-122.3379202,walking,2780,3397
+Westlake Park,47.61094901,-122.3370206,Coast Guard Museum Northwest,47.59064186,-122.3379202,bicycling,988,3766
+Westlake Park,47.61094901,-122.3370206,Coast Guard Museum Northwest,47.59064186,-122.3379202,transit,1792,3432
+Westlake Park,47.61094901,-122.3370206,Museum of Illusions - Seattle,47.60962649,-122.3344392,driving,171,680
+Westlake Park,47.61094901,-122.3370206,Museum of Illusions - Seattle,47.60962649,-122.3344392,walking,301,319
+Westlake Park,47.61094901,-122.3370206,Museum of Illusions - Seattle,47.60962649,-122.3344392,bicycling,134,322
+Westlake Park,47.61094901,-122.3370206,Museum of Illusions - Seattle,47.60962649,-122.3344392,transit,301,319
+Westlake Park,47.61094901,-122.3370206,Jimi Hendrix Statue,47.61550301,-122.3207151,driving,464,1826
+Westlake Park,47.61094901,-122.3370206,Jimi Hendrix Statue,47.61550301,-122.3207151,walking,1430,1458
+Westlake Park,47.61094901,-122.3370206,Jimi Hendrix Statue,47.61550301,-122.3207151,bicycling,656,1545
+Westlake Park,47.61094901,-122.3370206,Jimi Hendrix Statue,47.61550301,-122.3207151,transit,674,1594
+Westlake Park,47.61094901,-122.3370206,Seattle Pinball Museum,47.59806291,-122.3247878,driving,550,2404
+Westlake Park,47.61094901,-122.3370206,Seattle Pinball Museum,47.59806291,-122.3247878,walking,1600,1888
+Westlake Park,47.61094901,-122.3370206,Seattle Pinball Museum,47.59806291,-122.3247878,bicycling,633,1943
+Westlake Park,47.61094901,-122.3370206,Seattle Pinball Museum,47.59806291,-122.3247878,transit,971,2236
+Westlake Park,47.61094901,-122.3370206,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,driving,776,3403
+Westlake Park,47.61094901,-122.3370206,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,walking,3045,3241
+Westlake Park,47.61094901,-122.3370206,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,bicycling,1236,3612
+Westlake Park,47.61094901,-122.3370206,Black Sun by Isamu Noguchi,47.62993554,-122.3151906,transit,1620,3634
+Westlake Park,47.61094901,-122.3370206,Woodland Park Rose Garden,47.66576036,-122.3493411,driving,785,7280
+Westlake Park,47.61094901,-122.3370206,Woodland Park Rose Garden,47.66576036,-122.3493411,walking,5789,6593
+Westlake Park,47.61094901,-122.3370206,Woodland Park Rose Garden,47.66576036,-122.3493411,bicycling,1970,6687
+Westlake Park,47.61094901,-122.3370206,Woodland Park Rose Garden,47.66576036,-122.3493411,transit,1773,7165
+Westlake Park,47.61094901,-122.3370206,Centennial Park,47.62260778,-122.366416,driving,545,2935
+Westlake Park,47.61094901,-122.3370206,Centennial Park,47.62260778,-122.366416,walking,2369,2914
+Westlake Park,47.61094901,-122.3370206,Centennial Park,47.62260778,-122.366416,bicycling,758,3108
+Westlake Park,47.61094901,-122.3370206,Centennial Park,47.62260778,-122.366416,transit,1637,3210
+Westlake Park,47.61094901,-122.3370206,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,driving,453,1912
+Westlake Park,47.61094901,-122.3370206,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,walking,1284,1552
+Westlake Park,47.61094901,-122.3370206,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,bicycling,526,1791
+Westlake Park,47.61094901,-122.3370206,Klondike Gold Rush National Historical Park,47.59929372,-122.3317776,transit,765,1552
+Westlake Park,47.61094901,-122.3370206,Pacific Science Center,47.62003616,-122.3515684,driving,428,1955
+Westlake Park,47.61094901,-122.3370206,Pacific Science Center,47.62003616,-122.3515684,walking,1387,1598
+Westlake Park,47.61094901,-122.3370206,Pacific Science Center,47.62003616,-122.3515684,bicycling,462,1583
+Westlake Park,47.61094901,-122.3370206,Pacific Science Center,47.62003616,-122.3515684,transit,554,1909
+Westlake Park,47.61094901,-122.3370206,Museum of History & Industry (MOHAI),47.62757703,-122.3369061,driving,566,2229
+Westlake Park,47.61094901,-122.3370206,Museum of History & Industry (MOHAI),47.62757703,-122.3369061,walking,1665,2019
+Westlake Park,47.61094901,-122.3370206,Museum of History & Industry (MOHAI),47.62757703,-122.3369061,bicycling,602,2368
+Westlake Park,47.61094901,-122.3370206,Museum of History & Industry (MOHAI),47.62757703,-122.3369061,transit,1105,2119
+Westlake Park,47.61094901,-122.3370206,Beneath the Streets,47.60284107,-122.3340982,driving,379,1561
+Westlake Park,47.61094901,-122.3370206,Beneath the Streets,47.60284107,-122.3340982,walking,950,1165
+Westlake Park,47.61094901,-122.3370206,Beneath the Streets,47.60284107,-122.3340982,bicycling,323,1126
+Westlake Park,47.61094901,-122.3370206,Beneath the Streets,47.60284107,-122.3340982,transit,567,1151
+Westlake Park,47.61094901,-122.3370206,National Nordic Museum,47.66841217,-122.3925201,driving,1130,9234
+Westlake Park,47.61094901,-122.3370206,National Nordic Museum,47.66841217,-122.3925201,walking,7413,8939
+Westlake Park,47.61094901,-122.3370206,National Nordic Museum,47.66841217,-122.3925201,bicycling,1961,8981
+Westlake Park,47.61094901,-122.3370206,National Nordic Museum,47.66841217,-122.3925201,transit,1779,9011
+Westlake Park,47.61094901,-122.3370206,Original Selfie Museum | Seattle,47.60778847,-122.339793,driving,262,879
+Westlake Park,47.61094901,-122.3370206,Original Selfie Museum | Seattle,47.60778847,-122.339793,walking,450,528
+Westlake Park,47.61094901,-122.3370206,Original Selfie Museum | Seattle,47.60778847,-122.339793,bicycling,252,839
+Westlake Park,47.61094901,-122.3370206,Original Selfie Museum | Seattle,47.60778847,-122.339793,transit,450,528
+Westlake Park,47.61094901,-122.3370206,Magnolia Park,47.63449348,-122.3980615,driving,850,6565
+Westlake Park,47.61094901,-122.3370206,Magnolia Park,47.63449348,-122.3980615,walking,4963,5867
+Westlake Park,47.61094901,-122.3370206,Magnolia Park,47.63449348,-122.3980615,bicycling,2031,8369
+Westlake Park,47.61094901,-122.3370206,Magnolia Park,47.63449348,-122.3980615,transit,1649,6393
+Westlake Park,47.61094901,-122.3370206,Washington Park Arboretum,47.6364077,-122.2958249,driving,639,6716
+Westlake Park,47.61094901,-122.3370206,Washington Park Arboretum,47.6364077,-122.2958249,walking,4723,5388
+Westlake Park,47.61094901,-122.3370206,Washington Park Arboretum,47.6364077,-122.2958249,bicycling,1838,8067
+Westlake Park,47.61094901,-122.3370206,Washington Park Arboretum,47.6364077,-122.2958249,transit,2497,5891
+Westlake Park,47.61094901,-122.3370206,Alki Beach Park,47.58018302,-122.4084949,driving,1117,13242
+Westlake Park,47.61094901,-122.3370206,Alki Beach Park,47.58018302,-122.4084949,walking,4553,8290
+Westlake Park,47.61094901,-122.3370206,Alki Beach Park,47.58018302,-122.4084949,bicycling,2808,13106
+Westlake Park,47.61094901,-122.3370206,Alki Beach Park,47.58018302,-122.4084949,transit,2655,10872
+Westlake Park,47.61094901,-122.3370206,Gas Works Park,47.64562277,-122.334361,driving,808,6525
+Westlake Park,47.61094901,-122.3370206,Gas Works Park,47.64562277,-122.334361,walking,4920,5936
+Westlake Park,47.61094901,-122.3370206,Gas Works Park,47.64562277,-122.334361,bicycling,1355,6148
+Westlake Park,47.61094901,-122.3370206,Gas Works Park,47.64562277,-122.334361,transit,2418,10990
+Westlake Park,47.61094901,-122.3370206,Broadmoor Golf Club,47.6403132,-122.2915176,driving,720,6799
+Westlake Park,47.61094901,-122.3370206,Broadmoor Golf Club,47.6403132,-122.2915176,walking,5298,6066
+Westlake Park,47.61094901,-122.3370206,Broadmoor Golf Club,47.6403132,-122.2915176,bicycling,1764,7842
+Westlake Park,47.61094901,-122.3370206,Broadmoor Golf Club,47.6403132,-122.2915176,transit,2566,6519
+Westlake Park,47.61094901,-122.3370206,Luther Burbank Park,47.5911729,-122.2256759,driving,994,11264
+Westlake Park,47.61094901,-122.3370206,Luther Burbank Park,47.5911729,-122.2256759,walking,8747,10374
+Westlake Park,47.61094901,-122.3370206,Luther Burbank Park,47.5911729,-122.2256759,bicycling,2824,11243
+Westlake Park,47.61094901,-122.3370206,Luther Burbank Park,47.5911729,-122.2256759,transit,1950,11492
+Westlake Park,47.61094901,-122.3370206,Mercerdale Park,47.58102303,-122.2349369,driving,801,10934
+Westlake Park,47.61094901,-122.3370206,Mercerdale Park,47.58102303,-122.2349369,walking,8566,10176
+Westlake Park,47.61094901,-122.3370206,Mercerdale Park,47.58102303,-122.2349369,bicycling,2730,10836
+Westlake Park,47.61094901,-122.3370206,Mercerdale Park,47.58102303,-122.2349369,transit,2138,11710
+Westlake Park,47.61094901,-122.3370206,Aubrey Davis Park,47.59202799,-122.2445184,driving,738,9060
+Westlake Park,47.61094901,-122.3370206,Aubrey Davis Park,47.59202799,-122.2445184,walking,7243,8531
+Westlake Park,47.61094901,-122.3370206,Aubrey Davis Park,47.59202799,-122.2445184,bicycling,2325,9002
+Westlake Park,47.61094901,-122.3370206,Aubrey Davis Park,47.59202799,-122.2445184,transit,2331,11825
+Westlake Park,47.61094901,-122.3370206,Island Crest Park,47.55038816,-122.2236283,driving,1016,14425
+Westlake Park,47.61094901,-122.3370206,Island Crest Park,47.55038816,-122.2236283,walking,11671,13685
+Westlake Park,47.61094901,-122.3370206,Island Crest Park,47.55038816,-122.2236283,bicycling,3901,15177
+Westlake Park,47.61094901,-122.3370206,Island Crest Park,47.55038816,-122.2236283,transit,2960,16255
+Westlake Park,47.61094901,-122.3370206,Bellevue Botanical Garden,47.60914545,-122.178833,driving,1138,18738
+Westlake Park,47.61094901,-122.3370206,Bellevue Botanical Garden,47.60914545,-122.178833,walking,14831,17438
+Westlake Park,47.61094901,-122.3370206,Bellevue Botanical Garden,47.60914545,-122.178833,bicycling,4617,21231
+Westlake Park,47.61094901,-122.3370206,Bellevue Botanical Garden,47.60914545,-122.178833,transit,3368,18991
+Westlake Park,47.61094901,-122.3370206,Chism Beach Park,47.59991929,-122.2107849,driving,1154,16923
+Westlake Park,47.61094901,-122.3370206,Chism Beach Park,47.59991929,-122.2107849,walking,13334,15829
+Westlake Park,47.61094901,-122.3370206,Chism Beach Park,47.59991929,-122.2107849,bicycling,4098,16313
+Westlake Park,47.61094901,-122.3370206,Chism Beach Park,47.59991929,-122.2107849,transit,2890,17830
+Westlake Park,47.61094901,-122.3370206,Bellevue Square,47.61571654,-122.2037336,driving,1065,14957
+Westlake Park,47.61094901,-122.3370206,Bellevue Square,47.61571654,-122.2037336,walking,13109,15516
+Westlake Park,47.61094901,-122.3370206,Bellevue Square,47.61571654,-122.2037336,bicycling,4446,20235
+Westlake Park,47.61094901,-122.3370206,Bellevue Square,47.61571654,-122.2037336,transit,1812,15955
+Westlake Park,47.61094901,-122.3370206,KidsQuest Children's Museum,47.62082747,-122.1959473,driving,1010,16275
+Westlake Park,47.61094901,-122.3370206,KidsQuest Children's Museum,47.62082747,-122.1959473,walking,13516,15811
+Westlake Park,47.61094901,-122.3370206,KidsQuest Children's Museum,47.62082747,-122.1959473,bicycling,4263,19279
+Westlake Park,47.61094901,-122.3370206,KidsQuest Children's Museum,47.62082747,-122.1959473,transit,2724,20370
+Westlake Park,47.61094901,-122.3370206,Newcastle Beach Park,47.56581085,-122.1901073,driving,1170,18573
+Westlake Park,47.61094901,-122.3370206,Newcastle Beach Park,47.56581085,-122.1901073,walking,14074,16858
+Westlake Park,47.61094901,-122.3370206,Newcastle Beach Park,47.56581085,-122.1901073,bicycling,4176,17331
+Westlake Park,47.61094901,-122.3370206,Newcastle Beach Park,47.56581085,-122.1901073,transit,2984,19481
+Westlake Park,47.61094901,-122.3370206,Vasa Park Resort,47.57727261,-122.1125131,driving,1217,19653
+Westlake Park,47.61094901,-122.3370206,Vasa Park Resort,47.57727261,-122.1125131,walking,17800,21097
+Westlake Park,47.61094901,-122.3370206,Vasa Park Resort,47.57727261,-122.1125131,bicycling,5244,20909
+Westlake Park,47.61094901,-122.3370206,Vasa Park Resort,47.57727261,-122.1125131,transit,4808,32169
+Westlake Park,47.61094901,-122.3370206,Coal Creek Natural Area,47.55406111,-122.1663779,driving,1321,21057
+Westlake Park,47.61094901,-122.3370206,Coal Creek Natural Area,47.55406111,-122.1663779,walking,15518,18410
+Westlake Park,47.61094901,-122.3370206,Coal Creek Natural Area,47.55406111,-122.1663779,bicycling,4756,19113
+Westlake Park,47.61094901,-122.3370206,Coal Creek Natural Area,47.55406111,-122.1663779,transit,4077,22357
+Westlake Park,47.61094901,-122.3370206,Lumen Field,47.59505088,-122.3316719,driving,585,2484
+Westlake Park,47.61094901,-122.3370206,Lumen Field,47.59505088,-122.3316719,walking,1759,2137
+Westlake Park,47.61094901,-122.3370206,Lumen Field,47.59505088,-122.3316719,bicycling,612,2320
+Westlake Park,47.61094901,-122.3370206,Lumen Field,47.59505088,-122.3316719,transit,969,2362
+Westlake Park,47.61094901,-122.3370206,T-Mobile Park,47.59146257,-122.3326463,driving,597,4364
+Westlake Park,47.61094901,-122.3370206,T-Mobile Park,47.59146257,-122.3326463,walking,1985,2401
+Westlake Park,47.61094901,-122.3370206,T-Mobile Park,47.59146257,-122.3326463,bicycling,691,2583
+Westlake Park,47.61094901,-122.3370206,T-Mobile Park,47.59146257,-122.3326463,transit,1366,3371
+Westlake Park,47.61094901,-122.3370206,Seattle–Tacoma International Airport,47.44830289,-122.3086334,driving,1217,22809
+Westlake Park,47.61094901,-122.3370206,Seattle–Tacoma International Airport,47.44830289,-122.3086334,walking,17481,20729
+Westlake Park,47.61094901,-122.3370206,Seattle–Tacoma International Airport,47.44830289,-122.3086334,bicycling,5305,23744
+Westlake Park,47.61094901,-122.3370206,Seattle–Tacoma International Airport,47.44830289,-122.3086334,transit,3538,24518
+Westlake Park,47.61094901,-122.3370206,"The Museum of Flight",47.51852231,-122.2968546,driving,969,15233
+Westlake Park,47.61094901,-122.3370206,"The Museum of Flight",47.51852231,-122.2968546,walking,9613,11675
+Westlake Park,47.61094901,-122.3370206,"The Museum of Flight",47.51852231,-122.2968546,bicycling,2964,12673
+Westlake Park,47.61094901,-122.3370206,"The Museum of Flight",47.51852231,-122.2968546,transit,2403,12519
+Westlake Park,47.61094901,-122.3370206,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,driving,720,6944
+Westlake Park,47.61094901,-122.3370206,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,walking,5557,6514
+Westlake Park,47.61094901,-122.3370206,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,bicycling,1623,6884
+Westlake Park,47.61094901,-122.3370206,Burke Museum of Natural History and Culture,47.66041767,-122.3115562,transit,1032,7564
+Westlake Park,47.61094901,-122.3370206,Spooked In Seattle Ghost Tours,47.60154513,-122.333443,driving,408,1671
+Westlake Park,47.61094901,-122.3370206,Spooked In Seattle Ghost Tours,47.60154513,-122.333443,walking,1103,1334
+Westlake Park,47.61094901,-122.3370206,Spooked In Seattle Ghost Tours,47.60154513,-122.333443,bicycling,489,1604
+Westlake Park,47.61094901,-122.3370206,Spooked In Seattle Ghost Tours,47.60154513,-122.333443,transit,412,1546
+Westlake Park,47.61094901,-122.3370206,Embassy Suites by Hilton Seattle Downtown Pioneer Square,47.59807732,-122.3309348,driving,497,2048
+Westlake Park,47.61094901,-122.3370206,Embassy Suites by Hilton Seattle Downtown Pioneer Square,47.59807732,-122.3309348,walking,1417,1711
+Westlake Park,47.61094901,-122.3370206,Embassy Suites by Hilton Seattle Downtown Pioneer Square,47.59807732,-122.3309348,bicycling,566,1926
+Westlake Park,47.61094901,-122.3370206,Embassy Suites by Hilton Seattle Downtown Pioneer Square,47.59807732,-122.3309348,transit,828,1707
+Westlake Park,47.61094901,-122.3370206,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,driving,426,1759
+Westlake Park,47.61094901,-122.3370206,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,walking,1107,1363
+Westlake Park,47.61094901,-122.3370206,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,bicycling,480,1609
+Westlake Park,47.61094901,-122.3370206,Best Western Plus Pioneer Square Hotel Downtown,47.60155451,-122.3353075,transit,505,1466
+Westlake Park,47.61094901,-122.3370206,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,driving,498,2024
+Westlake Park,47.61094901,-122.3370206,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,walking,1402,1689
+Westlake Park,47.61094901,-122.3370206,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,bicycling,557,1940
+Westlake Park,47.61094901,-122.3370206,Sonder RailSpur Apartments Pioneer Square,47.59861073,-122.3335049,transit,709,2038
+Westlake Park,47.61094901,-122.3370206,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,driving,574,4282
+Westlake Park,47.61094901,-122.3370206,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,walking,1963,2390
+Westlake Park,47.61094901,-122.3370206,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,bicycling,679,2567
+Westlake Park,47.61094901,-122.3370206,Silver Cloud Hotel - Seattle Stadium,47.59256581,-122.3337073,transit,1272,3289
+Westlake Park,47.61094901,-122.3370206,Silver Cloud Hotel - Seattle Lake Union,47.62969939,-122.3290515,driving,595,2506
+Westlake Park,47.61094901,-122.3370206,Silver Cloud Hotel - Seattle Lake Union,47.62969939,-122.3290515,walking,2013,2396
+Westlake Park,47.61094901,-122.3370206,Silver Cloud Hotel - Seattle Lake Union,47.62969939,-122.3290515,bicycling,764,3010
+Westlake Park,47.61094901,-122.3370206,Silver Cloud Hotel - Seattle Lake Union,47.62969939,-122.3290515,transit,1142,2960
+Westlake Park,47.61094901,-122.3370206,Roanoke Park,47.64355885,-122.3202791,driving,527,4315
+Westlake Park,47.61094901,-122.3370206,Roanoke Park,47.64355885,-122.3202791,walking,3727,4345
+Westlake Park,47.61094901,-122.3370206,Roanoke Park,47.64355885,-122.3202791,bicycling,1043,4569
+Westlake Park,47.61094901,-122.3370206,Roanoke Park,47.64355885,-122.3202791,transit,1432,4810
+Westlake Park,47.61094901,-122.3370206,Matthews Beach Park,47.69650285,-122.2739762,driving,1055,13259
+Westlake Park,47.61094901,-122.3370206,Matthews Beach Park,47.69650285,-122.2739762,walking,11105,12996
+Westlake Park,47.61094901,-122.3370206,Matthews Beach Park,47.69650285,-122.2739762,bicycling,3186,15821
+Westlake Park,47.61094901,-122.3370206,Matthews Beach Park,47.69650285,-122.2739762,transit,3276,20396
+Westlake Park,47.61094901,-122.3370206,Juanita Beach Park,47.70461277,-122.2148103,driving,1523,26187
+Westlake Park,47.61094901,-122.3370206,Juanita Beach Park,47.70461277,-122.2148103,walking,17852,21508
+Westlake Park,47.61094901,-122.3370206,Juanita Beach Park,47.70461277,-122.2148103,bicycling,5008,23574
+Westlake Park,47.61094901,-122.3370206,Juanita Beach Park,47.70461277,-122.2148103,transit,3458,23441
+Westlake Park,47.61094901,-122.3370206,Saint Edward State Park,47.73122571,-122.2550794,driving,1836,25499
+Westlake Park,47.61094901,-122.3370206,Saint Edward State Park,47.73122571,-122.2550794,walking,19801,23222
+Westlake Park,47.61094901,-122.3370206,Saint Edward State Park,47.73122571,-122.2550794,bicycling,5994,28195
+Westlake Park,47.61094901,-122.3370206,Saint Edward State Park,47.73122571,-122.2550794,transit,5073,34883
+Westlake Park,47.61094901,-122.3370206,Arena Sports Redmond,47.68376904,-122.1425235,driving,1403,24980
+Westlake Park,47.61094901,-122.3370206,Arena Sports Redmond,47.68376904,-122.1425235,walking,19193,22906
+Westlake Park,47.61094901,-122.3370206,Arena Sports Redmond,47.68376904,-122.1425235,bicycling,6092,28213
+Westlake Park,47.61094901,-122.3370206,Arena Sports Redmond,47.68376904,-122.1425235,transit,2659,27865
+Westlake Park,47.61094901,-122.3370206,Hyatt Regency Lake Washington at Seattle's Southport,47.50275177,-122.20493,driving,1441,24596
+Westlake Park,47.61094901,-122.3370206,Hyatt Regency Lake Washington at Seattle's Southport,47.50275177,-122.20493,walking,18103,21876
+Westlake Park,47.61094901,-122.3370206,Hyatt Regency Lake Washington at Seattle's Southport,47.50275177,-122.20493,bicycling,5558,24967
+Westlake Park,47.61094901,-122.3370206,Hyatt Regency Lake Washington at Seattle's Southport,47.50275177,-122.20493,transit,4751,25613
+Westlake Park,47.61094901,-122.3370206,Sky Zone Trampoline Park,47.45157131,-122.2520912,driving,1327,21583
+Westlake Park,47.61094901,-122.3370206,Sky Zone Trampoline Park,47.45157131,-122.2520912,walking,17554,21321
+Westlake Park,47.61094901,-122.3370206,Sky Zone Trampoline Park,47.45157131,-122.2520912,bicycling,5400,27053
+Westlake Park,47.61094901,-122.3370206,Sky Zone Trampoline Park,47.45157131,-122.2520912,transit,3531,23008
+Westlake Park,47.61094901,-122.3370206,iFLY Indoor Skydiving - Seattle,47.46114191,-122.2527152,driving,1161,20171
+Westlake Park,47.61094901,-122.3370206,iFLY Indoor Skydiving - Seattle,47.46114191,-122.2527152,walking,16703,20263
+Westlake Park,47.61094901,-122.3370206,iFLY Indoor Skydiving - Seattle,47.46114191,-122.2527152,bicycling,5388,26949
+Westlake Park,47.61094901,-122.3370206,iFLY Indoor Skydiving - Seattle,47.46114191,-122.2527152,transit,3072,20533
+Westlake Park,47.61094901,-122.3370206,Starfire Sports,47.47001944,-122.249411,driving,1289,19983
+Westlake Park,47.61094901,-122.3370206,Starfire Sports,47.47001944,-122.249411,walking,16032,19530
+Westlake Park,47.61094901,-122.3370206,Starfire Sports,47.47001944,-122.249411,bicycling,4878,24437
+Westlake Park,47.61094901,-122.3370206,Starfire Sports,47.47001944,-122.249411,transit,2983,19788
+Westlake Park,47.61094901,-122.3370206,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,driving,1321,25327
+Westlake Park,47.61094901,-122.3370206,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,walking,21437,25089
+Westlake Park,47.61094901,-122.3370206,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,bicycling,6414,27298
+Westlake Park,47.61094901,-122.3370206,Lynnwood City Center Station - Light rail station,47.81563114,-122.2948246,transit,1948,24762
+Westlake Park,47.61094901,-122.3370206,Mountlake Terrace Station - Light rail station,47.78504618,-122.3147893,driving,1179,21671
+Westlake Park,47.61094901,-122.3370206,Mountlake Terrace Station - Light rail station,47.78504618,-122.3147893,walking,17659,20495
+Westlake Park,47.61094901,-122.3370206,Mountlake Terrace Station - Light rail station,47.78504618,-122.3147893,bicycling,5284,21200
+Westlake Park,47.61094901,-122.3370206,Mountlake Terrace Station - Light rail station,47.78504618,-122.3147893,transit,1855,21868
+Westlake Park,47.61094901,-122.3370206,Shoreline North/185th Station - Light rail station,47.76405776,-122.3228979,driving,899,18091
+Westlake Park,47.61094901,-122.3370206,Shoreline North/185th Station - Light rail station,47.76405776,-122.3228979,walking,15494,17971
+Westlake Park,47.61094901,-122.3370206,Shoreline North/185th Station - Light rail station,47.76405776,-122.3228979,bicycling,4927,20299
+Westlake Park,47.61094901,-122.3370206,Shoreline North/185th Station - Light rail station,47.76405776,-122.3228979,transit,1727,19489
+Westlake Park,47.61094901,-122.3370206,Shoreline South/148th Station - Light rail station,47.73609124,-122.3252436,driving,854,14874
+Westlake Park,47.61094901,-122.3370206,Shoreline South/148th Station - Light rail station,47.73609124,-122.3252436,walking,12877,14933
+Westlake Park,47.61094901,-122.3370206,Shoreline South/148th Station - Light rail station,47.73609124,-122.3252436,bicycling,3963,15946
+Westlake Park,47.61094901,-122.3370206,Shoreline South/148th Station - Light rail station,47.73609124,-122.3252436,transit,1496,16131
+Westlake Park,47.61094901,-122.3370206,Northgate Station - light rail station,47.70300516,-122.3283303,driving,748,11870
+Westlake Park,47.61094901,-122.3370206,Northgate Station - light rail station,47.70300516,-122.3283303,walking,9763,11373
+Westlake Park,47.61094901,-122.3370206,Northgate Station - light rail station,47.70300516,-122.3283303,bicycling,3103,12601
+Westlake Park,47.61094901,-122.3370206,Northgate Station - light rail station,47.70300516,-122.3283303,transit,1195,12334
+Westlake Park,47.61094901,-122.3370206,Roosevelt Station - light rail station,47.67608555,-122.3160051,driving,685,8165
+Westlake Park,47.61094901,-122.3370206,Roosevelt Station - light rail station,47.67608555,-122.3160051,walking,6783,7927
+Westlake Park,47.61094901,-122.3370206,Roosevelt Station - light rail station,47.67608555,-122.3160051,bicycling,1899,8057
+Westlake Park,47.61094901,-122.3370206,Roosevelt Station - light rail station,47.67608555,-122.3160051,transit,985,9225
+Westlake Park,47.61094901,-122.3370206,U District Station - light rail station,47.65997355,-122.314078,driving,769,7043
+Westlake Park,47.61094901,-122.3370206,U District Station - light rail station,47.65997355,-122.314078,walking,5346,6285
+Westlake Park,47.61094901,-122.3370206,U District Station - light rail station,47.65997355,-122.314078,bicycling,1497,6433
+Westlake Park,47.61094901,-122.3370206,U District Station - light rail station,47.65997355,-122.314078,transit,807,7330
+Westlake Park,47.61094901,-122.3370206,"University of Washington Station
+- light rail station",47.65027972,-122.3037441,driving,670,6341
+Westlake Park,47.61094901,-122.3370206,"University of Washington Station
+- light rail station",47.65027972,-122.3037441,walking,5657,6521
+Westlake Park,47.61094901,-122.3370206,"University of Washington Station
+- light rail station",47.65027972,-122.3037441,bicycling,1611,7566
+Westlake Park,47.61094901,-122.3370206,"University of Washington Station
+- light rail station",47.65027972,-122.3037441,transit,556,5644
+Westlake Park,47.61094901,-122.3370206,Capitol Hill Station - light rail station,47.61975598,-122.3206104,driving,481,1833
+Westlake Park,47.61094901,-122.3370206,Capitol Hill Station - light rail station,47.61975598,-122.3206104,walking,1728,1776
+Westlake Park,47.61094901,-122.3370206,Capitol Hill Station - light rail station,47.61975598,-122.3206104,bicycling,782,2063
+Westlake Park,47.61094901,-122.3370206,Capitol Hill Station - light rail station,47.61975598,-122.3206104,transit,363,1998
+Westlake Park,47.61094901,-122.3370206,Westlake Station - light rail station,47.61175694,-122.3365386,driving,103,395
+Westlake Park,47.61094901,-122.3370206,Westlake Station - light rail station,47.61175694,-122.3365386,walking,136,150
+Westlake Park,47.61094901,-122.3370206,Westlake Station - light rail station,47.61175694,-122.3365386,bicycling,159,157
+Westlake Park,47.61094901,-122.3370206,Westlake Station - light rail station,47.61175694,-122.3365386,transit,136,150
+Westlake Park,47.61094901,-122.3370206,Symphony Station - light rail station,47.60779626,-122.3360496,driving,246,972
+Westlake Park,47.61094901,-122.3370206,Symphony Station - light rail station,47.60779626,-122.3360496,walking,400,440
+Westlake Park,47.61094901,-122.3370206,Symphony Station - light rail station,47.60779626,-122.3360496,bicycling,209,632
+Westlake Park,47.61094901,-122.3370206,Symphony Station - light rail station,47.60779626,-122.3360496,transit,316,597
+Westlake Park,47.61094901,-122.3370206,Pioneer Square Station - light rail station,47.60193328,-122.3309958,driving,386,1681
+Westlake Park,47.61094901,-122.3370206,Pioneer Square Station - light rail station,47.60193328,-122.3309958,walking,1023,1215
+Westlake Park,47.61094901,-122.3370206,Pioneer Square Station - light rail station,47.60193328,-122.3309958,bicycling,420,1306
+Westlake Park,47.61094901,-122.3370206,Pioneer Square Station - light rail station,47.60193328,-122.3309958,transit,257,1344
+Westlake Park,47.61094901,-122.3370206,International District/Chinatown Station - light rail station,47.59835834,-122.3280238,driving,486,2073
+Westlake Park,47.61094901,-122.3370206,International District/Chinatown Station - light rail station,47.59835834,-122.3280238,walking,1399,1687
+Westlake Park,47.61094901,-122.3370206,International District/Chinatown Station - light rail station,47.59835834,-122.3280238,bicycling,554,1742
+Westlake Park,47.61094901,-122.3370206,International District/Chinatown Station - light rail station,47.59835834,-122.3280238,transit,421,2003
+Westlake Park,47.61094901,-122.3370206,Stadium Station - light rail station,47.59109831,-122.32717,driving,546,4293
+Westlake Park,47.61094901,-122.3370206,Stadium Station - light rail station,47.59109831,-122.32717,walking,2078,2520
+Westlake Park,47.61094901,-122.3370206,Stadium Station - light rail station,47.59109831,-122.32717,bicycling,777,2765
+Westlake Park,47.61094901,-122.3370206,Stadium Station - light rail station,47.59109831,-122.32717,transit,635,2669
+Westlake Park,47.61094901,-122.3370206,SODO Station - light rail station,47.58116519,-122.3273624,driving,744,5297
+Westlake Park,47.61094901,-122.3370206,SODO Station - light rail station,47.58116519,-122.3273624,walking,2985,3627
+Westlake Park,47.61094901,-122.3370206,SODO Station - light rail station,47.58116519,-122.3273624,bicycling,996,3872
+Westlake Park,47.61094901,-122.3370206,SODO Station - light rail station,47.58116519,-122.3273624,transit,768,4037
+Westlake Park,47.61094901,-122.3370206,Beacon Hill Station - light rail station,47.57926799,-122.3117274,driving,731,5720
+Westlake Park,47.61094901,-122.3370206,Beacon Hill Station - light rail station,47.57926799,-122.3117274,walking,4044,4550
+Westlake Park,47.61094901,-122.3370206,Beacon Hill Station - light rail station,47.57926799,-122.3117274,bicycling,1574,4974
+Westlake Park,47.61094901,-122.3370206,Beacon Hill Station - light rail station,47.57926799,-122.3117274,transit,949,5530
+Westlake Park,47.61094901,-122.3370206,Mount Baker Station - light rail station,47.57654482,-122.2977046,driving,806,5784
+Westlake Park,47.61094901,-122.3370206,Mount Baker Station - light rail station,47.57654482,-122.2977046,walking,4727,5595
+Westlake Park,47.61094901,-122.3370206,Mount Baker Station - light rail station,47.57654482,-122.2977046,bicycling,1504,5662
+Westlake Park,47.61094901,-122.3370206,Mount Baker Station - light rail station,47.57654482,-122.2977046,transit,934,6503
+Westlake Park,47.61094901,-122.3370206,"Columbia City Station - light rail station
+",47.55974234,-122.2927035,driving,869,8485
+Westlake Park,47.61094901,-122.3370206,"Columbia City Station - light rail station
+",47.55974234,-122.2927035,walking,6403,7526
+Westlake Park,47.61094901,-122.3370206,"Columbia City Station - light rail station
+",47.55974234,-122.2927035,bicycling,2046,8047
+Westlake Park,47.61094901,-122.3370206,"Columbia City Station - light rail station
+",47.55974234,-122.2927035,transit,1197,8609
+Westlake Park,47.61094901,-122.3370206,Othello Station - light rail station,47.53804878,-122.2815673,driving,1072,11289
+Westlake Park,47.61094901,-122.3370206,Othello Station - light rail station,47.53804878,-122.2815673,walking,8543,10094
+Westlake Park,47.61094901,-122.3370206,Othello Station - light rail station,47.53804878,-122.2815673,bicycling,2583,10750
+Westlake Park,47.61094901,-122.3370206,Othello Station - light rail station,47.53804878,-122.2815673,transit,1461,11178
+Westlake Park,47.61094901,-122.3370206,Rainier Beach Station - light rail station,47.5223969,-122.2794332,driving,1062,15481
+Westlake Park,47.61094901,-122.3370206,Rainier Beach Station - light rail station,47.5223969,-122.2794332,walking,10051,11881
+Westlake Park,47.61094901,-122.3370206,Rainier Beach Station - light rail station,47.5223969,-122.2794332,bicycling,2919,12543
+Westlake Park,47.61094901,-122.3370206,Rainier Beach Station - light rail station,47.5223969,-122.2794332,transit,1534,12782
+Westlake Park,47.61094901,-122.3370206,Tukwila Int'l Blvd Station - light rail station,47.46407137,-122.2882565,driving,1224,20400
+Westlake Park,47.61094901,-122.3370206,Tukwila Int'l Blvd Station - light rail station,47.46407137,-122.2882565,walking,16123,19028
+Westlake Park,47.61094901,-122.3370206,Tukwila Int'l Blvd Station - light rail station,47.46407137,-122.2882565,bicycling,5247,23140
+Westlake Park,47.61094901,-122.3370206,Tukwila Int'l Blvd Station - light rail station,47.46407137,-122.2882565,transit,2152,21884
+Westlake Park,47.61094901,-122.3370206,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,driving,1291,23498
+Westlake Park,47.61094901,-122.3370206,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,walking,18124,21390
+Westlake Park,47.61094901,-122.3370206,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,bicycling,5500,24579
+Westlake Park,47.61094901,-122.3370206,SeaTac/Airport Station - light rail station,47.44534853,-122.2968968,transit,2314,24470
+Westlake Park,47.61094901,-122.3370206,Angle Lake Station - light rail station,47.42298824,-122.2978796,driving,1312,24960
+Westlake Park,47.61094901,-122.3370206,Angle Lake Station - light rail station,47.42298824,-122.2978796,walking,20183,23755
+Westlake Park,47.61094901,-122.3370206,Angle Lake Station - light rail station,47.42298824,-122.2978796,bicycling,6367,28037
+Westlake Park,47.61094901,-122.3370206,Angle Lake Station - light rail station,47.42298824,-122.2978796,transit,2586,27161
+Westlake Park,47.61094901,-122.3370206,Downtown Redmond Station - suburban train line,47.67165114,-122.1185018,driving,1300,24329
+Westlake Park,47.61094901,-122.3370206,Downtown Redmond Station - suburban train line,47.67165114,-122.1185018,walking,19571,23225
+Westlake Park,47.61094901,-122.3370206,Downtown Redmond Station - suburban train line,47.67165114,-122.1185018,bicycling,5897,26813
+Westlake Park,47.61094901,-122.3370206,Downtown Redmond Station - suburban train line,47.67165114,-122.1185018,transit,2331,26600
+Westlake Park,47.61094901,-122.3370206,Marymoor Village Station - suburban train line ,47.66723127,-122.1099099,driving,1135,24077
+Westlake Park,47.61094901,-122.3370206,Marymoor Village Station - suburban train line ,47.66723127,-122.1099099,walking,19989,23657
+Westlake Park,47.61094901,-122.3370206,Marymoor Village Station - suburban train line ,47.66723127,-122.1099099,bicycling,6117,28418
+Westlake Park,47.61094901,-122.3370206,Marymoor Village Station - suburban train line ,47.66723127,-122.1099099,transit,2119,24398
+Westlake Park,47.61094901,-122.3370206,"Redmond Technology Station - light rail station
+",47.64481217,-122.1336083,driving,999,19980
+Westlake Park,47.61094901,-122.3370206,"Redmond Technology Station - light rail station
+",47.64481217,-122.1336083,walking,17707,20953
+Westlake Park,47.61094901,-122.3370206,"Redmond Technology Station - light rail station
+",47.64481217,-122.1336083,bicycling,5230,23085
+Westlake Park,47.61094901,-122.3370206,"Redmond Technology Station - light rail station
+",47.64481217,-122.1336083,transit,1234,20002
+Westlake Park,47.61094901,-122.3370206,Overlake Village Station - light rail station,47.63630429,-122.1389233,driving,1210,20596
+Westlake Park,47.61094901,-122.3370206,Overlake Village Station - light rail station,47.63630429,-122.1389233,walking,16860,19931
+Westlake Park,47.61094901,-122.3370206,Overlake Village Station - light rail station,47.63630429,-122.1389233,bicycling,4975,22054
+Westlake Park,47.61094901,-122.3370206,Overlake Village Station - light rail station,47.63630429,-122.1389233,transit,2349,21497
+Westlake Park,47.61094901,-122.3370206,BelRed Station - light rail station,47.62441944,-122.1656506,driving,1067,17204
+Westlake Park,47.61094901,-122.3370206,BelRed Station - light rail station,47.62441944,-122.1656506,walking,14907,17664
+Westlake Park,47.61094901,-122.3370206,BelRed Station - light rail station,47.62441944,-122.1656506,bicycling,4452,19940
+Westlake Park,47.61094901,-122.3370206,BelRed Station - light rail station,47.62441944,-122.1656506,transit,2707,24186
+Westlake Park,47.61094901,-122.3370206,Spring District Station - light rail station,47.62376098,-122.17857,driving,1017,17096
+Westlake Park,47.61094901,-122.3370206,Spring District Station - light rail station,47.62376098,-122.17857,walking,14759,17560
+Westlake Park,47.61094901,-122.3370206,Spring District Station - light rail station,47.62376098,-122.17857,bicycling,4228,19673
+Westlake Park,47.61094901,-122.3370206,Spring District Station - light rail station,47.62376098,-122.17857,transit,2688,24963
+Westlake Park,47.61094901,-122.3370206,Wilburton Station - light rail station,47.61794064,-122.1837801,driving,1154,18145
+Westlake Park,47.61094901,-122.3370206,Wilburton Station - light rail station,47.61794064,-122.1837801,walking,14493,17014
+Westlake Park,47.61094901,-122.3370206,Wilburton Station - light rail station,47.61794064,-122.1837801,bicycling,4192,19633
+Westlake Park,47.61094901,-122.3370206,Wilburton Station - light rail station,47.61794064,-122.1837801,transit,2802,25783
+Westlake Park,47.61094901,-122.3370206,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,driving,991,17383
+Westlake Park,47.61094901,-122.3370206,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,walking,13885,16427
+Westlake Park,47.61094901,-122.3370206,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,bicycling,4317,19494
+Westlake Park,47.61094901,-122.3370206,Bellevue Downtown Station - light rail station,47.61522589,-122.1921149,transit,2386,16866
+Westlake Park,47.61094901,-122.3370206,East Main Station - light rail station,47.60817687,-122.1911446,driving,1046,17008
+Westlake Park,47.61094901,-122.3370206,East Main Station - light rail station,47.60817687,-122.1911446,walking,13635,16246
+Westlake Park,47.61094901,-122.3370206,East Main Station - light rail station,47.60817687,-122.1911446,bicycling,4470,18544
+Westlake Park,47.61094901,-122.3370206,East Main Station - light rail station,47.60817687,-122.1911446,transit,2549,18055
+Westlake Park,47.61094901,-122.3370206,South Bellevue Station - light rail station,47.58658212,-122.1905223,driving,893,14489
+Westlake Park,47.61094901,-122.3370206,South Bellevue Station - light rail station,47.58658212,-122.1905223,walking,11684,13883
+Westlake Park,47.61094901,-122.3370206,South Bellevue Station - light rail station,47.58658212,-122.1905223,bicycling,3698,14355
+Westlake Park,47.61094901,-122.3370206,South Bellevue Station - light rail station,47.58658212,-122.1905223,transit,1723,15508
+Westlake Park,47.61094901,-122.3370206,Tacoma Dome Station - light rail station,47.23980478,-122.4281376,driving,2277,52897
+Westlake Park,47.61094901,-122.3370206,Tacoma Dome Station - light rail station,47.23980478,-122.4281376,walking,42772,51242
+Westlake Park,47.61094901,-122.3370206,Tacoma Dome Station - light rail station,47.23980478,-122.4281376,bicycling,13110,65733
+Westlake Park,47.61094901,-122.3370206,Tacoma Dome Station - light rail station,47.23980478,-122.4281376,transit,4641,65804
+Westlake Park,47.61094901,-122.3370206,S 25th St Station - light rail station,47.23906667,-122.4341891,driving,2274,52965
+Westlake Park,47.61094901,-122.3370206,S 25th St Station - light rail station,47.23906667,-122.4341891,walking,43169,51708
+Westlake Park,47.61094901,-122.3370206,S 25th St Station - light rail station,47.23906667,-122.4341891,bicycling,13188,66200
+Westlake Park,47.61094901,-122.3370206,S 25th St Station - light rail station,47.23906667,-122.4341891,transit,5762,53466
+Westlake Park,47.61094901,-122.3370206,Union Station - light rail station,47.24486311,-122.4366223,driving,2267,53443
+Westlake Park,47.61094901,-122.3370206,Union Station - light rail station,47.24486311,-122.4366223,walking,43656,52240
+Westlake Park,47.61094901,-122.3370206,Union Station - light rail station,47.24486311,-122.4366223,bicycling,13282,66731
+Westlake Park,47.61094901,-122.3370206,Union Station - light rail station,47.24486311,-122.4366223,transit,5990,53741
+Westlake Park,47.61094901,-122.3370206,Convention Center Station - light rail station,47.24949672,-122.4384939,driving,2277,53979
+Westlake Park,47.61094901,-122.3370206,Convention Center Station - light rail station,47.24949672,-122.4384939,walking,44184,52841
+Westlake Park,47.61094901,-122.3370206,Convention Center Station - light rail station,47.24949672,-122.4384939,bicycling,13472,67637
+Westlake Park,47.61094901,-122.3370206,Convention Center Station - light rail station,47.24949672,-122.4384939,transit,6017,54551
+Westlake Park,47.61094901,-122.3370206,Theater District station - light rail station,47.25252957,-122.4392526,driving,2381,54533
+Westlake Park,47.61094901,-122.3370206,Theater District station - light rail station,47.25252957,-122.4392526,walking,44092,52786
+Westlake Park,47.61094901,-122.3370206,Theater District station - light rail station,47.25252957,-122.4392526,bicycling,13409,67295
+Westlake Park,47.61094901,-122.3370206,Theater District station - light rail station,47.25252957,-122.4392526,transit,6173,55226
+Westlake Park,47.61094901,-122.3370206,Old City Hall Station - light rail station,47.25773867,-122.4404208,driving,2308,55033
+Westlake Park,47.61094901,-122.3370206,Old City Hall Station - light rail station,47.25773867,-122.4404208,walking,44435,53191
+Westlake Park,47.61094901,-122.3370206,Old City Hall Station - light rail station,47.25773867,-122.4404208,bicycling,13535,67709
+Westlake Park,47.61094901,-122.3370206,Old City Hall Station - light rail station,47.25773867,-122.4404208,transit,6203,55255
+Westlake Park,47.61094901,-122.3370206,S 4th Station - light rail station,47.26130354,-122.4427379,driving,2324,55309
+Westlake Park,47.61094901,-122.3370206,S 4th Station - light rail station,47.26130354,-122.4427379,walking,44847,53625
+Westlake Park,47.61094901,-122.3370206,S 4th Station - light rail station,47.26130354,-122.4427379,bicycling,13700,68143
+Westlake Park,47.61094901,-122.3370206,S 4th Station - light rail station,47.26130354,-122.4427379,transit,6599,55931
+Westlake Park,47.61094901,-122.3370206,Stadium District station - light rail station,47.26384537,-122.4489781,driving,2428,56119
+Westlake Park,47.61094901,-122.3370206,Stadium District station - light rail station,47.26384537,-122.4489781,walking,37803,51289
+Westlake Park,47.61094901,-122.3370206,Stadium District station - light rail station,47.26384537,-122.4489781,bicycling,13984,68954
+Westlake Park,47.61094901,-122.3370206,Stadium District station - light rail station,47.26384537,-122.4489781,transit,6719,56735
+Westlake Park,47.61094901,-122.3370206,Tacoma General Station - light rail station,47.26006747,-122.4535547,driving,2547,56575
+Westlake Park,47.61094901,-122.3370206,Tacoma General Station - light rail station,47.26006747,-122.4535547,walking,38135,51592
+Westlake Park,47.61094901,-122.3370206,Tacoma General Station - light rail station,47.26006747,-122.4535547,bicycling,14083,69049
+Westlake Park,47.61094901,-122.3370206,Tacoma General Station - light rail station,47.26006747,-122.4535547,transit,6839,57312
+Westlake Park,47.61094901,-122.3370206,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,driving,2534,56401
+Westlake Park,47.61094901,-122.3370206,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,walking,45521,54187
+Westlake Park,47.61094901,-122.3370206,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,bicycling,14036,68751
+Westlake Park,47.61094901,-122.3370206,"6th Ave Station - light rail station
+",47.2569201,-122.4528636,transit,6959,57666
+Westlake Park,47.61094901,-122.3370206,"Hilltop District Station - light rail station
+",47.25176376,-122.4516971,driving,2520,57594
+Westlake Park,47.61094901,-122.3370206,"Hilltop District Station - light rail station
+",47.25176376,-122.4516971,walking,45077,53660
+Westlake Park,47.61094901,-122.3370206,"Hilltop District Station - light rail station
+",47.25176376,-122.4516971,bicycling,13986,68349
+Westlake Park,47.61094901,-122.3370206,"Hilltop District Station - light rail station
+",47.25176376,-122.4516971,transit,7079,58246
+Westlake Park,47.61094901,-122.3370206,"St Joseph Station - light rail station
+",47.24526466,-122.4501901,driving,2453,56954
+Westlake Park,47.61094901,-122.3370206,"St Joseph Station - light rail station
+",47.24526466,-122.4501901,walking,45035,53451
+Westlake Park,47.61094901,-122.3370206,"St Joseph Station - light rail station
+",47.24526466,-122.4501901,bicycling,14041,68158
+Westlake Park,47.61094901,-122.3370206,"St Joseph Station - light rail station
+",47.24526466,-122.4501901,transit,7199,58980
+Westlake Park,47.61094901,-122.3370206,"Everett Station - train station
+",47.97540941,-122.1975123,driving,1998,45068
+Westlake Park,47.61094901,-122.3370206,"Everett Station - train station
+",47.97540941,-122.1975123,walking,38295,45296
+Westlake Park,47.61094901,-122.3370206,"Everett Station - train station
+",47.97540941,-122.1975123,bicycling,11810,60250
+Westlake Park,47.61094901,-122.3370206,"Everett Station - train station
+",47.97540941,-122.1975123,transit,3276,45173
+Westlake Park,47.61094901,-122.3370206,"Mukilteo Station - train station
+",47.94911402,-122.298984,driving,2176,41860
+Westlake Park,47.61094901,-122.3370206,"Mukilteo Station - train station
+",47.94911402,-122.298984,walking,34579,41051
+Westlake Park,47.61094901,-122.3370206,"Mukilteo Station - train station
+",47.94911402,-122.298984,bicycling,10042,44613
+Westlake Park,47.61094901,-122.3370206,"Mukilteo Station - train station
+",47.94911402,-122.298984,transit,3324,47846
+Westlake Park,47.61094901,-122.3370206,Edmonds Station - train station,47.81105739,-122.3844384,driving,1594,27784
+Westlake Park,47.61094901,-122.3370206,Edmonds Station - train station,47.81105739,-122.3844384,walking,20681,24529
+Westlake Park,47.61094901,-122.3370206,Edmonds Station - train station,47.81105739,-122.3844384,bicycling,6223,26774
+Westlake Park,47.61094901,-122.3370206,Edmonds Station - train station,47.81105739,-122.3844384,transit,2576,30209
+Westlake Park,47.61094901,-122.3370206,King Street Station - train station,47.59768657,-122.329482,driving,456,2117
+Westlake Park,47.61094901,-122.3370206,King Street Station - train station,47.59768657,-122.329482,walking,1399,1681
+Westlake Park,47.61094901,-122.3370206,King Street Station - train station,47.59768657,-122.329482,bicycling,576,1916
+Westlake Park,47.61094901,-122.3370206,King Street Station - train station,47.59768657,-122.329482,transit,516,2114
+Westlake Park,47.61094901,-122.3370206,Tukwila Station - train station,47.46063892,-122.2405656,driving,1221,21369
+Westlake Park,47.61094901,-122.3370206,Tukwila Station - train station,47.46063892,-122.2405656,walking,17366,21156
+Westlake Park,47.61094901,-122.3370206,Tukwila Station - train station,47.46063892,-122.2405656,bicycling,5359,27030
+Westlake Park,47.61094901,-122.3370206,Tukwila Station - train station,47.46063892,-122.2405656,transit,2233,19642
+Westlake Park,47.61094901,-122.3370206,Kent Station  - train station,47.38456169,-122.232946,driving,1762,32437
+Westlake Park,47.61094901,-122.3370206,Kent Station  - train station,47.38456169,-122.232946,walking,24374,29764
+Westlake Park,47.61094901,-122.3370206,Kent Station  - train station,47.38456169,-122.232946,bicycling,6988,35843
+Westlake Park,47.61094901,-122.3370206,Kent Station  - train station,47.38456169,-122.232946,transit,2608,28301
+Westlake Park,47.61094901,-122.3370206,Auburn Station  - train station,47.30652363,-122.2321379,driving,2107,46449
+Westlake Park,47.61094901,-122.3370206,Auburn Station  - train station,47.30652363,-122.2321379,walking,31271,38215
+Westlake Park,47.61094901,-122.3370206,Auburn Station  - train station,47.30652363,-122.2321379,bicycling,8606,44277
+Westlake Park,47.61094901,-122.3370206,Auburn Station  - train station,47.30652363,-122.2321379,transit,3125,36885
+Westlake Park,47.61094901,-122.3370206,Sumner Station  - train station,47.2016326,-122.2445797,driving,2451,55751
+Westlake Park,47.61094901,-122.3370206,Sumner Station  - train station,47.2016326,-122.2445797,walking,41274,50497
+Westlake Park,47.61094901,-122.3370206,Sumner Station  - train station,47.2016326,-122.2445797,bicycling,11309,58913
+Westlake Park,47.61094901,-122.3370206,Sumner Station  - train station,47.2016326,-122.2445797,transit,3736,49083
+Westlake Park,47.61094901,-122.3370206,Puyallup Station  - train station,47.19261992,-122.2955831,driving,2713,58238
+Westlake Park,47.61094901,-122.3370206,Puyallup Station  - train station,47.19261992,-122.2955831,walking,43867,52556
+Westlake Park,47.61094901,-122.3370206,Puyallup Station  - train station,47.19261992,-122.2955831,bicycling,12402,64217
+Westlake Park,47.61094901,-122.3370206,Puyallup Station  - train station,47.19261992,-122.2955831,transit,3884,53509
+Westlake Park,47.61094901,-122.3370206,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,driving,2617,59198
+Westlake Park,47.61094901,-122.3370206,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,walking,48851,58340
+Westlake Park,47.61094901,-122.3370206,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,bicycling,14712,72987
+Westlake Park,47.61094901,-122.3370206,"South Tacoma Station
+ - train station",47.20384207,-122.4855288,transit,4732,73051
+Westlake Park,47.61094901,-122.3370206,Lakewood Station - train station,47.15296989,-122.4993851,driving,2786,65793
+Westlake Park,47.61094901,-122.3370206,Lakewood Station - train station,47.15296989,-122.4993851,walking,54106,64564
+Westlake Park,47.61094901,-122.3370206,Lakewood Station - train station,47.15296989,-122.4993851,bicycling,16649,83739
+Westlake Park,47.61094901,-122.3370206,Lakewood Station - train station,47.15296989,-122.4993851,transit,5448,78853
+Westlake Park,47.61094901,-122.3370206,Benaroya Hall,47.60814199,-122.3368088,driving,236,736
+Westlake Park,47.61094901,-122.3370206,Benaroya Hall,47.60814199,-122.3368088,walking,328,371
+Westlake Park,47.61094901,-122.3370206,Benaroya Hall,47.60814199,-122.3368088,bicycling,121,373
+Westlake Park,47.61094901,-122.3370206,Benaroya Hall,47.60814199,-122.3368088,transit,328,371
