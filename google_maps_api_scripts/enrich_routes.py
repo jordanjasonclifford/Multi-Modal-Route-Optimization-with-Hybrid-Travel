@@ -37,7 +37,7 @@ def getTravelMetrics(A, B, m):
 
 
 # Load prepared CSV
-df = pd.read_csv("westlake_park_routes.csv")
+df = pd.read_csv("benaroya_routes.csv")
 
 # Add placeholders
 durations = []
@@ -61,5 +61,5 @@ df["duration_sec"] = durations
 df["distance_m"] = distances
 
 # Save the enriched data
-df.to_csv("05seattleroutes_westlake.csv", index=False)
-print("Data saved to 05seattleroutes_westlake.csv")
+df.to_csv("06seattleroutes_mohai.csv", index=False)
+print("Data saved to 06seattleroutes_mohai.csv")
