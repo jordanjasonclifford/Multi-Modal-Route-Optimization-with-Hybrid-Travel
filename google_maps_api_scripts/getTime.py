@@ -51,7 +51,14 @@ sodo_station = (47.581165192600594, -122.32736238031688)
 international_fountain = (47.62250232314546, -122.35208589820942)
 chinatown_gate = (47.59835834310235, -122.328023768465)
 seattle_great_wheel = (47.606120881176786, -122.34252171878009)
+u_village = (47.6616727246282, -122.29904419663022)
+cap_hill = (47.619755979512334, -122.32061042657767)
 
+
+print("  Driving distance:", getTime(cap_hill, B, "driving"), "seconds")
+print("  Walking distance:", getTime(cap_hill, B, "walking"), "seconds")
+print("  Bicycling distance:", getTime(cap_hill, B, "bicycling"), "seconds")
+print("  Transit distance:", getTime(cap_hill, B, "transit"), "seconds\n")
 
 fourDestinations = [
     ("The Seattle Great Wheel", (47.606120881176786, -122.34252171878009)),       # A
@@ -66,6 +73,7 @@ nameB, B = fourDestinations[1]
 nameC, C = fourDestinations[2]
 nameD, D = fourDestinations[3]
 
+""""
 # AB
 print(f"AB - {nameA} → {nameB}")
 print("  Driving distance:", getTime(A, B, "driving"), "seconds")
@@ -87,3 +95,4 @@ print("  Walking distance:", getTime(C, D, "walking"), "seconds")
 print("  Bicycling distance:", getTime(C, D, "bicycling"), "seconds")
 print("  Transit distance:", getTime(C, D, "transit"), "seconds\n")
 
+"""
