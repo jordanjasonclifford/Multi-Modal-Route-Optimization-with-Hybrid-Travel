@@ -1,5 +1,6 @@
 import pandas as pd
 from datetime import datetime
+import os
 
 # === Load and Convert Timestamps ===
 timestamps_df = pd.read_csv("UNIX_Timestamps.csv")
@@ -8,24 +9,33 @@ timestamps_df["readable_time"] = timestamps_df["timestamp"].apply(
     lambda x: datetime.utcfromtimestamp(int(x)).strftime('%A %Y-%m-%d %H:%M:%S')
 )
 
-# === Load Enriched Route Files ===
-sn_to_wp_df = pd.read_csv("enriched_routes_by_timestamp_sn_to_wp.csv")
-wp_to_st_df = pd.read_csv("enriched_routes_by_timestamp_wp_to_st.csv")
+# === List of CSVs to Process ===
+route_files = [
+    "enriched_routes_by_timestamp_bh_to_cts.csv",
+    "enriched_routes_by_timestamp_cap_to_saq.csv",
+    "enriched_routes_by_timestamp_cap_to_wfg.csv",
+    "enriched_routes_by_timestamp_cg_to_bh.csv",
+    "enriched_routes_by_timestamp_ppm_to_cap.csv",
+    "enriched_routes_by_timestamp_sam_to_ss.csv",
+    "enriched_routes_by_timestamp_sam_to_whs.csv",
+    "enriched_routes_by_timestamp_sn_to_bh.csv",
+    "enriched_routes_by_timestamp_whs_to_if.csv",
+    "enriched_routes_by_timestamp_wp_to_idcts.csv",
+    "enriched_routes_by_timestamp_wp_to_sft.csv",
+    "enriched_routes_by_timestamp_wp_to_tmp.csv",
+]
 
-# === Merge to Add 'day_time' ===
-sn_to_wp_merged = pd.merge(timestamps_df, sn_to_wp_df, on="timestamp", how="right")
-wp_to_st_merged = pd.merge(timestamps_df, wp_to_st_df, on="timestamp", how="right")
+# === Process Each File ===
+for file in route_files:
+    df = pd.read_csv(file)
+    merged = pd.merge(timestamps_df, df, on="timestamp", how="right")
+    merged.rename(columns={"readable_time": "day_time"}, inplace=True)
 
-sn_to_wp_merged.rename(columns={"readable_time": "day_time"}, inplace=True)
-wp_to_st_merged.rename(columns={"readable_time": "day_time"}, inplace=True)
+    # Reorder to put 'day_time' first
+    ordered_cols = ["day_time"] + [col for col in merged.columns if col != "day_time"]
+    final_df = merged[ordered_cols]
 
-# === Reorder Columns to Put 'day_time' First ===
-sn_to_wp_cols = ["day_time"] + [col for col in sn_to_wp_merged.columns if col != "day_time"]
-wp_to_st_cols = ["day_time"] + [col for col in wp_to_st_merged.columns if col != "day_time"]
-
-sn_to_wp_final = sn_to_wp_merged[sn_to_wp_cols]
-wp_to_st_final = wp_to_st_merged[wp_to_st_cols]
-
-# === Save Final CSVs ===
-sn_to_wp_final.to_csv("enriched_routes_sn_to_wp_with_daytime.csv", index=False)
-wp_to_st_final.to_csv("enriched_routes_wp_to_st_with_daytime.csv", index=False)
+    # Save new file
+    out_filename = file.replace(".csv", "_with_daytime.csv")
+    final_df.to_csv(out_filename, index=False)
+    print(f"✅ Saved: {out_filename}")

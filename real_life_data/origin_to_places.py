@@ -9,10 +9,10 @@ df['lat'] = df['lat'].astype(float)
 df['lng'] = df['lng'].astype(float)
 
 # Define origin
-origin = df[df['Place'] == 'Cal Anderson Park'].iloc[0]
+origin = df[df['Place'] == 'Amazon Corporate Headquarters'].iloc[0]
 
 # Destination: All except origin
-destinations = df[df['Place'] != 'Cal Anderson Park']
+destinations = df[df['Place'] != 'Amazon Corporate Headquarters']
 
 # Modes
 modes = ['driving', 'walking', 'bicycling', 'transit']
@@ -33,5 +33,5 @@ for _, dest in destinations.iterrows():
 
 # Save output
 output_df = pd.DataFrame(rows)
-output_df.to_csv("cal_anderson_park_routes.csv", index=False)
-print("Saved to space_needle_routes.csv")
+output_df.to_csv("calanderson_routes.csv", index=False)
+print("Saved to art_museum_routes.csv")
