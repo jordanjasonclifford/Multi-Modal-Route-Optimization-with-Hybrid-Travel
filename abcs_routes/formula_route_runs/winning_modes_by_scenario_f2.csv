@@ -1,0 +1,1667 @@
+day,time,origin_place,destination_place,mode,score,source_file
+8/10/2025,10:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,10:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,10:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,11:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,11:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,12:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,12:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,13:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,13:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,14:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,14:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,15:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,15:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,16:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,16:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,17:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,17:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,18:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,18:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,19:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,19:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,20:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,20:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,21:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,21:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,22:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,22:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,6:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,6:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,7:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,7:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,8:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,8:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/10/2025,9:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/10/2025,9:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/4/2025,10:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/4/2025,10:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/4/2025,11:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/4/2025,11:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,12:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,12:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,13:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,13:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,14:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,14:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,15:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,15:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,16:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,16:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,17:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,17:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,18:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,18:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,19:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,19:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,20:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,20:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,21:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,21:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,22:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,22:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,6:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,6:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,7:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,7:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/4/2025,8:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/4/2025,8:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/4/2025,9:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/4/2025,9:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/5/2025,10:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/5/2025,10:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/5/2025,11:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/5/2025,11:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,12:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,12:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,13:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,13:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,14:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,14:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,15:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,15:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,16:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,16:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,17:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,17:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,18:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,18:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,19:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,19:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,20:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,20:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,21:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,21:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,22:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,22:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,6:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,6:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,7:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,7:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/5/2025,8:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/5/2025,8:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/5/2025,9:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/5/2025,9:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/6/2025,10:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/6/2025,10:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/6/2025,11:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/6/2025,11:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,12:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,12:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,13:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,13:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,14:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,14:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,15:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,15:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,16:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,16:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,17:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,17:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,18:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,18:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,19:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,19:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,20:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,20:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,21:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,21:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,22:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,22:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,6:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,6:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,7:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,7:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/6/2025,8:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/6/2025,8:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/6/2025,9:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/6/2025,9:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/7/2025,10:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/7/2025,10:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/7/2025,11:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/7/2025,11:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,12:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,12:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,13:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,13:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,14:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,14:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,15:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,15:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,16:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,16:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,17:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,17:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,18:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,18:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,19:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,19:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,20:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,20:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,21:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,21:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,22:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,22:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,6:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,6:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,7:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,7:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/7/2025,8:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/7/2025,8:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/7/2025,9:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/7/2025,9:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/8/2025,10:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/8/2025,10:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/8/2025,11:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/8/2025,11:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,12:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,12:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,13:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,13:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,14:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,14:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,15:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,15:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,16:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,16:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,17:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,17:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,18:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,18:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,19:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,19:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,20:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,20:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,21:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,21:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,22:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,22:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,6:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,6:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,7:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,7:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/8/2025,8:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/8/2025,8:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,611.52,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Cal Anderson Park,Seattle Aquarium,bicycling,844.8000000000001,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Cal Anderson Park,Waterfall Garden,bicycling,834.0,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,646.08,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Pike Place Market,Cal Anderson Park,bicycling,983.04,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,696.48,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Seattle Art Museum,The Westin Seattle,walking,523.44,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Space Needle,Benaroya Hall,bicycling,657.6,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Space Needle,Westlake Park,bicycling,592.8,scored_routes_all_f2_output.csv
+8/8/2025,9:00,The Westin Seattle,International Fountain,bicycling,665.52,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,638.8800000000001,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Westlake Park,Seattle Ferry Terminal,bicycling,695.0400000000001,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Westlake Park,Smith Tower,bicycling,543.84,scored_routes_all_f2_output.csv
+8/8/2025,9:00,Westlake Park,T-Mobile Park,bicycling,737.52,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,10:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,10:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,11:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,11:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,12:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,12:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,13:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,13:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,14:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,14:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,15:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,15:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,16:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,16:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,17:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,17:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,18:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,18:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,19:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,19:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,20:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,20:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,21:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,21:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,22:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,22:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,6:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,6:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,7:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,7:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,8:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,8:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Benaroya Hall,International District/Chinatown Station - light rail station,bicycling,704.4000000000001,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Cal Anderson Park,Seattle Aquarium,bicycling,996.0,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Cal Anderson Park,Waterfall Garden,bicycling,982.5,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Chihuly Garden and Glass,Benaroya Hall,bicycling,747.6,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Pike Place Market,Cal Anderson Park,bicycling,1168.8000000000002,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Seattle Art Museum,Stadium Station - light rail station,bicycling,810.6,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Seattle Art Museum,The Westin Seattle,bicycling,639.6,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Space Needle,Benaroya Hall,bicycling,762.0,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Space Needle,Westlake Park,bicycling,681.0,scored_routes_all_f2_output.csv
+8/9/2025,9:00,The Westin Seattle,International Fountain,bicycling,771.9,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Westlake Park,International District/Chinatown Station - light rail station,bicycling,738.6,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Westlake Park,Seattle Ferry Terminal,bicycling,808.8000000000001,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Westlake Park,Smith Tower,bicycling,619.8,scored_routes_all_f2_output.csv
+8/9/2025,9:00,Westlake Park,T-Mobile Park,bicycling,861.9,scored_routes_all_f2_output.csv
