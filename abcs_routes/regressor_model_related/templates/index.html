@@ -5,71 +5,81 @@
   <title>Travel Time Predictor</title>
   <style>
     body {
-      background: linear-gradient(to bottom right, #f5d7b6, #de8e53);
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: #4b2e18;
-      padding: 40px;
-      text-align: center;
+      font-family: Arial, sans-serif;
+      background: none;
+      padding: 40px 0 0 0; /* Adds space at the top for snipping */
+      margin: 0;
+      color: #000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
 
-    h1 {
-      font-size: 2.5em;
-      margin-bottom: 20px;
-      color: #7a3e1d;
-      text-shadow: 1px 1px 1px #e8c5a0;
+    .header-bar {
+      background-color: #00A3E0;
+      color: white;
+      font-weight: bold;
+      padding: 8px 0;
+      width: 100%;
+      max-width: 320px;
+      text-align: center;
+      font-size: 1.2em;
     }
 
     form {
-      background-color: #fff8f1;
-      padding: 30px;
-      border-radius: 12px;
-      display: inline-block;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+      background-color: white;
+      border: 2px solid #00A3E0;
+      border-radius: 0;
+      padding: 20px;
+      width: 100%;
+      max-width: 320px;
+      box-sizing: border-box;
+      font-size: 1em;
     }
 
     label {
       font-weight: bold;
       display: block;
       margin-top: 12px;
-      color: #6d3b23;
+      color: #333;
     }
 
     input, select {
-      width: 250px;
+      width: 100%;
       padding: 8px;
       margin-top: 4px;
       border: 1px solid #ccc;
-      border-radius: 6px;
+      border-radius: 4px;
       font-size: 1em;
+      box-sizing: border-box;
     }
 
     button {
       margin-top: 20px;
-      background-color: #a84232;
+      background-color: #00A3E0;
       color: white;
-      padding: 10px 20px;
+      padding: 10px 15px;
       font-size: 1em;
       border: none;
-      border-radius: 8px;
+      border-radius: 0;
       cursor: pointer;
-      transition: background-color 0.3s ease;
+      font-weight: bold;
     }
 
     button:hover {
-      background-color: #8b3426;
+      background-color: #008bbd;
     }
 
     .result-bubble {
-      background-color: #fff3e0;
-      color: #5c2d19;
-      margin: 30px auto 0;
-      padding: 20px 40px;
-      border-radius: 16px;
-      text-align: left;
-      width: fit-content;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      font-size: 1.1em;
-      display: inline-block;
+      background-color: #e0f7ff;
+      color: #000;
+      margin-top: 20px;
+      padding: 16px;
+      border: 1px solid #00A3E0;
+      font-size: 1em;
+      width: 100%;
+      max-width: 320px;
+      box-sizing: border-box;
     }
 
     .result-bubble p {
@@ -77,25 +87,25 @@
     }
 
     .result-bubble strong {
-      color: #7a3e1d;
+      color: #000;
     }
   </style>
 </head>
 <body>
-  <h1>Travel Time Predictor</h1>
+  <div class="header-bar">Travel Time Predictor</div>
 
   <form method="post">
     <label>Origin Latitude:</label>
-    <input name="origin_lat" required value="{{ request.form.origin_lat or '' }}"><br>
+    <input name="origin_lat" required value="{{ request.form.origin_lat or '' }}">
 
     <label>Origin Longitude:</label>
-    <input name="origin_lng" required value="{{ request.form.origin_lng or '' }}"><br>
+    <input name="origin_lng" required value="{{ request.form.origin_lng or '' }}">
 
     <label>Destination Latitude:</label>
-    <input name="destination_lat" required value="{{ request.form.destination_lat or '' }}"><br>
+    <input name="destination_lat" required value="{{ request.form.destination_lat or '' }}">
 
     <label>Destination Longitude:</label>
-    <input name="destination_lng" required value="{{ request.form.destination_lng or '' }}"><br>
+    <input name="destination_lng" required value="{{ request.form.destination_lng or '' }}">
 
     <label>Mode:</label>
     <select name="mode">
@@ -103,13 +113,13 @@
       <option value="bicycling" {% if request.form.mode == 'bicycling' %}selected{% endif %}>Bicycling</option>
       <option value="transit" {% if request.form.mode == 'transit' %}selected{% endif %}>Transit</option>
       <option value="walking" {% if request.form.mode == 'walking' %}selected{% endif %}>Walking</option>
-    </select><br>
+    </select>
 
     <label>Hour (6–22):</label>
-    <input name="hour" type="number" min="6" max="22" required value="{{ request.form.hour or '' }}"><br>
+    <input name="hour" type="number" min="6" max="22" required value="{{ request.form.hour or '' }}">
 
     <label>Day (0=Mon to 6=Sun):</label>
-    <input name="day" type="number" min="0" max="6" required value="{{ request.form.day or '' }}"><br>
+    <input name="day" type="number" min="0" max="6" required value="{{ request.form.day or '' }}">
 
     <button type="submit">Predict</button>
   </form>
