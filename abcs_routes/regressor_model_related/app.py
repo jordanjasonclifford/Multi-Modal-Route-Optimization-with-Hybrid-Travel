@@ -18,7 +18,7 @@ emission_factors = {
 }
 
 # Scoring function from RouteScoring_REU2025.ipynb
-def route_score(t, e, T=1800, E=1000, a=15, b=1, alpha=0.04, beta=0.015):
+def route_score(t, e, T=1800, E=1000, a=15, b=2.5, alpha=0.04, beta=0.015):
     t_ratio = t / T
     e_ratio = e / E
     penalty_t = alpha * max(0, t - T)
@@ -58,34 +58,60 @@ def home():
     result = None
     emissions = None
     score = None
+    mode = None  # Needed to avoid "undefined" errors in template
 
     if request.method == 'POST':
         try:
-            origin = (float(request.form['origin_lat']), float(request.form['origin_lng']))
-            destination = (float(request.form['destination_lat']), float(request.form['destination_lng']))
-            mode = request.form['mode']
+            origin_str = request.form['origin']
+            destination_str = request.form['destination']
+            origin = tuple(map(float, origin_str.split(',')))
+            destination = tuple(map(float, destination_str.split(',')))
+
             hour = int(request.form['hour'])
             day = int(request.form['day'])
+            action = request.form['action']
 
-            sample = build_sample_geo(origin, destination, mode, hour, day)
-            predicted_time = model.predict(sample)[0]
+            if action == 'predict':
+                mode = request.form['mode']
+                sample = build_sample_geo(origin, destination, mode, hour, day)
+                predicted_time = model.predict(sample)[0]
+                distance = sample.iloc[0]['geo_distance']
+                emission = emission_factors.get(mode, 0) * distance
+                score_value = route_score(predicted_time, emission)
 
-            # Calculate emissions
-            distance = sample.iloc[0]['geo_distance']
-            emission = emission_factors.get(mode, 0) * distance
+                result = round(predicted_time, 2)
+                emissions = round(emission, 2)
+                score = round(score_value, 2)
 
-            # Calculate score
-            score_value = route_score(predicted_time, emission)
+            elif action == 'best':
+                best_mode = None
+                best_score = float('inf')
+                best_result = None
+                best_emission = None
 
-            # Round for display
-            result = round(predicted_time, 2)
-            emissions = round(emission, 2)
-            score = round(score_value, 2)
+                for test_mode in ['driving', 'bicycling', 'transit', 'walking']:
+                    sample = build_sample_geo(origin, destination, test_mode, hour, day)
+                    predicted_time = model.predict(sample)[0]
+                    distance = sample.iloc[0]['geo_distance']
+                    emission = emission_factors.get(test_mode, 0) * distance
+                    score_value = route_score(predicted_time, emission)
+
+                    if score_value < best_score:
+                        best_score = score_value
+                        best_mode = test_mode
+                        best_result = predicted_time
+                        best_emission = emission
+
+                result = round(best_result, 2)
+                emissions = round(best_emission, 2)
+                score = round(best_score, 2)
+                mode = best_mode  # only defined in 'best' mode block
 
         except Exception as e:
             result = f"Error: {e}"
 
-    return render_template('index.html', result=result, emissions=emissions, score=score)
+    return render_template('index.html', result=result, emissions=emissions, score=score, mode=mode)
+
 
 # API route for prediction
 @app.route('/predict', methods=['GET', 'POST'])

@@ -11,16 +11,8 @@ timestamps_df["readable_time"] = timestamps_df["timestamp"].apply(
 
 # === List of CSVs to Process ===
 route_files = [
-    "enriched_routes_by_timestamp_bh_to_sft.csv",
-    "enriched_routes_by_timestamp_bh_to_st.csv",
-    "enriched_routes_by_timestamp_cap_to_bh.csv",
-    "enriched_routes_by_timestamp_cap_to_st.csv",
-    "enriched_routes_by_timestamp_sam_to_bts.csv",
-    "enriched_routes_by_timestamp_sam_to_scc.csv",
-    "enriched_routes_by_timestamp_sn_to_ppm.csv",
-    "enriched_routes_by_timestamp_sn_to_sam.csv",
-    "enriched_routes_by_timestamp_whs_to_sn.csv",
-    "enriched_routes_by_timestamp_whs_to_tp.csv"
+    "new_train_combined_routes.csv"
+
 ]
 
 # === Process Each File ===

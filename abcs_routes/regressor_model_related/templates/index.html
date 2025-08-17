@@ -95,41 +95,52 @@
   <div class="header-bar">Travel Time Predictor</div>
 
   <form method="post">
-    <label>Origin Latitude:</label>
-    <input name="origin_lat" required value="{{ request.form.origin_lat or '' }}">
+  <label>Origin Coordinates (lat,lng):</label>
+  <input name="origin" placeholder="e.g. 47.6062,-122.3321" required value="{{ request.form.origin or '' }}">
 
-    <label>Origin Longitude:</label>
-    <input name="origin_lng" required value="{{ request.form.origin_lng or '' }}">
+  <label>Destination Coordinates (lat,lng):</label>
+  <input name="destination" placeholder="e.g. 47.6205,-122.3493" required value="{{ request.form.destination or '' }}">
 
-    <label>Destination Latitude:</label>
-    <input name="destination_lat" required value="{{ request.form.destination_lat or '' }}">
+  <label>Mode:</label>
+  <select name="mode">
+    <option value="driving" {% if request.form.mode == 'driving' %}selected{% endif %}>Driving</option>
+    <option value="bicycling" {% if request.form.mode == 'bicycling' %}selected{% endif %}>Bicycling</option>
+    <option value="transit" {% if request.form.mode == 'transit' %}selected{% endif %}>Transit</option>
+    <option value="walking" {% if request.form.mode == 'walking' %}selected{% endif %}>Walking</option>
+  </select>
 
-    <label>Destination Longitude:</label>
-    <input name="destination_lng" required value="{{ request.form.destination_lng or '' }}">
+  <label>Hour (6–22):</label>
+  <input name="hour" type="number" min="6" max="22" required value="{{ request.form.hour or '' }}">
 
-    <label>Mode:</label>
-    <select name="mode">
-      <option value="driving" {% if request.form.mode == 'driving' %}selected{% endif %}>Driving</option>
-      <option value="bicycling" {% if request.form.mode == 'bicycling' %}selected{% endif %}>Bicycling</option>
-      <option value="transit" {% if request.form.mode == 'transit' %}selected{% endif %}>Transit</option>
-      <option value="walking" {% if request.form.mode == 'walking' %}selected{% endif %}>Walking</option>
-    </select>
+  <label>Day of the Week:</label>
+  <select name="day">
+    <option value="0" {% if request.form.day == '0' %}selected{% endif %}>Monday</option>
+    <option value="1" {% if request.form.day == '1' %}selected{% endif %}>Tuesday</option>
+    <option value="2" {% if request.form.day == '2' %}selected{% endif %}>Wednesday</option>
+    <option value="3" {% if request.form.day == '3' %}selected{% endif %}>Thursday</option>
+    <option value="4" {% if request.form.day == '4' %}selected{% endif %}>Friday</option>
+    <option value="5" {% if request.form.day == '5' %}selected{% endif %}>Saturday</option>
+    <option value="6" {% if request.form.day == '6' %}selected{% endif %}>Sunday</option>
+  </select>
 
-    <label>Hour (6–22):</label>
-    <input name="hour" type="number" min="6" max="22" required value="{{ request.form.hour or '' }}">
+  <button type="submit" name="action" value="predict">Predict</button>
+  <button type="submit" name="action" value="best">Best Mode</button>
 
-    <label>Day (0=Mon to 6=Sun):</label>
-    <input name="day" type="number" min="0" max="6" required value="{{ request.form.day or '' }}">
 
-    <button type="submit">Predict</button>
-  </form>
+</form>
+
 
   {% if result %}
   <div class="result-bubble">
+    {% if request.form.action == 'best' and mode %}
+      <p><strong>Recommended Mode:</strong> {{ mode|capitalize }}</p>
+    {% endif %}
     <p><strong>Predicted Travel Time:</strong> {{ result }} seconds</p>
     <p><strong>Estimated Emissions:</strong> {{ emissions }} g CO₂</p>
     <p><strong>Route Score:</strong> {{ score }}</p>
   </div>
   {% endif %}
+
+
 </body>
 </html>
