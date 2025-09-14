@@ -2,9 +2,9 @@ import requests
 import time
 
 
-api_key = "AIzaSyBUsvoSqx1ru5MF5F9HCnYwOMgSVSdoBQo"
-origin = "10788+Rivendell+Ave+Las+Vegas+NV+89135"
-destination = "11330+Westbrook+Mill+Ln+Fairfax+VA+22030"
+api_key = ""
+origin = ""
+destination = ""
 departure_time = int(time.time()) + 3600  # Current time + 1 hour (in seconds)
 
 
