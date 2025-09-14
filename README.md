@@ -5,7 +5,8 @@ Visiting UNLV for their Smart Cities 2025 REU Program
 Under the guidance of Professor Grzegorz Chmaj
 
 This REU Project tackles Multi-Modal Routing through 
-a dense, walkable, transit-friendly city environment, in which Seattle was chosen
+a dense, walkable, transit-friendly city environment, in which Seattle was chosen.
+See the final poster file to get a broad look over the project.
 
 ------------------------------------------
 abc_routes - the 'final' selected routes that will be used for the ML model
