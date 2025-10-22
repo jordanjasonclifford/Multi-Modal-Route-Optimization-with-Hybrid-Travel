@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Travel Time Predictor</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: none; padding: 40px 0 0 0; margin: 0; color: #000; display: flex; flex-direction: column; align-items: center; }
+    .header-bar { background-color: #00A3E0; color: white; font-weight: bold; padding: 8px 0; width: 100%; max-width: 360px; text-align: center; font-size: 1.2em; }
+    form { background-color: white; border: 2px solid #00A3E0; border-radius: 0; padding: 20px; width: 100%; max-width: 360px; box-sizing: border-box; font-size: 1em; }
+    label { font-weight: bold; display: block; margin-top: 12px; color: #333; }
+    input, select { width: 100%; padding: 8px; margin-top: 4px; border: 1px solid #ccc; border-radius: 4px; font-size: 1em; box-sizing: border-box; }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    button { background-color: #00A3E0; color: white; padding: 10px 15px; font-size: 1em; border: none; border-radius: 0; cursor: pointer; font-weight: bold; width: 100%; }
+    button:hover { background-color: #008bbd; }
+    .buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 12px; }
+    .result-bubble, .error-bubble { margin-top: 20px; padding: 16px; width: 100%; max-width: 360px; box-sizing: border-box; font-size: 0.98em; }
+    .result-bubble { background-color: #e0f7ff; color: #000; border: 1px solid #00A3E0; }
+    .error-bubble { background-color: #ffecec; color: #900; border: 1px solid #d33; }
+    .subtle { color: #333; font-weight: normal; }
+    .mono { font-family: Consolas, monospace; }
+  </style>
+</head>
+<body>
+  <div class="header-bar">Travel Time Predictor</div>
+
+  <form method="post">
+    <label>Place A (Origin) — Coordinates (lat,lng):</label>
+    <input name="coord_a" placeholder="e.g. 47.6062,-122.3321" required value="{{ request.form.coord_a or '' }}">
+
+    <label>Place B — Coordinates (lat,lng):</label>
+    <input name="coord_b" placeholder="e.g. 47.6205,-122.3493" required value="{{ request.form.coord_b or '' }}">
+
+    <label>Place C (End) — Coordinates (lat,lng):</label>
+    <input name="coord_c" placeholder="e.g. 47.6396,-122.3030" required value="{{ request.form.coord_c or '' }}">
+
+    <label>Mode (used for both legs in “Predict”):</label>
+    <select name="mode">
+      <option value="driving"  {% if request.form.mode == 'driving' %}selected{% endif %}>Driving</option>
+      <option value="bicycling" {% if request.form.mode == 'bicycling' %}selected{% endif %}>Bicycling</option>
+      <option value="transit"  {% if request.form.mode == 'transit' %}selected{% endif %}>Transit</option>
+      <option value="walking"  {% if request.form.mode == 'walking' %}selected{% endif %}>Walking</option>
+    </select>
+
+    <div class="row">
+      <div>
+        <label>Hour (6–22):</label>
+        <input name="hour" type="number" min="6" max="22" required value="{{ request.form.hour or '' }}">
+      </div>
+      <div>
+        <label>Day of Week:</label>
+        <select name="day">
+          <option value="0" {% if request.form.day == '0' %}selected{% endif %}>Monday</option>
+          <option value="1" {% if request.form.day == '1' %}selected{% endif %}>Tuesday</option>
+          <option value="2" {% if request.form.day == '2' %}selected{% endif %}>Wednesday</option>
+          <option value="3" {% if request.form.day == '3' %}selected{% endif %}>Thursday</option>
+          <option value="4" {% if request.form.day == '4' %}selected{% endif %}>Friday</option>
+          <option value="5" {% if request.form.day == '5' %}selected{% endif %}>Saturday</option>
+          <option value="6" {% if request.form.day == '6' %}selected{% endif %}>Sunday</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="buttons">
+      <button type="submit" name="action" value="predict">Predict</button>
+      <button type="submit" name="action" value="best_mixed">Best Modes (Per Leg)</button>
+    </div>
+  </form>
+
+  {% if error %}
+    <div class="error-bubble"><strong>Error:</strong> <span class="mono">{{ error }}</span></div>
+  {% endif %}
+
+  {% if result_total %}
+    <div class="result-bubble">
+      {% if request.form.action == 'predict' and mode %}
+        <p><strong>Selected Mode (A→B→C):</strong> {{ mode|capitalize }}</p>
+      {% elif request.form.action == 'best_mixed' and (leg1_mode or leg2_mode) %}
+        <p><strong>Recommended Modes:</strong> A→B: <strong>{{ leg1_mode|capitalize }}</strong>, B→C: <strong>{{ leg2_mode|capitalize }}</strong></p>
+      {% endif %}
+
+      {% if leg1 and leg2 %}
+        <p><strong>Leg A→B</strong>
+          {% if leg1_mode %}<span class="subtle">({{ leg1_mode|capitalize }})</span>{% endif %}
+          <span class="subtle">— distance {{ leg1.distance_m }} m</span>
+        </p>
+        <p class="mono">Time: {{ leg1.time }} s | Emissions: {{ leg1.emission }} g CO₂ | Score: {{ leg1.score }}</p>
+
+        <p><strong>Leg B→C</strong>
+          {% if leg2_mode %}<span class="subtle">({{ leg2_mode|capitalize }})</span>{% endif %}
+          <span class="subtle">— distance {{ leg2.distance_m }} m</span>
+        </p>
+        <p class="mono">Time: {{ leg2.time }} s | Emissions: {{ leg2.emission }} g CO₂ | Score: {{ leg2.score }}</p>
+      {% endif %}
+
+      <hr>
+      <p><strong>Total Predicted Time:</strong> {{ result_total }} seconds</p>
+      <p><strong>Total Estimated Emissions:</strong> {{ emissions_total }} g CO₂</p>
+      <p><strong>Total Route Score:</strong> {{ score_total }}</p>
+    </div>
+  {% endif %}
+</body>
+</html>

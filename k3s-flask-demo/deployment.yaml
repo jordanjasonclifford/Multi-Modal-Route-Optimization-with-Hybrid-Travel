@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: reu-flask
+  labels:
+    app: reu-flask
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: reu-flask
+  template:
+    metadata:
+      labels:
+        app: reu-flask
+    spec:
+      containers:
+      - name: reu-flask
+        image: reu-flask:latest
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 5000
