@@ -10,7 +10,7 @@ def getTravelMetrics(A, B, m):
     m: mode of transport (driving, walking, bicycling, transit)
     Returns: (duration_in_seconds, distance_in_meters)
     """
-    API_KEY = "AIzaSyBUsvoSqx1ru5MF5F9HCnYwOMgSVSdoBQo"
+    API_KEY = ""
     base_url = "https://maps.googleapis.com/maps/api/distancematrix/json"
 
     params = {

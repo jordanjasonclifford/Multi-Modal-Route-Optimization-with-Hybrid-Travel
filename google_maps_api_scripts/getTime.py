@@ -5,7 +5,7 @@ import json
 def getTime(A, B, m):
 
 
-    API_KEY = "AIzaSyBUsvoSqx1ru5MF5F9HCnYwOMgSVSdoBQo"
+    API_KEY = ""
     base_url = "https://maps.googleapis.com/maps/api/distancematrix/json"
 
 
