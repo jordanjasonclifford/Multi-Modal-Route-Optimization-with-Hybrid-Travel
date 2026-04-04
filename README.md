@@ -1,22 +1,70 @@
-Jordan Clifford 
-ASU Student 
+# Multi-Modal Route Optimization with Hybrid Travel
 
-Visiting UNLV for their Smart Cities 2025 REU Program
-Under the guidance of Professor Grzegorz Chmaj
+**Jordan Clifford** — ASU Student  
+Visiting UNLV for the Smart Cities 2025 REU Program  
+Under the guidance of Professor Grzegorz Chmaj & Professor Henry Salvaraj
 
-This REU Project tackles Multi-Modal Routing through 
-a dense, walkable, transit-friendly city environment, in which Seattle was chosen.
-See the final poster file to get a broad look over the project.
+This REU project tackles multi-modal routing through a dense, walkable, transit-friendly city environment — Seattle was chosen as the target city. A machine learning model predicts travel time across four transport modes (driving, transit, bicycling, walking) and scores routes based on time and emissions to recommend the optimal mode per leg.
 
-------------------------------------------
-abc_routes - the 'final' selected routes that will be used for the ML model
+See the final poster (`JordanClifford_REU2025_POSTER.pdf`) for a broad overview of the project.
 
-colab_notebooks - before any real-world data was collected, synthetic data was utilized through 'trainingtestset_set' Excel file; with the notebooks in there to be modeled through ML
+---
 
-google_maps_api_scripts - a somewhat unorganized mess right now, but as this project heavily relies on the Google Maps API to collect route durations, this folder contains those scripts along with the necessary CSV files amongst them
+## Running the App (Streamlit)
 
-objectives - continuously updated, go over the problem definition of the project and the 'tracker', of the steps taken so far
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/Multi-Modal-Route-Optimization-with-Hybrid-Travel.git
+cd Multi-Modal-Route-Optimization-with-Hybrid-Travel
+```
 
-papers_to_cite - all necessary papers found during research that relate to what's present in this project
+### 2. Create and activate a virtual environment
+```bash
+# Windows
+python -m venv venv
+venv\Scripts\activate
 
-real_life_data - All of the points of interest are present here; this was used to build off the 'google_maps_api_scripts' and 'ABCs_(Routes)' folders
+# macOS / Linux
+python -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+```bash
+pip install streamlit pandas scikit-learn geopy joblib
+```
+
+### 4. Run the app
+```bash
+cd model
+python -m streamlit run streamlit_app.py
+```
+
+Then open `http://localhost:8501` in your browser.
+
+> **Note:** The model was trained on Seattle, WA route data. Predictions are most accurate for Seattle-area inputs. Try addresses like `"Space Needle, Seattle"` or `"Pike Place Market, Seattle"` to get started.
+
+---
+
+## Input Modes
+
+The app supports three ways to define a route (A → B → C):
+
+| Mode | Description |
+|------|-------------|
+| **Address** | Type place names — geocoded automatically, no coordinates needed |
+| **Distance** | Enter distances in km or miles per leg directly |
+| **Coordinates** | Raw `lat, lng` pairs for precise control |
+
+---
+
+## Project Structure
+
+| Folder | Description |
+|--------|-------------|
+| `model/` | Trained ML model, Streamlit app, and Flask app |
+| `abcs_routes/` | Final selected routes used to train the model |
+| `colab_notebooks/` | Early synthetic data experiments and ML notebooks |
+| `google_maps_api_scripts/` | Scripts used to collect real-world route durations via Google Maps API |
+| `real_life_data/` | Points of interest used to build the route network |
+| `papers_to_cite/` | Research papers referenced during the project |
