@@ -32,7 +32,7 @@ source venv/bin/activate
 
 ### 3. Install dependencies
 ```bash
-pip install streamlit Flask pandas scikit-learn geopy joblib
+pip install -r model/requirements.txt
 ```
 
 ### 4. Run the app
@@ -41,7 +41,7 @@ cd model
 python -m streamlit run streamlit_app.py
 ```
 
-Then open `http://localhost:8501` in your browser.
+Then open the localhost server (example: `http://localhost:8501`) in your browser.
 
 > **Note:** The model was trained on Seattle, WA route data. Predictions are most accurate for Seattle-area inputs. Try addresses like `"Space Needle, Seattle"` or `"Pike Place Market, Seattle"` to get started.
 
