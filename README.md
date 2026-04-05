@@ -11,6 +11,12 @@ See the final poster (`JordanClifford_REU2025_POSTER.pdf`) for a broad overview 
 
 ---
 
+## Live Demo
+
+**[Try the app here](https://multi-modal-routing-unlv-smartcities.streamlit.app/)** — no setup required.
+
+---
+
 ## Running the App (Streamlit)
 
 ### 1. Clone the repo
