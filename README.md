@@ -5,6 +5,8 @@
 Visiting UNLV for the Smart Cities 2025 REU Program (June 2025 - August 2025)
 Under the guidance of Professor Grzegorz Chmaj & Professor Henry Salvaraj
 
+**[Visit the UNLV Smart Cities Site here](https://smartcities.sites.unlv.edu/)**
+
 This REU project tackles multi-modal routing through a dense, walkable, transit-friendly city environment, Seattle was chosen as the target city. A machine learning model predicts travel time across four transport modes (driving, transit, bicycling, walking) and scores routes based on time and emissions to recommend the optimal mode per leg.
 
 See the final poster (`JordanClifford_REU2025_POSTER.pdf`) for a broad overview of the project.
