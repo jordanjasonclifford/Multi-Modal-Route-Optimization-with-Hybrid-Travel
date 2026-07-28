@@ -133,6 +133,11 @@ def fmt_time(seconds: float) -> str:
 def fmt_dist(meters: float) -> str:
     return f"{meters/1000:.2f} km" if meters >= 1000 else f"{meters:.0f} m"
 
+def fmt_hour_label(hour: int) -> str:
+    suffix = "AM" if hour < 12 else "PM"
+    display_hour = hour % 12 or 12
+    return f"{display_hour} {suffix}"
+
 def same_location(first, second, tolerance_m=25):
     return geodesic(first, second).meters <= tolerance_m
 
@@ -214,7 +219,12 @@ st.divider()
 # ── Time & mode settings ───────────────────────────────────────────────────────
 col_t, col_d, col_m = st.columns(3)
 with col_t:
-    hour = st.slider("Hour of day", min_value=6, max_value=22, value=9, format="%d:00")
+    hour = st.select_slider(
+        "Hour of day",
+        options=list(range(6, 23)),
+        value=9,
+        format_func=fmt_hour_label,
+    )
 with col_d:
     day_label = st.selectbox("Day of week", DAYS)
     day = DAYS.index(day_label)
