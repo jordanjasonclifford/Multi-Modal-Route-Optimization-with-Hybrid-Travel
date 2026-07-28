@@ -9,7 +9,7 @@ from geopy.geocoders import Nominatim
 st.set_page_config(
     page_title="Multi-Modal Route Optimizer",
     page_icon="🗺️",
-    layout="centered",
+    layout="wide",
 )
 
 # ── Load model ─────────────────────────────────────────────────────────────────
@@ -28,6 +28,23 @@ EMISSION_FACTORS = {"driving": 0.192, "transit": 0.105, "bicycling": 0.0, "walki
 MODE_ICONS       = {"driving": "🚗", "transit": "🚌", "bicycling": "🚴", "walking": "🚶"}
 DAYS             = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 SEATTLE_CENTER   = (47.6062, -122.3321)   # fallback reference for distance-only mode
+ADDRESS_EXAMPLES = [
+    {"Place": "Space Needle", "Address": "400 Broad St, Seattle, WA 98109"},
+    {"Place": "Pike Place Market", "Address": "85 Pike St, Seattle, WA 98101"},
+    {"Place": "Seattle Art Museum", "Address": "1300 1st Ave, Seattle, WA 98101"},
+    {"Place": "The Seattle Great Wheel", "Address": "1301 Alaskan Wy, Seattle, WA 98101"},
+    {"Place": "Museum of Pop Culture", "Address": "325 5th Ave N, Seattle, WA 98109"},
+    {"Place": "The Westin Seattle", "Address": "1900 5th Ave, Seattle, WA 98101"},
+    {"Place": "Smith Tower", "Address": "506 2nd Ave, Seattle, WA 98104"},
+    {"Place": "Seattle Aquarium", "Address": "1483 Alaskan Way Pier 59, Seattle, WA 98101"},
+    {"Place": "Olympic Sculpture Park", "Address": "2901 Western Ave, Seattle, WA 98121"},
+    {"Place": "Museum of History and Industry", "Address": "860 Terry Ave N, Seattle, WA 98109"},
+    {"Place": "Amazon Corporate Headquarters", "Address": "440 Terry Ave N, Seattle, WA 98109"},
+    {"Place": "Jimi Hendrix Statue", "Address": "1604 Broadway, Seattle, WA 98122"},
+    {"Place": "Centennial Park", "Address": "2711 Alaskan Way W, Seattle, WA 98119"},
+    {"Place": "T-Mobile Park", "Address": "1250 1st Ave S, Seattle, WA 98134"},
+    {"Place": "Volunteer Park", "Address": "1247 15th Ave E, Seattle, WA 98112"},
+]
 
 # ── Geocoder ───────────────────────────────────────────────────────────────────
 @st.cache_data(show_spinner=False)
@@ -116,6 +133,9 @@ def fmt_time(seconds: float) -> str:
 def fmt_dist(meters: float) -> str:
     return f"{meters/1000:.2f} km" if meters >= 1000 else f"{meters:.0f} m"
 
+def same_location(first, second, tolerance_m=25):
+    return geodesic(first, second).meters <= tolerance_m
+
 def render_leg(label: str, leg: dict, mode: str):
     icon = MODE_ICONS.get(mode, "")
     st.markdown(f"**{label}** &nbsp; {icon} {mode.capitalize()}")
@@ -129,7 +149,9 @@ def render_leg(label: str, leg: dict, mode: str):
 st.title("🗺️ Multi-Modal Route Optimizer")
 st.caption(
     "Predict travel time and emissions for a two-leg journey (A → B → C) "
-    "and find the best transport mode per leg."
+    "and find the best transport mode per leg. This project explores how route planning can move "
+    "beyond single-mode directions by comparing driving, transit, bicycling, and walking across "
+    "Seattle trips, balancing speed with estimated environmental impact."
 )
 st.info(
     "**Note:** This model was trained on real-world route data collected across the Seattle, WA metro area. "
@@ -151,11 +173,18 @@ st.write("")  # small spacer
 if input_mode == "📍 Address":
     col_a, col_b, col_c = st.columns(3)
     with col_a:
-        addr_a = st.text_input("Place A — Origin",      placeholder="Space Needle, Seattle")
+        addr_a = st.text_input("Place A — Origin", value="Space Needle, Seattle")
     with col_b:
-        addr_b = st.text_input("Place B — Waypoint",    placeholder="Pike Place Market")
+        addr_b = st.text_input("Place B — Waypoint", value="Pike Place Market, Seattle")
     with col_c:
-        addr_c = st.text_input("Place C — Destination", placeholder="Capitol Hill, Seattle")
+        addr_c = st.text_input("Place C — Destination", value="Seattle Art Museum, Seattle")
+    with st.expander("Seattle places that work well", expanded=True):
+        st.markdown("These places come from the route data used to train the model, but you can also try other Seattle-area addresses. Use any address as Place A, Place B, or Place C. **Copying the full address is more reliable than using only the place name.**")
+        st.dataframe(
+            pd.DataFrame(ADDRESS_EXAMPLES),
+            hide_index=True,
+            use_container_width=True,
+        )
 
 # ── Distance inputs ────────────────────────────────────────────────────────────
 elif input_mode == "📏 Distance":
@@ -212,7 +241,13 @@ if run_predict or run_best:
                 C = geocode(addr_c)
             missing = [n for n, v in zip(["A", "B", "C"], [A, B, C]) if v is None]
             if missing:
-                st.error(f"Could not geocode: {', '.join(missing)}. Try a more specific address.")
+                st.error(f"Could not geocode: {', '.join(missing)}. Try a more specific address or check the spelling.")
+                st.stop()
+            if same_location(A, B):
+                st.error("Place A and Place B resolve to the same location. Choose two different places for the first leg.")
+                st.stop()
+            if same_location(B, C):
+                st.error("Place B and Place C resolve to the same location. Choose two different places for the second leg.")
                 st.stop()
             use_geo = True
 
@@ -220,12 +255,24 @@ if run_predict or run_best:
             to_m = lambda v, u: v * 1000 if u == "km" else v * 1609.34
             dist_ab_m = to_m(dist_ab_val, dist_ab_unit)
             dist_bc_m = to_m(dist_bc_val, dist_bc_unit)
+            if dist_ab_m <= 25:
+                st.error("Leg A -> B is too short to predict reliably. Enter a larger distance.")
+                st.stop()
+            if dist_bc_m <= 25:
+                st.error("Leg B -> C is too short to predict reliably. Enter a larger distance.")
+                st.stop()
             use_geo = False
 
         else:  # Coordinates
             A = tuple(map(float, coord_a.split(",")))
             B = tuple(map(float, coord_b.split(",")))
             C = tuple(map(float, coord_c.split(",")))
+            if same_location(A, B):
+                st.error("Place A and Place B are the same location. Choose two different coordinates for the first leg.")
+                st.stop()
+            if same_location(B, C):
+                st.error("Place B and Place C are the same location. Choose two different coordinates for the second leg.")
+                st.stop()
             use_geo = True
 
         st.divider()
